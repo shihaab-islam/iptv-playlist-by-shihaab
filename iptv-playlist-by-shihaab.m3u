@@ -243,8 +243,11 @@ https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png",Zee TV HD
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
-http://172.22.254.40:8088/401/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus HD
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus SD
+https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/de456a2b-b6f5-4afe-a222-5d2d6e885526/0.m3u8
