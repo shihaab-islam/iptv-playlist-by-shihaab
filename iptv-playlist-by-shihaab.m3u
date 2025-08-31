@@ -183,13 +183,14 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Wbkn7K32/Akash-Aath.jpg",Akash Aath
-http://38.96.178.201/live/AkashAath/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
+https://live.dinesh29.com.np/stream/jiotvplus/aakashaath/master.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhXal2hIMCw5WoB09VV4pobahnbUVBoblj6DEiRaA75rwhcKaRAq8HVIk&s=10",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7d/Tara_TV_logo_%282013%29.png/revision/latest?cb=20210426094603",Tara TV
+https://live.dinesh29.com.np/stream/jiotvplus/taratv/master.m3u8
 
 
 
@@ -268,17 +269,31 @@ https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/de456a2b-b6f5-4afe-a222-5d2d6e885526/0.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/da/Sangeet_Bangla_logo_2006.png/revision/latest?cb=20210508022134",Sangeet Bangla
-http://172.22.254.40:8088/702/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
+https://live.dinesh29.com.np/stream/jiotv/sangeetbangla/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png",Music India
+https://live.dinesh29.com.np/stream/jiotvplus/musicindia/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png",MTV
+https://live.dinesh29.com.np/stream/jiotvplus/mtv/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="hhttps://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",9XM
+https://live.dinesh29.com.np/stream/jiotv/9xm/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",Disney India SD
-https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/stream_0.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",Disney India
+https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png",Disney International HD
+https://live.dinesh29.com.np/stream/jiotvplus/disneyintermnationalhd/master.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Jr
+https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s",Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
@@ -286,26 +301,29 @@ https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworkhindi/master.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
+https://live.dinesh29.com.np/stream/jiotvplus/cnhd+english/master.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png",Sonic
 https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png",Disney HD International
-https://tatatv.stevosure123.workers.dev/video.m3u8?id=25869
+#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick Bangla
+https://live.dinesh29.com.np/stream/jiotvplus/nickbangla/master.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
+https://live.dinesh29.com.np/stream/jiotvplus/nickhd+/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/215px-Discovery_Kids_Logo_%282021%29.webp.png",Discovery Kids
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=58157
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwwYJA8VIr-r_iPkPeF_EFR-XUGChy_25s6XDYjgLdY9C0jgktUZmosSm&s=10",Disney Junior
-http://172.22.254.40:8088/602/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV 
 https://tvsen5.aynaott.com/durontotv/index.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",Animax
+https://live.dinesh29.com.np/stream/jiotvplus/animax/master.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZiQgEMhnm85YEA3moaE9J_mHnNIGV2oa1iVi85UJOqMZc869QjLjzdfs&s=10",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick Jr.
-http://172.22.254.40:8088/601/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/Al23vKkkhMd04Y3R29Qsn9aOy14rxNPlNzXWDoZDtGvzEk1fwu7nAZmMqLmtx_Y5oXKSNrQr=s900-c-k-c0x00ffffff-no-rj",Sony YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
@@ -324,6 +342,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJI29ozcZu1loagP0lJMa_fg3exl8cSbPqN7LNHeDy2gmy7s0MthjZLXx&s=10",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+
 
 
 
@@ -368,8 +387,8 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxNJv2VZi-1i_dxUnUkpltCWppw3uzcFHlyqj6ilGPg3km0V8aJWKpD8AF&s=10",Discovery
-http://172.22.254.40:8088/801/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Bengali
+https://live.dinesh29.com.np/stream/jiotv/discoverybengali/master.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
@@ -393,7 +412,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/animalplanethdworld/master.m3u8
 
 
 
-
+#EXTINF:-1 group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png",DW
+https://live.dinesh29.com.np/stream/jiotvplus/dw/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aaj_Tak_logo.svg/1200px-Aaj_Tak_logo.svg.png",Aaj Tak HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -455,17 +475,20 @@ http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports 1 HD 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports 1 HD 
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
 
-#EXTINF:-1 group-title="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png",Star Sports 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png",Star Sports 2 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
 
-#EXTINF:-1 group-title="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 
-#EXTINF:-1 group-title="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select 2 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png",Euro Sports HD
+https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports HD
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
@@ -476,10 +499,10 @@ https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 3 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-4-HD.jpg",Sony Sports 3 HD
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 4 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-4-HD.jpg",Sony Sports 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
