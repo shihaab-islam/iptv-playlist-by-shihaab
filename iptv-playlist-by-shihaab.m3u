@@ -151,7 +151,7 @@ http://172.22.254.40:8088/301/tracks-v1a1/mono.m3u8
 https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla FHD
-https://rextv-byxfireflix.vercel.app/stream/245893/index.m3u8
+https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 http://172.22.254.40:8088/304/tracks-v1a1/mono.m3u8
