@@ -147,8 +147,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD
 http://172.22.254.40:8088/301/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla SD
-https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla HD 2
+http://peer19.roarzone.info:8080/roarzone/bk/34/index.fmp4.m3u8?token=5bb7572a6a95e68c528131d57a2cad9225482c1c-318db6fd0abf1e8a9dd9c4df2a9fffc4-1756822709-1756811909
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla FHD
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
