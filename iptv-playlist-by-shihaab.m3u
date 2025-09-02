@@ -148,7 +148,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8
 http://172.22.254.40:8088/301/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla SD
-http://103.122.252.100:8080/ZEE-BANGLA/tracks-v1a1/mono.m3u8
+https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -281,7 +281,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/musicindia/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png",MTV
 https://live.dinesh29.com.np/stream/jiotvplus/mtv/master.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="hhttps://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",9XM
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",9XM
 https://live.dinesh29.com.np/stream/jiotv/9xm/master.m3u8
 
 
@@ -307,8 +307,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/cnhd+english/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png",Sonic
 https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick Bangla
-https://live.dinesh29.com.np/stream/jiotvplus/nickbangla/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick
+https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
 https://live.dinesh29.com.np/stream/jiotvplus/nickhd+/master.m3u8
@@ -519,6 +519,12 @@ https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/1747989339764572160/7nxm03-2_400x400.jpg",LaLiga TV UK
+https://bdixtv24.xyz/sports/m3u8.php/laligauk.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG16b9ol6EwS9JRTZAsrXMBlaGS-RLTkhSqg&s",Sky Sports Premier League
+https://bdixtv24.xyz/sports/m3u8.php/skysprem.m3u8
 
 
 
