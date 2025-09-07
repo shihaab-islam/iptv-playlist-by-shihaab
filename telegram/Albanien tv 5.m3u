@@ -1,0 +1,547 @@
+#EXTM3U
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania",AL: RTK 1
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/4935
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania",AL: RTK 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 2 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/180
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 3 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/181
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 4 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/182
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TeVe 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: Klan Kosova HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/827
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: Klan Kosova
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5692
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania",AL: KTV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania",AL: KTV HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/826
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanal 10 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/32
+#EXTINF:0 tvg-id="RTV21.al" group-title="Albania",AL: RTV 21
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/2
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ATV HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/234
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T7
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/578
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="Albania",AL: TV Dukagjini
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/100
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",AL: Alsat-M
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/34
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",AL: Alsat M HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3269
+#EXTINF:0 tvg-id="TopChannel.al" group-title="Albania",AL: Top Channel SD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/147
+#EXTINF:0 tvg-id="TopChannel.al" group-title="Albania",AL: Top Channel
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Albania",AL: Klan SD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/148
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Albania",AL: Klan
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/7
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan Plus HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3285
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan+
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/4903
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KanalD Drama
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/2856
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB Vip Albania 1
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6110
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB Vip Albania 2
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6111
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB Vip Albania 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6108
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BB Vip Albania 2 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6109
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TDC
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1022
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DTV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/91
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KLAN Maqedonia
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/2868
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan News
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5691
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Vision Plus HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/8
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV21 M
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/209
+#EXTINF:0 tvg-id="RTV21Plus.al" group-title="Albania",AL: RTV 21 Plus
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/334
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3298
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FirstChannel
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/163
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: PRO 1
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5860
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Televizioni R
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/185
+#EXTINF:0 tvg-id="Kanali7.al" group-title="Albania",AL: Kanal 7
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/31
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arta News HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3270
+#EXTINF:0 tvg-id="TopNews.al" group-title="Albania",AL: Top News
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/37
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: A2 CNN
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3618
+#EXTINF:0 tvg-id="News24.al" group-title="Albania",AL: News 24
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/950
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FAX News
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3275
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",AL: ABC News
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/39
+#EXTINF:0 tvg-id="OraNews.al" group-title="Albania",AL: OraNews
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/241
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Euronews Albania
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/4931
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINO 1
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1626
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINO 2
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1627
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: KINO 3
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1628
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania",AL: Jolly HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/69
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Action
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/10
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Albania",AL: Tring Super
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/11
+#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",AL: Tring Life
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/12
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL : Tring Collection
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5208
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Novelas HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5596
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania",AL: Tring Comedy
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/13
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania",AL: Tring Shqip
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/14
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania",AL: Tring Fantasy
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/15
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Family
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5599
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING Turkish Stories
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5914
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 3Plus HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/54
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Max HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/49
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Gold HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/50
+#EXTINF:0 tvg-id="FilmHits.al" group-title="Albania",AL: Film Hits
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/47
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Albania",AL: Film Aksion
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/45
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania",AL: Film Thriller
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/48
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Albania",AL: Film Autor
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/43
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania",AL: Film Comedy
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/46
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",AL: Film Drame
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/44
+#EXTINF:0 tvg-id="Stinet.al" group-title="Albania",AL: Stinet
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/166
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EuroFilm
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/67
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/40
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="Albania",AL: Explorer Shkence
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/52
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Albania",AL: Explorer History
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/51
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania",AL: Explorer Natyra
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/53
+#EXTINF:0 tvg-id="ext" group-title="Albania",X Shkence HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3616
+#EXTINF:0 tvg-id="ext" group-title="Albania",X Natyra HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3615
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Family HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/905
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Doku 1 FHD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5823
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Doku 2 FHD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5824
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK Gold 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5240
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK Gold 2 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5241
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK Gold 3 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5242
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: DARK Gold 4 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5243
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Aksion
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5999
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Deluxe
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5997
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Special
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5996
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Komedi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5995
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Horror
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5994
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Thriller
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5993
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Western
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5992
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Classic
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5991
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Family
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5990
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Fantazi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5989
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Romance
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5988
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Hindi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5985
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Prime Kids 1
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6000
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Prime Kids 2
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6001
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Prime Kids 3
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6002
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",AL: Tring History
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/24
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania",AL: Tring World
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/26
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania",AL: Tring Planet
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/25
+#EXTINF:0 tvg-id="Living.al" group-title="Albania",AL: Living
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/21
+#EXTINF:0 tvg-id="24Kitchen.al" group-title="Albania",AL: 24 Kitchen
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5582
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Planet AL
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/325
+#EXTINF:0 tvg-id="BangBang.al" group-title="Albania",AL: Bang Bang
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/41
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Albania",AL: Cufo
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/42
+#EXTINF:0 tvg-id="TringTring.al" group-title="Albania",AL: Tring Tring
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/18
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TRING Origjinal
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5915
+#EXTINF:0 tvg-id="BabyTV.al" group-title="Albania",AL: Baby Tv
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/519
+#EXTINF:0 tvg-id="JuniorTV.al" group-title="Albania",AL: Junior TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/235
+#EXTINF:0 tvg-id="KIDS.al" group-title="Albania",AL: KIDS
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/517
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 21 Junior
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/633
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TomJerry
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5658
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3489
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 2 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3488
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 3 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3487
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 24 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3486
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH PLUS
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3484
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH SHQIP
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3483
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH KUKESI
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3477
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH GJIROKASTRA
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3476
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Netflix Femije
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3346
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Nickledon
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5846
+#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",AL: Tip TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/19
+#EXTINF:0 tvg-id="FoxCrime.al" group-title="Albania",AL: Fox Crime
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/29
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Report TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/4785
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ROZAFA TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/4962
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri TV Zvicer
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5694
+#EXTINF:0 tvg-id="opoja.tv" group-title="Albania",AL: TV Opoja
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/212
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri Vision
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6035
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Prizreni
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5601
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Besa
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/102
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tv Ulqini
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/4993
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV21Mix
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/188
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Premiere 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3607
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Premiere 2 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3606
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Premiere 3 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3605
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Premiere 4 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3604
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Dark HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3603
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Western HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3602
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Action HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3601
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Comedy HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3600
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Drama HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3599
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Family HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3598
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Romance HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3597
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Sci-Fi HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3596
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kino Thriller HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3595
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Extrem Gold 1
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5589
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Extrem Gold 2
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5590
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Extrem Gold 3
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5591
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Extrem Gold 4
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5592
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Filmbox-Extra
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1635
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:  Humor Ujqit HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6062
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ShqipTV Humor HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1214
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ShqipTv  Stupcat HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/391
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: O Sa Mire
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5168
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Kafeneja Jone
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3274
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TROPOJA TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5666
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: POSITIVE GOLD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1231
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SUITE TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1233
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TravelINGO
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1232
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ALDI
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1021
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV DIELLI
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/721
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",AL: Peace TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/82
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTI HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5669
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtv nje HD Islam
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/58
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Pendimi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1011
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV ISLAM
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/716
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Mekke TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/714
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Medina TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/715
+#EXTINF:0 tvg-id="Muse.al" group-title="Albania",AL: Muse
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/61
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Shenja TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/55
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ATD TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/2854
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Kopliku HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/397
+#EXTINF:0 tvg-id="Smile.al" group-title="Albania",AL: Smile
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/17
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: CLUB TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5909
+#EXTINF:0 tvg-id="ext" group-title="Albania",SE: MTV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1052
+#EXTINF:0 tvg-id="ext" group-title="Albania",TR: NR1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5650
+
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: 365 Aksion HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6101
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: 365 Komedi HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6102
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Ks Premier 1
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3328
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Ks Premier 2
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3327
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Ks Premier 3
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3326
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Ks Premier 4
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3325
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Sky Aksion AL
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/328
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Sky Max AL
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/329
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Sky Novela
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/327
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Sky Komedi AL
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/330
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Aksion
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3353
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Arnold Schwarzenegger
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3352
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Bud Spencer
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3350
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Dwayne Johnson
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3349
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Fantazi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3347
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Jackie Chan
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3344
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Komedi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3343
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Relaks FHD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3342
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Romance
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3341
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Spider-Man
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3340
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Sylvester Stallone
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3339
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Netflix Van Damme
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3338
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Aziatika
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3320
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Hindi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3319
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Animacion
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3318
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Western
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3317
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 SCI-Fi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3316
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Horror
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3315
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Mister
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3314
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Triller
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3313
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Krim
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3312
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Biografi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3311
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Romance
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3310
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Aventure
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3309
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Drame
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3308
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Aksion
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3307
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Premiere
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3305
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: KS Filma24 Family
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3304
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Sky Drame AL
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/332
+
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: TV Llapi
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/538
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Folk+
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/27
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Turbo Channel
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/261
+#EXTINF:0 tvg-id="BBF.al" group-title="Music",AL: BBF
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6010
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Klan Music
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/4970
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: RTSH MUZIKE
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3482
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: ELRODI
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/23
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: RTV21 Popullore
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/22
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: MTV Kosova
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/262
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Music",AL: My Music
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/219
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Dark Festive 3
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6008
+#EXTINF:0 tvg-id="ClickTV.al" group-title="Music",AL: CLICK TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5799
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Flutra TV ⁴k
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5434
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Cifteli HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3078
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Ballkanika
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6060
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: RTV Fontana
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1001
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: ISTOGU CHANNEL
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/1003
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: TV Zico
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/210
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: Zjarr TV
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5439
+#EXTINF:0 tvg-id="ext" group-title="Music",AL: RTV Festina
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5755
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: RTSH Sport
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5651
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",AL: Super Sport 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/63
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 2 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/64
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 3 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/65
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 4 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/66
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 5 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/360
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Super Sport 6 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/361
+#EXTINF:0 tvg-id="SSKosova1.al" group-title="Sport",AL: Super Sport Kosova 1
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5602
+#EXTINF:0 tvg-id="SSKosova2.al" group-title="Sport",AL: Super Sport Kosova 2
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5603
+#EXTINF:0 tvg-id="TringSportNewsHD.al" group-title="Sport",AL: Tring Sport News HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/28
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Sport",AL: Tring Sport 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/96
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Sport",AL: Tring Sport 2 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/97
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Sport",AL: Tring Sport 3 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/98
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Sport",AL: Tring Sport 4 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3248
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3555
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 2 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3554
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 3 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/3553
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 4 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5165
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 5 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5166
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: ART Sport 6 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5167
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Kujtesa Sport 1 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/883
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Kujtesa Sport 2 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/884
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Kujtesa Sport 3 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/885
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Kujtesa Sport 4 HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/886
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Sport",ES: Real Madrid HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6095
+#EXTINF:0 tvg-id="ext" group-title="Sport",ES: Barca TV HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/6094
+#EXTINF:0 tvg-id="ext" group-title="Sport",AL: Mcn Tv ᶠᴴᴰ
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5845
+#EXTINF:0 tvg-id="ext" group-title="Sport",DE: Dazn HD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5916
+#EXTINF:0 tvg-id="ext" group-title="Sport",DE: DAZN SPORT 1 HD*
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/968
+#EXTINF:0 tvg-id="ext" group-title="Sport",DE: DAZN SPORT 2 HD*
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/967
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Sport",DE: SPORT 1+ FHD
+http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/5617
+

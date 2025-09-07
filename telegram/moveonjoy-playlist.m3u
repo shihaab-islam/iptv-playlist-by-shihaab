@@ -1,0 +1,465 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/moveonjoy-m3u/refs/heads/main/epg.xml"
+#EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="Entertainment",A&E
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/212.m3u8
+#EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="News",ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ACC.Network.us" tvg-name="ACC NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Sports",ACC NETWORK
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Movies",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entertainment",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="Documentary",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="Antenna.TV.us" tvg-name="Antenna" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" group-title="Entertainment",Antenna
+http://fl3.moveonjoy.com/Antenna/index.m3u8
+#EXTINF:-1 tvg-id="ASPiRE.TV.us" tvg-name="Aspire" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" group-title="Entertainment",Aspire
+http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entertainment",BBC AMERICA
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="News",BBC WORLD NEWS
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="BEIN SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="Sports",BEIN SPORTS
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entertainment",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BETGOSPEL.us" tvg-name="BET GOSPEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="Entertainment",BET GOSPEL
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BET.Her.us" tvg-name="BET HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Entertainment",BET HER
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BET.Jams.(BETJ).us" tvg-name="BET Jams" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="Entertainment",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="Entertainment",BET SOUL
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="Big Ten Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="Sports",Big Ten Network HD
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.TV.USA.us" tvg-name="BLOOMBERG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="News",BLOOMBERG
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="Entertainment",Bounce
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Entertainment",BRAVO
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" group-title="Entertainment",Buzzr
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="News",C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids",CARTOON NETWORK
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="News",CBS
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sports",CBS SPORTS NETWORK
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movies",CINEMAX EAST
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Movies",CINEMAX MOREMAX
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.-.Pacific.Feed.us" tvg-name="CINEMAX WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="Movies",CINEMAX WEST
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-id="CLEO.TV.us" tvg-name="Cleo TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" group-title="Entertainment",Cleo TV
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entertainment",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="News",CNBC FHD
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="News",CNN INTERNATIONAL
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Entertainment",COMEDY CENTRAL
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" group-title="Entertainment",COMET
+http://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment",COOKING
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="COURT TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" group-title="Entertainment",COURT TV
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-id="COZITV.us" tvg-name="COZI TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" group-title="Entertainment",COZI TV
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-id="Crave1.-.East.ca" tvg-name="CRAVE 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movies",CRAVE 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.-.East.ca" tvg-name="CRAVE 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="Movies",CRAVE 2
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.-.East.ca" tvg-name="CRAVE 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-title="Movies",CRAVE 3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CRAVE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="Movies",CRAVE 4
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-id="Crime.+.Investigation.Canada.ca" tvg-name="Crime + Investigation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="Documentary",Crime + Investigation
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/2022
+#EXTINF:-1 tvg-id="Curiosity.Channel(Stream).us" tvg-name="Curiosity Stream" tvg-logo="https://i.imgur.com/vRO4e5W.png" group-title="Documentary",Curiosity Stream
+http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 tvg-id="Destination.America.us" tvg-name="Destination America" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="Documentary",Destination America
+http://fl3.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentary",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Kids",DISCOVERY FAMILY CHANNEL
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us" tvg-name="DISCOVERY LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Documentary",DISCOVERY LIFE
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Discovery Science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="Documentary",Discovery Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",DISNEY CHANNEL
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids",DISNEY JR
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",DISNEY XD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="Magnolia.-.East.us" tvg-name="DIY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/diy-network-ca.png" group-title="Documentary",DIY
+http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-name="E ENTERTAINMENT TELEVISION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" group-title="Entertainment",E ENTERTAINMENT TELEVISION
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/133.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPN NEWS
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.On.Demand.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-name="FOOD NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment",FOOD NETWORK
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="News",FOX
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Business.us" tvg-name="FOX Business Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="News",FOX Business Network
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News Channel
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/267.m3u8
+#EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-name="FOX SOCCER PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",FOX SOCCER PLUS
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/265.m3u8
+#EXTINF:-1 tvg-id="plex.tv.FOX.SOUL.plex" tvg-name="FOX SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" group-title="Entertainment",FOX SOUL
+http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-name="Freeform" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Entertainment",Freeform
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="Sports",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
+#EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="Entertainment",Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Entertainment",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movies",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Entertainment",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FYI.USA.-.Eastern.us" tvg-name="FYI FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="Entertainment",FYI FHD
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-name="GAME SHOW NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entertainment",GAME SHOW NETWORK
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="get.us" tvg-name="getTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" group-title="Entertainment",getTV
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="Grit.TV.us" tvg-name="GRIT TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" group-title="Entertainment",GRIT TV
+http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-name="Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="Movies",Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="Hallmark Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="Movies",Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="Movies",Hallmark Mystery
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movies",HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Movies",HBO Comedy
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Movies",HBO Family
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Movies",HBO Zone
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Movies",HBO2
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Entertainment",HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="Documentary",History
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/153.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="News",HLN
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-id="HSN..-.Home.Shopping.Network.us" tvg-name="HSN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" group-title="Entertainment",HSN
+http://fl2.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentary",ID (Investigation Discovery)
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/insp-us.png?raw=true" group-title="Entertainment",INSP TV
+http://fl2.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-name="ION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="Entertainment",ION
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="Entertainment",Laff TV
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="Movies",Lifetime
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" tvg-name="Lifetime Movies Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Movies",Lifetime Movies Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="LOGO.-.East.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Entertainment",Logo
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/952.m3u8
+#EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="LOVE NATURE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" group-title="Documentary",LOVE NATURE
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-id="MavTV.USA.us" tvg-name="MAVTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mav-tv-us.png?raw=true" group-title="Sports",MAVTV
+http://fl2.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="MeTV.KSAT-DT2.us" tvg-name="MeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="Entertainment",MeTV
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movies",MGM+
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-name="MGM+ Drive-In" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="Movies",MGM+ Drive-In
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-name="MGM+ HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Movies",MGM+ HITS
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/388
+#EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-name="MGM+ MARQUEE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true" group-title="Movies",MGM+ MARQUEE
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="Events",MLB 1
+http://fl2.moveonjoy.com/MLB_1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="Events",MLB 2
+http://fl2.moveonjoy.com/MLB_2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="Events",MLB 3
+http://fl2.moveonjoy.com/MLB_3/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Sports",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-name="MotorTrend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="Entertainment",MotorTrend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="Entertainment",MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="News",MSNBC
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/143.m3u8
+#EXTINF:-1 tvg-id="mtvU.us" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Entertainment",MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.Classic.-.East.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Entertainment",MTV Classic
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1194.m3u8
+#EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="Entertainment",MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-name="MTV2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Entertainment",MTV2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" tvg-name="mtvU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="Entertainment",mtvU
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="Much.Music.ca" tvg-name="MUCH" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" group-title="Entertainment",MUCH
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary",National Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Documentary",National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 1
+http://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 10
+http://fl5.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 11
+http://fl5.moveonjoy.com/NBA_11/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 12" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 12
+http://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 13
+http://fl5.moveonjoy.com/NBA_13/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 2
+http://fl5.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 3
+http://fl5.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 4
+http://fl5.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 5
+http://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 6
+http://fl5.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 7
+http://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 8
+http://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Events",NBA 9
+http://fl5.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="Sports",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="News",NBC
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="NBC Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Sports",NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.-.Eastern.Feed.us" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 1
+http://fl2.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFl 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFl 10
+http://fl2.moveonjoy.com/NFL_10/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 11
+http://fl2.moveonjoy.com/NFL_11/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 12" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 12
+http://fl2.moveonjoy.com/NFL_12/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 13
+http://fl2.moveonjoy.com/NFL_13/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 14" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 14
+http://fl2.moveonjoy.com/NFL_14/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 15" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 15
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 2
+http://fl2.moveonjoy.com/NFL_2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 3
+http://fl2.moveonjoy.com/NFL_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 4
+http://fl2.moveonjoy.com/NFL_4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 5
+http://fl2.moveonjoy.com/NFL_5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 6
+http://fl2.moveonjoy.com/NFL_6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 7
+http://fl2.moveonjoy.com/NFL_7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 8
+http://fl2.moveonjoy.com/NFL_8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" group-title="Events",NFL 9
+http://fl2.moveonjoy.com/NFL_9/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="Sports",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 1
+http://fl2.moveonjoy.com/NHL_1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 10
+http://fl5.moveonjoy.com/NHL_10/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 11
+http://fl5.moveonjoy.com/NHL_11/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 13
+http://fl5.moveonjoy.com/NHL_13/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 2
+http://fl5.moveonjoy.com/NHL_2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 3
+http://fl2.moveonjoy.com/NHL_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 4
+http://fl2.moveonjoy.com/NHL_4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 5
+http://fl2.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 6
+http://fl2.moveonjoy.com/NHL_6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 7
+http://fl2.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 8
+http://fl5.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 9
+http://fl2.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Sports",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-name="NickJr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids",NickJr
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="NickMusic USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="Kids",NickMusic USA
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids",NickToons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="Entertainment",Oprah Winfrey Network
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="Documentary",Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OUTER MAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" group-title="Movies",OUTER MAX
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTelevision.us" tvg-name="OUTSIDE TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" group-title="Sports",OUTSIDE TV
+http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Ovation.us" tvg-name="Ovation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" group-title="Entertainment",Ovation
+http://fl3.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-name="Oxygen" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="Entertainment",Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Entertainment",Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="PixL.us" tvg-name="Pixl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pixl-us.png?raw=true" group-title="Entertainment",Pixl
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1665
+#EXTINF:-1 tvg-id="POP.-.East.us" tvg-name="PopTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" group-title="Entertainment",PopTV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 1" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 1
+http://fl2.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 2" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 2
+http://fl2.moveonjoy.com/PPV_2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 3" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 3
+http://fl2.moveonjoy.com/PPV_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 5" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 5
+http://fl2.moveonjoy.com/PPV_5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 6" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 6
+http://fl2.moveonjoy.com/PPV_6/index.m3u8
+#EXTINF:-1 tvg-id="Pursuit.Channel.us" tvg-name="Pursuit Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" group-title="Sports",Pursuit Channel
+http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/qvc-us.png" group-title="Entertainment",QVC
+http://fl2.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="Entertainment",ReelzChannel
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.TV.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Entertainment",Revolt
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="Scripps.News.Channel.us" tvg-name="Scripps News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/scripps-news-us.png?raw=true" group-title="News",Scripps News
+https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="Sports",SEC Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/295
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movies",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movies",Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Movies",Showtime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movies",Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movies",Showtime Women
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="Documentary",SMITHSONIAN CHANNEL
+http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movies",Sony Movie Channel
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
+#EXTINF:-1 tvg-id="Sportsman.Channel.us" tvg-name="Sportsman Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" group-title="Sports",Sportsman Channel
+http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Stadium.plex" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="Sports",Stadium
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1466
+#EXTINF:-1 tvg-id="StartTVNetwork.us" tvg-name="Start TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" group-title="Entertainment",Start TV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movies",Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Movies",Starz Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Movies",Starz Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.-.Eastern.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Movies",Starz Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Movies",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="Movies",STARZ ENCORE CLASSIC
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Movies",Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-name="STARZ WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movies",STARZ WEST
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movies",SundanceTV
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="SYFY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Entertainment",SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="Entertainment",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Sports",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Documentary",TLC
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment",TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-name="Travel Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="Documentary",Travel Channel
+http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entertainment",truTV
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="Sports",TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="Sports",TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="Sports",TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="Sports",TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="Sports",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="Entertainment",TVLand
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-id="TV.ONE.HDTV.(TVONEHD).us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="Entertainment",TVOne
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Entertainment",USA Network
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entertainment",VH1
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="VICE.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Entertainment",Vice
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="W.Network.HDTV.(East).(W.HD).ca" tvg-name="W NETWORK" tvg-logo="https://i.imgur.com/I9hgasK.png" group-title="Entertainment",W NETWORK
+http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="News",Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Womens.Entertainment.HDTV.(East).(WE.HD).us" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="Entertainment",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="WGN.Chicago.(LOCAL).us" tvg-name="WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="Entertainment",WGN
+http://fl2.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-name="WORLD FISHING NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" group-title="Documentary",WORLD FISHING NETWORK
+http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Yankees.Television.HDTV.(YESHD).us" tvg-name="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="Sports",YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
