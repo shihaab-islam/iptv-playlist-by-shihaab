@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE SPOSTS 1" tvg-logo="https://tv.efiberbd.net/logo/1.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
+http://xtream.efiberbd.net:25461/mkaua/stream/1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE SPORTS 2" tvg-logo="https://tv.efiberbd.net/logo/2.png" group-title="LIVE SPORTS",LIVE SPORTS 2
+http://xtream.efiberbd.net:25461/mkaua/stream/2
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://tv.efiberbd.net/logo/Ls.png" group-title="LIVE SPORTS",T SPORTS HD
+http://xtream.efiberbd.net:25461/mkaua/stream/3
+#EXTINF:-1 tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://tv.efiberbd.net/logo/Gs.png" group-title="LIVE SPORTS",GAZI TV HD
+http://xtream.efiberbd.net:25461/mkaua/stream/4
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA HD" tvg-logo="https://tv.efiberbd.net/logo/zb.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
+http://xtream.efiberbd.net:25461/mkaua/stream/5
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD" tvg-logo="https://tv.efiberbd.net/logo/sj.png" group-title="INDIAN BANGLA",STAR JALSHA HD
+http://xtream.efiberbd.net:25461/mkaua/stream/6
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://imgur.com/dHItouL.png" group-title="INDIAN BANGLA",COLORS BANGLA HD
+http://xtream.efiberbd.net:25461/mkaua/stream/7
+#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIE HD" tvg-logo="https://tv.efiberbd.net/logo/jalsha_movies.png" group-title="BANGLA CINEMA",JALSHA MOVIE HD
+http://xtream.efiberbd.net:25461/mkaua/stream/8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://tv.efiberbd.net/logo/cbc.png" group-title="BANGLA CINEMA",COLORS BANGLA CINEMA
+http://xtream.efiberbd.net:25461/mkaua/stream/9
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://imgur.com/j9vWjnp.png" group-title="BANGLA CINEMA",ZEE BANGLA CINEMA
+http://xtream.efiberbd.net:25461/mkaua/stream/10
+#EXTINF:-1 tvg-id="" tvg-name="MASSRANGA" tvg-logo="http://chocotv.live/img/channels/maasranga.png" group-title="KIDS",MASSRANGA
+http://xtream.efiberbd.net:25461/mkaua/stream/11
+#EXTINF:-1 tvg-id="" tvg-name="DURONTO" tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="KIDS",DURONTO
+http://xtream.efiberbd.net:25461/mkaua/stream/12
+#EXTINF:-1 tvg-id="" tvg-name="Sony Yay!" tvg-logo="https://tv.efiberbd.net/logo/inhsya.png" group-title="KIDS",Sony Yay!
+http://xtream.efiberbd.net:25461/mkaua/stream/13
+#EXTINF:-1 tvg-id="" tvg-name="ATN ISLAMIC" tvg-logo="https://imgur.com/ESWXan9.png" group-title="RELIGIOUS",ATN ISLAMIC
+http://xtream.efiberbd.net:25461/mkaua/stream/14
+#EXTINF:-1 tvg-id="" tvg-name="Deen TV" tvg-logo="https://i.imgur.com/QNCosaS.png" group-title="RELIGIOUS",Deen TV
+http://xtream.efiberbd.net:25461/mkaua/stream/15
+#EXTINF:-1 tvg-id="" tvg-name="SAUDIA QURAN HD" tvg-logo="https://imgur.com/U1XFyOx.png" group-title="RELIGIOUS",SAUDIA QURAN HD
+http://xtream.efiberbd.net:25461/mkaua/stream/16
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL9" tvg-logo="https://imgur.com/fj8nxOw.png" group-title="BD BANGLA",CHANNEL9
+http://xtream.efiberbd.net:25461/mkaua/stream/17
+#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV" tvg-logo="https://imgur.com/PWm4cuL.png" group-title="BD BANGLA",DEEPTO TV
+http://xtream.efiberbd.net:25461/mkaua/stream/18
+#EXTINF:-1 tvg-id="" tvg-name="HUM HD" tvg-logo="http://tv.efiberbd.net/logo/Aryd.png" group-title="HINDI",HUM HD
+http://xtream.efiberbd.net:25461/mkaua/stream/19
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="https://tv.efiberbd.net/logo/star_plus_hd.png" group-title="HINDI",STAR PLUS
+http://xtream.efiberbd.net:25461/mkaua/stream/20
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="https://tv.efiberbd.net/logo/zeetv.png" group-title="HINDI",ZEE TV HD
+http://xtream.efiberbd.net:25461/mkaua/stream/21
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://tv.efiberbd.net/logo/inhse.png" group-title="HINDI",SONY HD
+http://xtream.efiberbd.net:25461/mkaua/stream/22
+#EXTINF:-1 tvg-id="" tvg-name="SONY SUB" tvg-logo="https://tv.efiberbd.net/logo/inhssb.png" group-title="HINDI",SONY SUB
+http://xtream.efiberbd.net:25461/mkaua/stream/23
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="http://chocotv.live/img/channels/colors.png" group-title="HINDI",COLORS HD
+http://xtream.efiberbd.net:25461/mkaua/stream/24
+#EXTINF:-1 tvg-id="" tvg-name="SONYMAXHD" tvg-logo="https://tv.efiberbd.net/logo/inhsmx.png" group-title="HINDI MOVIE",SONYMAXHD
+http://xtream.efiberbd.net:25461/mkaua/stream/25
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://tv.efiberbd.net/logo/zeecinemahd.png" group-title="HINDI MOVIE",ZEE CINEMA HD
+http://xtream.efiberbd.net:25461/mkaua/stream/26
+#EXTINF:-1 tvg-id="" tvg-name="STARGOLDHD" tvg-logo="https://tv.efiberbd.net/logo/star_gold.png" group-title="HINDI MOVIE",STARGOLDHD
+http://xtream.efiberbd.net:25461/mkaua/stream/27
+#EXTINF:-1 tvg-id="" tvg-name="&PICTURSHD" tvg-logo="https://tv.efiberbd.net/logo/&_pictures_hd.png" group-title="HINDI MOVIE",&PICTURSHD
+http://xtream.efiberbd.net:25461/mkaua/stream/28
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://tv.efiberbd.net/logo/inm4.png" group-title="HINDI MOVIE",COLORS CINEPLEX HD
+http://xtream.efiberbd.net:25461/mkaua/stream/29
+#EXTINF:-1 tvg-id="" tvg-name="Dhinchaak 2 HD" tvg-logo="https://tv.efiberbd.net/logo/din.png" group-title="HINDI MOVIE",Dhinchaak 2 HD
+http://xtream.efiberbd.net:25461/mkaua/stream/30
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://tv.efiberbd.net/logo/engsm.png" group-title="ENGLISH MOVIE",STAR MOVIES HD
+http://xtream.efiberbd.net:25461/mkaua/stream/31
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TIME HD" tvg-logo="https://tv.efiberbd.net/logo/engst.png" group-title="ENGLISH MOVIE",SHOW TIME HD
+http://xtream.efiberbd.net:25461/mkaua/stream/32
+#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://tv.efiberbd.net/logo/engmn+.png" group-title="ENGLISH MOVIE",MN+ HD
+http://xtream.efiberbd.net:25461/mkaua/stream/33
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW HD" tvg-logo="https://tv.efiberbd.net/logo/engmn.png" group-title="ENGLISH MOVIE",MOVIES NOW HD
+http://xtream.efiberbd.net:25461/mkaua/stream/34
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://tv.efiberbd.net/logo/engpx.png" group-title="ENGLISH MOVIE",SONY PIX HD
+http://xtream.efiberbd.net:25461/mkaua/stream/35
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPOTS 1 HD" tvg-logo="https://imgur.com/dLwI5U7.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
+http://xtream.efiberbd.net:25461/mkaua/stream/36
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png" group-title="LIVE SPORTS",STAR SPORTS 2 HD
+http://xtream.efiberbd.net:25461/mkaua/stream/37
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="https://imgur.com/mcTtLjJ.png" group-title="SPORTS",SONY SIX HD
+http://xtream.efiberbd.net:25461/mkaua/stream/38
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN1 HD" tvg-logo="https://tv.efiberbd.net/logo/inst1.png" group-title="SPORTS",SONY TEN1 HD
+http://xtream.efiberbd.net:25461/mkaua/stream/39
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN2 HD" tvg-logo="https://tv.efiberbd.net/logo/inst2.png" group-title="SPORTS",SONY TEN2 HD
+http://xtream.efiberbd.net:25461/mkaua/stream/40
+#EXTINF:-1 tvg-id="" tvg-name="&prive HD" tvg-logo="https://tv.efiberbd.net/logo/engprv.png" group-title="ENGLISH MOVIE",&prive HD
+http://xtream.efiberbd.net:25461/mkaua/stream/41
+#EXTINF:-1 tvg-id="" tvg-name="&FLIXHD" tvg-logo="https://imgur.com/xHsimQA.png" group-title="ENGLISH MOVIE",&FLIXHD
+http://xtream.efiberbd.net:25461/mkaua/stream/42
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="https://imgur.com/a24RqFL.png" group-title="MUSIC",ZOOM
+http://xtream.efiberbd.net:25461/mkaua/stream/43
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://imgur.com/wg3N1VT.png" group-title="MUSIC",MUSIC INDIA
+http://xtream.efiberbd.net:25461/mkaua/stream/44
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="http://chocotv.live/img/channels/9xm.png" group-title="MUSIC",9XM
+http://xtream.efiberbd.net:25461/mkaua/stream/45
+#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC" tvg-logo="https://imgur.com/stZqDcA.png" group-title="MUSIC",B4U MUSIC
+http://xtream.efiberbd.net:25461/mkaua/stream/46
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://imgur.com/qZBXlod.png" group-title="BD BANGLA",NTV
+http://xtream.efiberbd.net:25461/mkaua/stream/48
+#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://chocotv.live/img/channels/mytv.png" group-title="BD BANGLA",MY TV
+http://xtream.efiberbd.net:25461/mkaua/stream/47
+#EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://imgur.com/6Khr7lb.png" group-title="BD BANGLA",ATN BANGLA
+http://xtream.efiberbd.net:25461/mkaua/stream/49
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://imgur.com/RtTjtxS.png" group-title="BD BANGLA",CHANNEL I
+http://xtream.efiberbd.net:25461/mkaua/stream/50
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://imgur.com/MmhxR5E.png" group-title="BD BANGLA",CHANNEL 24
+http://xtream.efiberbd.net:25461/mkaua/stream/51
+#EXTINF:-1 tvg-id="" tvg-name="ALPONA TV" tvg-logo="https://tv.efiberbd.net/logo/alpona.png" group-title="BD BANGLA",ALPONA TV
+http://xtream.efiberbd.net:25461/mkaua/stream/52
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA TV" tvg-logo="https://imgur.com/yB2Za9b.png" group-title="BD BANGLA",BANGLA TV
+http://xtream.efiberbd.net:25461/mkaua/stream/53
+#EXTINF:-1 tvg-id="" tvg-name="SATV" tvg-logo="https://imgur.com/kaiSBs0.png" group-title="BD BANGLA",SATV
+http://xtream.efiberbd.net:25461/mkaua/stream/54
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://imgur.com/YbYG9PK.png" group-title="BD BANGLA",RTV
+http://xtream.efiberbd.net:25461/mkaua/stream/55
+#EXTINF:-1 tvg-id="" tvg-name="AMAR BANGLA" tvg-logo="https://imgur.com/z4CgtaQ.png" group-title="BD BANGLA",AMAR BANGLA
+http://xtream.efiberbd.net:25461/mkaua/stream/56
+#EXTINF:-1 tvg-id="" tvg-name="ATN MUSIC" tvg-logo="https://imgur.com/OTzS5Fc.png" group-title="BD MUSIC",ATN MUSIC
+http://xtream.efiberbd.net:25461/mkaua/stream/57
+#EXTINF:-1 tvg-id="" tvg-name="GAAN BANGLA" tvg-logo="https://tv.efiberbd.net/logo/gaan_bangla.png" group-title="BD MUSIC",GAAN BANGLA
+http://xtream.efiberbd.net:25461/mkaua/stream/58
+#EXTINF:-1 tvg-id="" tvg-name="SONGEET BANGLA" tvg-logo="https://imgur.com/TNk56Ai.png" group-title="BD MUSIC",SONGEET BANGLA
+http://xtream.efiberbd.net:25461/mkaua/stream/59
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="https://imgur.com/vUgn7Ey.png" group-title="BD MUSIC",Bangla Talkies
+http://xtream.efiberbd.net:25461/mkaua/stream/60
