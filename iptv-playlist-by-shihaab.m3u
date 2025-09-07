@@ -224,6 +224,12 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/colorshd.png",Colors HD
+https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/rishtey.png",Rishtey
+https://live.dinesh29.com.np/stream/jiotvplus/Rishtey/master.m3u8
+
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cinelex Bollywood
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
 
@@ -316,8 +322,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
 https://live.dinesh29.com.np/stream/jiotvplus/nickhd+/master.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/215px-Discovery_Kids_Logo_%282021%29.webp.png",Discovery Kids
-https://tatatv.stevosure123.workers.dev/video.m3u8?id=58157
+#EXTINF:-1 group-title="Kids" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/discoverykids2.png",Discovery Kids Hindi
+https://live.dinesh29.com.np/stream/jiotvplus/discoverykids2/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV 
 https://tvsen5.aynaott.com/durontotv/index.m3u8
