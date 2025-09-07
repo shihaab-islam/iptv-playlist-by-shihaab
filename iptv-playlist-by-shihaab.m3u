@@ -313,7 +313,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png",Hungama
+#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png",Super Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
@@ -415,7 +415,7 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/cnn/master.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/2560px-TLC-Logo_2016.svg.png",TLC
-https://live.dinesh29.com.np/stream/jiotvplus/tlc/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/tlchd/master.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png",Animal Planet World
 https://live.dinesh29.com.np/stream/jiotvplus/animalplanethdworld/master.m3u8
