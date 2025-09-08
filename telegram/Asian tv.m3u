@@ -1,0 +1,596 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (1)
+http://watchindia.net:8880/40972/04523/276
+#EXTINF:0 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (2)
+http://watchindia.net:8880/40972/04523/2216
+#EXTINF:0 tvg-id="Asianet.in" group-title="Malayalam",Asianet
+http://watchindia.net:8880/40972/04523/2321
+#EXTINF:0 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (2)
+http://watchindia.net:8880/40972/04523/2216
+#EXTINF:0 tvg-id="AsianetMovies.in" group-title="Malayalam",Asianet Movies (2)
+http://watchindia.net:8880/40972/04523/2217
+#EXTINF:0 tvg-id="AsianetNews.in" group-title="Malayalam",Asianet News (1)
+http://watchindia.net:8880/40972/04523/268
+#EXTINF:0 tvg-id="AsianetNews.in" group-title="Malayalam",Asianet News (2)
+http://watchindia.net:8880/40972/04523/2035
+#EXTINF:0 tvg-id="AsianetPlus.in" group-title="Malayalam",Asianet Plus (1)
+http://watchindia.net:8880/40972/04523/277
+#EXTINF:0 tvg-id="AsianetPlus.in" group-title="Malayalam",Asianet Plus (2)
+http://watchindia.net:8880/40972/04523/2240
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Surya TV HD
+http://watchindia.net:8880/40972/04523/279
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Surya Comedy
+http://watchindia.net:8880/40972/04523/299
+#EXTINF:0 tvg-id="KiranTv.in" group-title="Malayalam",Surya Movies
+http://watchindia.net:8880/40972/04523/298
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Surya Music
+http://watchindia.net:8880/40972/04523/285
+#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Malayalam",Mazhavil Manorama HD (1)
+http://watchindia.net:8880/40972/04523/280
+#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Malayalam",Mazhavil Manorama HD (2)
+http://watchindia.net:8880/40972/04523/2231
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Zee Keralam HD
+http://watchindia.net:8880/40972/04523/287
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Flowers TV (1)
+http://watchindia.net:8880/40972/04523/2
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Flowers TV (2)
+http://watchindia.net:8880/40972/04523/2291
+#EXTINF:0 tvg-id="news24" group-title="Malayalam",24 News (1)
+http://watchindia.net:8880/40972/04523/1064
+#EXTINF:0 tvg-id="news24" group-title="Malayalam",24 News (2)
+http://watchindia.net:8880/40972/04523/2082
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Amrita
+http://watchindia.net:8880/40972/04523/284
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",DD Malayalam
+http://watchindia.net:8880/40972/04523/303
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Garshom TV
+http://watchindia.net:8880/40972/04523/1291
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Goodness TV
+http://watchindia.net:8880/40972/04523/2234
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Harvest TV
+http://watchindia.net:8880/40972/04523/1303
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Jaihind
+http://watchindia.net:8880/40972/04523/293
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Janam TV
+http://watchindia.net:8880/40972/04523/309
+#EXTINF:0 tvg-id="JeevanTv.in" group-title="Malayalam",Jeevan TV
+http://watchindia.net:8880/40972/04523/300
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kairali News
+http://watchindia.net:8880/40972/04523/308
+#EXTINF:0 tvg-id="KairaliTv.in" group-title="Malayalam",Kairali TV
+http://watchindia.net:8880/40972/04523/307
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kairali We
+http://watchindia.net:8880/40972/04523/1761
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kappa TV
+http://watchindia.net:8880/40972/04523/1762
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kaumudy TV
+http://watchindia.net:8880/40972/04523/305
+#EXTINF:0 tvg-id="KochuTv.in" group-title="Malayalam",Kochu TV
+http://watchindia.net:8880/40972/04523/290
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Magnavision TV
+http://watchindia.net:8880/40972/04523/2233
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Manorama News
+http://watchindia.net:8880/40972/04523/281
+#EXTINF:0 tvg-id="MathrubhumiNews.in" group-title="Malayalam",Mathrubhumi News
+http://watchindia.net:8880/40972/04523/304
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Media One
+http://watchindia.net:8880/40972/04523/302
+#EXTINF:0 tvg-id="IBN7.in" group-title="Malayalam",News 18
+http://watchindia.net:8880/40972/04523/301
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Nick Malayalam
+http://watchindia.net:8880/40972/04523/2632
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Nickelodeon Sonic
+http://watchindia.net:8880/40972/04523/2631
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Raj Musix Malayalam
+http://watchindia.net:8880/40972/04523/286
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Reporter TV
+http://watchindia.net:8880/40972/04523/306
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Safari TV
+http://watchindia.net:8880/40972/04523/1301
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Shalom TV
+http://watchindia.net:8880/40972/04523/288
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Powervision TV
+http://watchindia.net:8880/40972/04523/1290
+
+#EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors TV HD (1)
+http://watchindia.net:8880/40972/04523/801
+#EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors TV HD (2)
+http://watchindia.net:8880/40972/04523/2264
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors Rishtey HD
+http://watchindia.net:8880/40972/04523/830
+#EXTINF:0 tvg-id="set" group-title="Hindi",Sony TV HD (1)
+http://watchindia.net:8880/40972/04523/1969
+#EXTINF:0 tvg-id="set" group-title="Hindi",Sony TV HD (2)
+http://watchindia.net:8880/40972/04523/2141
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Hindi",Sony TV UK
+http://watchindia.net:8880/40972/04523/2117
+#EXTINF:0 tvg-id="SonyMax2.uk" group-title="Hindi",Sony Max 2
+http://watchindia.net:8880/40972/04523/2024
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Hindi",Sony Max HD
+http://watchindia.net:8880/40972/04523/788
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Sab HD
+http://watchindia.net:8880/40972/04523/2323
+#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Hindi",Sony Sab UK
+http://watchindia.net:8880/40972/04523/2189
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Hindi",Sony Pal
+http://watchindia.net:8880/40972/04523/812
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Wah
+http://watchindia.net:8880/40972/04523/814
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Yay
+http://watchindia.net:8880/40972/04523/2104
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony BBC Earth HD
+http://watchindia.net:8880/40972/04523/789
+#EXTINF:0 tvg-id="LifeOk.in" group-title="Hindi",Star Bharat HD
+http://watchindia.net:8880/40972/04523/780
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi",Star Gold HD
+http://watchindia.net:8880/40972/04523/785
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi",Star Gold Select HD
+http://watchindia.net:8880/40972/04523/784
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Hindi",Star Plus HD
+http://watchindia.net:8880/40972/04523/1924
+#EXTINF:0 tvg-id="StarJalsha.uk" group-title="Hindi",Star Utsav
+http://watchindia.net:8880/40972/04523/2493
+#EXTINF:0 tvg-id="ext" group-title="Hindi",& Pictures HD
+http://watchindia.net:8880/40972/04523/783
+#EXTINF:0 tvg-id="ext" group-title="Hindi",& TV HD
+http://watchindia.net:8880/40972/04523/782
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="Hindi",9X Jalwa
+http://watchindia.net:8880/40972/04523/828
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Aaj Tak HD
+http://watchindia.net:8880/40972/04523/807
+#EXTINF:0 tvg-id="AAJTAK.uk" group-title="Hindi",Aaj Tak
+http://watchindia.net:8880/40972/04523/836
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="Hindi",ABP News
+http://watchindia.net:8880/40972/04523/833
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="Hindi",B4U Music
+http://watchindia.net:8880/40972/04523/2113
+#EXTINF:0 tvg-id="ext" group-title="Hindi",B4U Plus
+http://watchindia.net:8880/40972/04523/823
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors Cineplex HD
+http://watchindia.net:8880/40972/04523/803
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Discovery Channel Hindi
+http://watchindia.net:8880/40972/04523/841
+#EXTINF:0 tvg-id="E24.in" group-title="Hindi",E24
+http://watchindia.net:8880/40972/04523/829
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Epic TV
+http://watchindia.net:8880/40972/04523/794
+#EXTINF:0 tvg-id="HistoryTv18.in" group-title="Hindi",History TV18 HD
+http://watchindia.net:8880/40972/04523/791
+#EXTINF:0 tvg-id="ext" group-title="Hindi",India Today
+http://watchindia.net:8880/40972/04523/835
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Kadak Hits HD
+http://watchindia.net:8880/40972/04523/798
+#EXTINF:0 tvg-id="Mastiii.in" group-title="Hindi",Mastiii
+http://watchindia.net:8880/40972/04523/826
+#EXTINF:0 tvg-id="ext" group-title="Hindi",MTV Beats HD
+http://watchindia.net:8880/40972/04523/786
+#EXTINF:0 tvg-id="ext" group-title="Hindi",MTV India HD
+http://watchindia.net:8880/40972/04523/825
+#EXTINF:0 tvg-id="MusicIndia.uk" group-title="Hindi",Music India
+http://watchindia.net:8880/40972/04523/2293
+#EXTINF:0 tvg-id="NDTV.uk" group-title="Hindi",NDTV News
+http://watchindia.net:8880/40972/04523/831
+#EXTINF:0 tvg-id="NDTVProfit.in" group-title="Hindi",NDTV Profit
+http://watchindia.net:8880/40972/04523/837
+#EXTINF:0 tvg-id="ext" group-title="Hindi",News Nation
+http://watchindia.net:8880/40972/04523/838
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Nick Hindi
+http://watchindia.net:8880/40972/04523/2182
+#EXTINF:0 tvg-id="cartoon" group-title="Hindi",Cartoon Network HD+
+http://watchindia.net:8880/40972/04523/2718
+#EXTINF:0 tvg-id="RepublicBharat.uk" group-title="Hindi",Republic Bharat
+http://watchindia.net:8880/40972/04523/817
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Republic TV News
+http://watchindia.net:8880/40972/04523/815
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sanskar TV
+http://watchindia.net:8880/40972/04523/2151
+#EXTINF:0 tvg-id="TimesNow.uk" group-title="Hindi",Times Now
+http://watchindia.net:8880/40972/04523/839
+#EXTINF:0 tvg-id="ext" group-title="Hindi",TLC Hindi
+http://watchindia.net:8880/40972/04523/840
+#EXTINF:0 tvg-id="Travelxp.pl" group-title="Hindi",TravelXP HD
+http://watchindia.net:8880/40972/04523/792
+#EXTINF:0 tvg-id="ext" group-title="Hindi",TV9 News
+http://watchindia.net:8880/40972/04523/834
+#EXTINF:0 tvg-id="ext" group-title="Hindi",WION News
+http://watchindia.net:8880/40972/04523/816
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Hindi",Zee Action
+http://watchindia.net:8880/40972/04523/821
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Anmol
+http://watchindia.net:8880/40972/04523/813
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Anmol Cinema
+http://watchindia.net:8880/40972/04523/820
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Hindi",Zee Bollywood
+http://watchindia.net:8880/40972/04523/822
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Hindi",Zee Cinema HD
+http://watchindia.net:8880/40972/04523/787
+#EXTINF:0 tvg-id="ZeeClassic.in" group-title="Hindi",Zee Classic
+http://watchindia.net:8880/40972/04523/802
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="Hindi",Zee News
+http://watchindia.net:8880/40972/04523/832
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Hindi",Zee TV HD
+http://watchindia.net:8880/40972/04523/1970
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Zest HD
+http://watchindia.net:8880/40972/04523/2359
+#EXTINF:0 tvg-id="zoom" group-title="Hindi",Zoom
+http://watchindia.net:8880/40972/04523/842
+
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="Tamil",Sun TV HD
+http://watchindia.net:8880/40972/04523/843
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sun Life
+http://watchindia.net:8880/40972/04523/847
+#EXTINF:0 tvg-id="SunMusic.in" group-title="Tamil",Sun Music HD
+http://watchindia.net:8880/40972/04523/844
+#EXTINF:0 tvg-id="SunNews.in" group-title="Tamil",Sun News
+http://watchindia.net:8880/40972/04523/869
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Star Vijay HD
+http://watchindia.net:8880/40972/04523/846
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Star Vijay Super
+http://watchindia.net:8880/40972/04523/2190
+#EXTINF:0 tvg-id="AdithyaTV.in" group-title="Tamil",Adithya TV
+http://watchindia.net:8880/40972/04523/855
+#EXTINF:0 tvg-id="ChuttiTV.in" group-title="Tamil",Chutti TV
+http://watchindia.net:8880/40972/04523/882
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Colors Tamil HD
+http://watchindia.net:8880/40972/04523/2083
+#EXTINF:0 tvg-id="DiscoveryTamil.in" group-title="Tamil",Discovery Tamil
+http://watchindia.net:8880/40972/04523/2085
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Isai Aruvi TV
+http://watchindia.net:8880/40972/04523/2149
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Jaya TV HD
+http://watchindia.net:8880/40972/04523/851
+#EXTINF:0 tvg-id="JayaMax.in" group-title="Tamil",Jaya Max
+http://watchindia.net:8880/40972/04523/852
+#EXTINF:0 tvg-id="JayaMovie.in" group-title="Tamil",Jaya Movie
+http://watchindia.net:8880/40972/04523/849
+#EXTINF:0 tvg-id="JayaPlus.in" group-title="Tamil",Jaya Plus
+http://watchindia.net:8880/40972/04523/850
+#EXTINF:0 tvg-id="KalaignarTv.in" group-title="Tamil",Kalaignar TV
+http://watchindia.net:8880/40972/04523/2148
+#EXTINF:0 tvg-id="KtvHD.in" group-title="Tamil",KTV HD
+http://watchindia.net:8880/40972/04523/845
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Madha TV
+http://watchindia.net:8880/40972/04523/875
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Makkal TV
+http://watchindia.net:8880/40972/04523/871
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Murasu TV
+http://watchindia.net:8880/40972/04523/880
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Nambikkai TV
+http://watchindia.net:8880/40972/04523/856
+#EXTINF:0 tvg-id="News18India.uk" group-title="Tamil",News18
+http://watchindia.net:8880/40972/04523/873
+#EXTINF:0 tvg-id="News7.al" group-title="Tamil",News 7
+http://watchindia.net:8880/40972/04523/867
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Nick Tamil
+http://watchindia.net:8880/40972/04523/2181
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Peppers
+http://watchindia.net:8880/40972/04523/870
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Polimer News
+http://watchindia.net:8880/40972/04523/877
+#EXTINF:0 tvg-id="PolimerTv.in" group-title="Tamil",Polimer TV
+http://watchindia.net:8880/40972/04523/2147
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Puthiya Thalaimurai
+http://watchindia.net:8880/40972/04523/879
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Puthuyugam TV
+http://watchindia.net:8880/40972/04523/865
+#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="Tamil",Raj Digital Plus
+http://watchindia.net:8880/40972/04523/857
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Raj News Tamil
+http://watchindia.net:8880/40972/04523/853
+#EXTINF:0 tvg-id="RajTv.in" group-title="Tamil",Raj TV
+http://watchindia.net:8880/40972/04523/854
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sirippoli TV
+http://watchindia.net:8880/40972/04523/2084
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sri Sankara TV
+http://watchindia.net:8880/40972/04523/2164
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Tamil Vision International
+http://watchindia.net:8880/40972/04523/863
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Thanthi TV
+http://watchindia.net:8880/40972/04523/860
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Travel XP Tamil
+http://watchindia.net:8880/40972/04523/872
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Vasanth TV
+http://watchindia.net:8880/40972/04523/858
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Vendhar TV
+http://watchindia.net:8880/40972/04523/2146
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Tamil
+http://watchindia.net:8880/40972/04523/887
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Thirai
+http://watchindia.net:8880/40972/04523/2142
+
+#EXTINF:0 tvg-id="MaaTv.in" group-title="Telugu",Star Maa HD
+http://watchindia.net:8880/40972/04523/933
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Star Maa Movies HD
+http://watchindia.net:8880/40972/04523/934
+#EXTINF:0 tvg-id="MaaGold.in" group-title="Telugu",Star Maa Gold
+http://watchindia.net:8880/40972/04523/935
+#EXTINF:0 tvg-id="GeminiTvHD.in" group-title="Telugu",Gemini TV HD
+http://watchindia.net:8880/40972/04523/928
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Gemini Comedy
+http://watchindia.net:8880/40972/04523/971
+#EXTINF:0 tvg-id="GeminiMovies.in" group-title="Telugu",Gemini Movies HD
+http://watchindia.net:8880/40972/04523/930
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Gemini Music HD
+http://watchindia.net:8880/40972/04523/929
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Gemini Life
+http://watchindia.net:8880/40972/04523/931
+#EXTINF:0 tvg-id="10-tv" group-title="Telugu",10 TV
+http://watchindia.net:8880/40972/04523/981
+#EXTINF:0 tvg-id="ext" group-title="Telugu",ABN News
+http://watchindia.net:8880/40972/04523/980
+#EXTINF:0 tvg-id="BhaktiTV.in" group-title="Telugu",Bhakti TV
+http://watchindia.net:8880/40972/04523/977
+#EXTINF:0 tvg-id="ext" group-title="Telugu",CVR News
+http://watchindia.net:8880/40972/04523/975
+#EXTINF:0 tvg-id="ext" group-title="Telugu",DD Saptagiri
+http://watchindia.net:8880/40972/04523/974
+#EXTINF:0 tvg-id="ETV.ee" group-title="Telugu",ETV HD
+http://watchindia.net:8880/40972/04523/936
+#EXTINF:0 tvg-id="ext" group-title="Telugu",ETV Life
+http://watchindia.net:8880/40972/04523/938
+#EXTINF:0 tvg-id="ext" group-title="Telugu",ETV Plus HD
+http://watchindia.net:8880/40972/04523/937
+#EXTINF:0 tvg-id="ext" group-title="Telugu",NTV News
+http://watchindia.net:8880/40972/04523/2193
+#EXTINF:0 tvg-id="RajMusixTelugu.in" group-title="Telugu",Raj Musix Telugu
+http://watchindia.net:8880/40972/04523/957
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Raj News Telugu
+http://watchindia.net:8880/40972/04523/956
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Sakshi TV
+http://watchindia.net:8880/40972/04523/955
+#EXTINF:0 tvg-id="ext" group-title="Telugu",T News
+http://watchindia.net:8880/40972/04523/949
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Thanthi TV
+http://watchindia.net:8880/40972/04523/947
+#EXTINF:0 tvg-id="ext" group-title="Telugu",TV9
+http://watchindia.net:8880/40972/04523/945
+#EXTINF:0 tvg-id="V6News.in" group-title="Telugu",V6 News
+http://watchindia.net:8880/40972/04523/943
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Vissa TV
+http://watchindia.net:8880/40972/04523/942
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Zee Cinemalu HD
+http://watchindia.net:8880/40972/04523/941
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Zee Telugu HD
+http://watchindia.net:8880/40972/04523/940
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Star Maa Music
+http://watchindia.net:8880/40972/04523/2192
+
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Colors HD Kannada
+http://watchindia.net:8880/40972/04523/982
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Colors Super HD
+http://watchindia.net:8880/40972/04523/983
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Prajaa TV
+http://watchindia.net:8880/40972/04523/997
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Public TV
+http://watchindia.net:8880/40972/04523/996
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Raj Musix Kannada
+http://watchindia.net:8880/40972/04523/993
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Raj News Kannada
+http://watchindia.net:8880/40972/04523/995
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Suvarna HD
+http://watchindia.net:8880/40972/04523/985
+#EXTINF:0 tvg-id="SuvarnaNews24x7.in" group-title="Kannada",Suvarna News
+http://watchindia.net:8880/40972/04523/990
+#EXTINF:0 tvg-id="SuvarnaPlus.in" group-title="Kannada",Suvarna Plus
+http://watchindia.net:8880/40972/04523/984
+#EXTINF:0 tvg-id="ext" group-title="Kannada",TV5 News
+http://watchindia.net:8880/40972/04523/987
+#EXTINF:0 tvg-id="ext" group-title="Kannada",TV9 News
+http://watchindia.net:8880/40972/04523/986
+#EXTINF:0 tvg-id="UdayaComedy.in" group-title="Kannada",Udaya Comedy
+http://watchindia.net:8880/40972/04523/988
+#EXTINF:0 tvg-id="Udaya.in" group-title="Kannada",Udaya HD
+http://watchindia.net:8880/40972/04523/1002
+#EXTINF:0 tvg-id="UdayaMovies.in" group-title="Kannada",Udaya Movies
+http://watchindia.net:8880/40972/04523/1004
+#EXTINF:0 tvg-id="UdayaMusic.in" group-title="Kannada",Udaya Music
+http://watchindia.net:8880/40972/04523/1003
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Zee Kannada HD
+http://watchindia.net:8880/40972/04523/1001
+
+#EXTINF:0 tvg-id="9XJhakaas.in" group-title="Marathi",9X Jhakaas
+http://watchindia.net:8880/40972/04523/926
+#EXTINF:0 tvg-id="ext" group-title="Marathi",ABP Majha
+http://watchindia.net:8880/40972/04523/925
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Colors HD Marathi
+http://watchindia.net:8880/40972/04523/912
+#EXTINF:0 tvg-id="ext" group-title="Marathi",DD Sahyadri
+http://watchindia.net:8880/40972/04523/927
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Fakt
+http://watchindia.net:8880/40972/04523/924
+#EXTINF:0 tvg-id="ext" group-title="Marathi",News 18 Lokmat
+http://watchindia.net:8880/40972/04523/922
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Saam
+http://watchindia.net:8880/40972/04523/921
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Sangeet
+http://watchindia.net:8880/40972/04523/920
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Sony Marathi
+http://watchindia.net:8880/40972/04523/919
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Star Pravah HD
+http://watchindia.net:8880/40972/04523/918
+#EXTINF:0 tvg-id="ext" group-title="Marathi",TV9
+http://watchindia.net:8880/40972/04523/917
+#EXTINF:0 tvg-id="Zee24Taas.in" group-title="Marathi",Zee 24 Taas
+http://watchindia.net:8880/40972/04523/916
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Zee HD Marathi
+http://watchindia.net:8880/40972/04523/913
+#EXTINF:0 tvg-id="ZeeTalkies.in" group-title="Marathi",Zee Talkies HD
+http://watchindia.net:8880/40972/04523/914
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Zee Yuva
+http://watchindia.net:8880/40972/04523/915
+
+#EXTINF:0 tvg-id="ext" group-title="Bengali",Aakash Aath
+http://watchindia.net:8880/40972/04523/2295
+#EXTINF:0 tvg-id="ext" group-title="Bengali",ABP Ananda
+http://watchindia.net:8880/40972/04523/2285
+#EXTINF:0 tvg-id="ext" group-title="Bengali",Colors Bangla HD
+http://watchindia.net:8880/40972/04523/2284
+#EXTINF:0 tvg-id="DhoomMusic.in" group-title="Bengali",Dhoom Music
+http://watchindia.net:8880/40972/04523/2289
+#EXTINF:0 tvg-id="ext" group-title="Bengali",Sony Aath
+http://watchindia.net:8880/40972/04523/2286
+#EXTINF:0 tvg-id="ext" group-title="Bengali",Star Jalsha HD
+http://watchindia.net:8880/40972/04523/2281
+#EXTINF:0 tvg-id="ext" group-title="Bengali",Sun Bangla
+http://watchindia.net:8880/40972/04523/2290
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Bengali",Zee Bangla HD
+http://watchindia.net:8880/40972/04523/2283
+
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",ABP Asmita HD
+http://watchindia.net:8880/40972/04523/1012
+#EXTINF:0 tvg-id="CNBCBajar.in" group-title="Gujurati",CNBC Bajar
+http://watchindia.net:8880/40972/04523/1919
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",Colors Gujarati
+http://watchindia.net:8880/40972/04523/1006
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",GSTV
+http://watchindia.net:8880/40972/04523/1922
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",Kartavya TV
+http://watchindia.net:8880/40972/04523/1920
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",Lakshya TV
+http://watchindia.net:8880/40972/04523/1014
+#EXTINF:0 tvg-id="SandeshNewsDNN.in" group-title="Gujurati",Sandesh News
+http://watchindia.net:8880/40972/04523/1011
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",TV9 Gujarati
+http://watchindia.net:8880/40972/04523/1007
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",Zee 24 Kalak
+http://watchindia.net:8880/40972/04523/1008
+
+#EXTINF:0 tvg-id="92News.uk" group-title="Urdu",92 News
+http://watchindia.net:8880/40972/04523/1050
+#EXTINF:0 tvg-id="ext" group-title="Urdu",A Plus
+http://watchindia.net:8880/40972/04523/1021
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Aaj News
+http://watchindia.net:8880/40972/04523/1051
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Abb Takk News
+http://watchindia.net:8880/40972/04523/1062
+#EXTINF:0 tvg-id="ARYDigital.uk" group-title="Urdu",Ary Digital
+http://watchindia.net:8880/40972/04523/1018
+#EXTINF:0 tvg-id="ARYNews.uk" group-title="Urdu",Ary News
+http://watchindia.net:8880/40972/04523/1042
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Bol Entertainment
+http://watchindia.net:8880/40972/04523/1030
+#EXTINF:0 tvg-id="ext" group-title="Urdu",BOL News
+http://watchindia.net:8880/40972/04523/1052
+#EXTINF:0 tvg-id="CapitalTV.uk" group-title="Urdu",Capital TV
+http://watchindia.net:8880/40972/04523/1049
+#EXTINF:0 tvg-id="DunyaNews.uk" group-title="Urdu",Dunya News
+http://watchindia.net:8880/40972/04523/1061
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Express Entertainment
+http://watchindia.net:8880/40972/04523/1029
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Express News
+http://watchindia.net:8880/40972/04523/1047
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Geo Kahani
+http://watchindia.net:8880/40972/04523/2268
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Geo Super
+http://watchindia.net:8880/40972/04523/1016
+#EXTINF:0 tvg-id="GEOTEZ.uk" group-title="Urdu",Geo Tez
+http://watchindia.net:8880/40972/04523/1043
+#EXTINF:0 tvg-id="HUMMasala.uk" group-title="Urdu",Hum Masala
+http://watchindia.net:8880/40972/04523/1023
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Hum Sitaray
+http://watchindia.net:8880/40972/04523/1024
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Kay 2
+http://watchindia.net:8880/40972/04523/1027
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Khyber News
+http://watchindia.net:8880/40972/04523/1054
+#EXTINF:0 tvg-id="ext" group-title="Urdu",AVT Khyber
+http://watchindia.net:8880/40972/04523/1034
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Lahore News
+http://watchindia.net:8880/40972/04523/1046
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Neo News HD
+http://watchindia.net:8880/40972/04523/1057
+#EXTINF:0 tvg-id="newsone" group-title="Urdu",News One
+http://watchindia.net:8880/40972/04523/1017
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Hum Pashto 1
+http://watchindia.net:8880/40972/04523/1036
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Urdu",Peace TV
+http://watchindia.net:8880/40972/04523/1063
+#EXTINF:0 tvg-id="ext" group-title="Urdu",PTV Home
+http://watchindia.net:8880/40972/04523/1033
+#EXTINF:0 tvg-id="ext" group-title="Urdu",PTV News
+http://watchindia.net:8880/40972/04523/1053
+#EXTINF:0 tvg-id="ext" group-title="Urdu",Public News
+http://watchindia.net:8880/40972/04523/1059
+#EXTINF:0 tvg-id="ext" group-title="Urdu",PTV Sports
+http://watchindia.net:8880/40972/04523/2325
+
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",5AAB TV
+http://watchindia.net:8880/40972/04523/2195
+#EXTINF:0 tvg-id="9XTashan.in" group-title="Punjabi",9X Tashan
+http://watchindia.net:8880/40972/04523/1950
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",ABP Sanjha
+http://watchindia.net:8880/40972/04523/1953
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",Balle Balle
+http://watchindia.net:8880/40972/04523/1955
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",MH One Music
+http://watchindia.net:8880/40972/04523/1949
+#EXTINF:0 tvg-id="PTCChakDe.in" group-title="Punjabi",PTC Chakde
+http://watchindia.net:8880/40972/04523/1944
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",PTC IN
+http://watchindia.net:8880/40972/04523/1941
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",PTC Music
+http://watchindia.net:8880/40972/04523/1945
+#EXTINF:0 tvg-id="PTCNews.in" group-title="Punjabi",PTC News
+http://watchindia.net:8880/40972/04523/1943
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",PTC Simran
+http://watchindia.net:8880/40972/04523/1946
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",Zee Punjab HH
+http://watchindia.net:8880/40972/04523/1952
+#EXTINF:0 tvg-id="ZeePunjabi.uk" group-title="Punjabi",Zee Punjabi
+http://watchindia.net:8880/40972/04523/1951
+
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (1)
+http://watchindia.net:8880/40972/04523/2232
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (2)
+http://watchindia.net:8880/40972/04523/2456
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (3)
+http://watchindia.net:8880/40972/04523/2678
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1 HD (Hindi)
+http://watchindia.net:8880/40972/04523/2673
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 HD (1)
+http://watchindia.net:8880/40972/04523/1069
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 HD (2)
+http://watchindia.net:8880/40972/04523/2163
+#EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="Sports",Star Sports Select 1 HD
+http://watchindia.net:8880/40972/04523/1070
+#EXTINF:0 tvg-id="StarSportsSelectHD2.in" group-title="Sports",Star Sports Select 2 HD
+http://watchindia.net:8880/40972/04523/1071
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sports",Sky Sports Main Event
+http://watchindia.net:8880/40972/04523/2091
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sports",Sky Sports Premier League
+http://watchindia.net:8880/40972/04523/2092
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Sports",Sky Sports Cricket
+http://watchindia.net:8880/40972/04523/2090
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Sports",Sky Sports F1
+http://watchindia.net:8880/40972/04523/2094
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sports +
+http://watchindia.net:8880/40972/04523/2095
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Sports",Sky Sports Golf
+http://watchindia.net:8880/40972/04523/2096
+#EXTINF:0 tvg-id="TenHD.in" group-title="Sports",Sony Ten 1 HD (1)
+http://watchindia.net:8880/40972/04523/1756
+#EXTINF:0 tvg-id="TenHD.in" group-title="Sports",Sony Ten 1 HD (2)
+http://watchindia.net:8880/40972/04523/2215
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony Ten 2 HD
+http://watchindia.net:8880/40972/04523/1757
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony Ten 3 HD
+http://watchindia.net:8880/40972/04523/1758
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony Ten 4 HD
+http://watchindia.net:8880/40972/04523/2662
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony Ten 5 HD
+http://watchindia.net:8880/40972/04523/2663
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sports 18 1 HD
+http://watchindia.net:8880/40972/04523/2423
+#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 1
+http://watchindia.net:8880/40972/04523/2657
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Sports",Fox Sports 1
+http://watchindia.net:8880/40972/04523/2421
+#EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD Sports
+http://watchindia.net:8880/40972/04523/2380
+#EXTINF:0 tvg-id="WillowCricket.us" group-title="Sports",Willow HD (1)
+http://watchindia.net:8880/40972/04523/1067
+#EXTINF:0 tvg-id="WillowCricket.us" group-title="Sports",Willow HD (2)
+http://watchindia.net:8880/40972/04523/2145
+#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Cricket
+http://watchindia.net:8880/40972/04523/2174
+

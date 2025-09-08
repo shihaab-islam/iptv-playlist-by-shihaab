@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Discovery-Playlist " tvg-logo="https://i.postimg.cc/y8t3JGRj/AHA-Discovery.png",Discovery BN
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="Discovery-Playlist " tvg-logo="https://i.postimg.cc/y8t3JGRj/AHA-Discovery.png",Discovery HIN
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 group-title="Discovery-Playlist " tvg-logo="https://i.postimg.cc/y8t3JGRj/AHA-Discovery.png",Discovery EN
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 group-title="Discovery-Playlist " tvg-logo="https://i.postimg.cc/y8t3JGRj/AHA-Discovery.png",Animal Planet Multi Audio
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 group-title="Discovery-Playlist " tvg-logo="https://i.postimg.cc/y8t3JGRj/AHA-Discovery.png",Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 group-title="Discovery-Playlist " tvg-logo="https://i.postimg.cc/y8t3JGRj/AHA-Discovery.png",
+❌
+#EXTINF:-1 group-title="Discovery-Playlist " tvg-logo="https://i.postimg.cc/y8t3JGRj/AHA-Discovery.png",
+❌
+#EXTINF:-1 group-title="Discovery-Playlist " tvg-logo="https://i.postimg.cc/y8t3JGRj/AHA-Discovery.png",
+❌

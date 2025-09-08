@@ -1,0 +1,334 @@
+#EXTM3U
+#EXTINF:-1 group-title="BANGLA-MOVIES-HD" tvg-logo="https://i.postimg.cc/bwDLtfGW/480p.png",24/7-SD-1
+http://starshare.live:8080/live/Paul1/Paul1/136496.ts
+#EXTINF:-1 group-title="BANGLA-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-2
+http://starshare.live:8080/live/Paul1/Paul1/136495.ts
+#EXTINF:-1 group-title="BANGLA-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-3
+http://starshare.live:8080/live/Paul1/Paul1/136497.ts
+#EXTINF:-1 group-title="BANGLA-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-4
+http://starshare.live:8080/live/Paul1/Paul1/136498.ts
+#EXTINF:-1 group-title="BANGLA-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-5
+http://starshare.live:8080/live/Paul1/Paul1/136500.ts
+#EXTINF:-1 group-title="BANGLA-MOVIES-HD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-6
+http://starshare.live:8080/live/Paul1/Paul1/136501.ts
+#EXTINF:-1 group-title="BANGLA-MOVIES-HD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-7
+http://starshare.live:8080/live/Paul1/Paul1/136494.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/yNxY7nkV/News.png",Jamuna-TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/bv5Yrbt1/News-480p.png",Jamuna-SD
+http://xtv.ooo:8080/live/518340/238497/245917.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/bv5Yrbt1/News-480p.png",ATN N-SD
+http://xtv.ooo:8080/live/518340/238497/245905.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/bv5Yrbt1/News-480p.png",Channel i-SD
+http://xtv.ooo:8080/live/518340/238497/245913.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/wM86cpFv/News-1080p.png",Channel i-FHD
+http://starshare.live:8080/live/Paul1/Paul1/34665.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/yNxY7nkV/News.png",DBC-SD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@dbcnewstv
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/bv5Yrbt1/News-480p.png",DBC-SD
+http://xtv.ooo:8080/live/518340/238497/245914.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",AsinTV-HD
+https://mtlivestream.com/asian/ytlive/index.m3u8
+
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/bv5Yrbt1/News-480p.png",Somoy-SD
+http://xtv.ooo:8080/live/518340/238497/245925.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",SomoyTV-HD
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",News 24-HD
+http://tv.cloudcdn.me/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/bv5Yrbt1/News-480p.png",AnandaTV-SD
+http://xtv.ooo:8080/live/518340/238497/245929.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",AnandaTV-HD
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/bv5Yrbt1/News-480p.png",DeeptoTV-SD
+http://xtv.ooo:8080/live/518340/238497/245927.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/wM86cpFv/News-1080p.png",DepttoTV-FHD
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",BTV-HD
+http://xtv.ooo:8080/live/518340/238497/245930.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",BTV-HD
+http://176.119.29.52/live.ts?channelId=44154&uid=13433&deviceMac=00:1A:79:00:97:A1
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",ATN B-HD
+http://xtv.ooo:8080/live/518340/238497/245909.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",ATN B-HD
+http://176.119.29.52/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",RTV-HD
+http://xtv.ooo:8080/live/518340/238497/245911.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",RTV-HD
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",SATV-HD
+http://xtv.ooo:8080/live/518340/238497/245945.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",SATV-HD
+http://tv.cloudcdn.me/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/bv5Yrbt1/News-480p.png",BanglaTV-SD
+http://xtv.ooo:8080/live/518340/238497/245910.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/bv5Yrbt1/News-480p.png",Ekattor-SD
+http://xtv.ooo:8080/live/518340/238497/245915.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",Ekattor-HD
+http://tv.cloudcdn.me/live.ts?channelId=95&uid=1904&deviceMac=00:1A:79:4C:9A:52
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",INDE-HD
+http://xtv.ooo:8080/live/518340/238497/245916.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/wM86cpFv/News-1080p.png",INDE-FHD
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",Boishaki-HD
+http://xtv.ooo:8080/live/518340/238497/245923.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/85rp65R9/News-720p.png",BN-VS-HD
+http://xtv.ooo:8080/live/518340/238497/245957.ts
+#EXTINF:-1 group-title="BANGLA-NEWS-" tvg-logo="https://i.postimg.cc/wM86cpFv/News-1080p.png",Channel 24-FHD
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/gjHPV6nS/SP-720p.png",TSports-HD
+http://xtv.ooo:8080/live/518340/238497/245901.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/gjHPV6nS/SP-720p.png",Geo Sp-HD
+http://xtv.ooo:8080/live/518340/238497/167568.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/gjHPV6nS/SP-720p.png",A SP-HD
+http://xtv.ooo:8080/live/518340/238497/219689.ts
+#EXTINF:-1 group-title="Sports-FHD" tvg-logo="https://i.postimg.cc/vZBdnTMh/SP-1080p.png",SP1-FHD
+http://xtv.ooo:8080/live/518340/238497/167573.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/gjHPV6nS/SP-720p.png",SP1-HD
+http://xtv.ooo:8080/live/518340/238497/167575.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/Ss84KPqp/Sports.png",SP3-SD
+http://xtv.ooo:8080/live/518340/238497/167577.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/gjHPV6nS/SP-720p.png",SPS2-HD
+http://xtv.ooo:8080/live/518340/238497/167579.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/gjHPV6nS/SP-720p.png",JioCR-HD
+http://xtv.ooo:8080/live/518340/238497/206297.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/Ss84KPqp/Sports.png"",WWE-SD
+http://xtv.ooo:8080/live/518340/238497/383065.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/gjHPV6nS/SP-720p.png",WWE N-HD
+http://xtv.ooo:8080/live/518340/238497/383063.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/gjHPV6nS/SP-720p.png",WWE-HD
+http://xtv.ooo:8080/live/518340/238497/383062.ts
+
+#EXTINF:-1 group-title="Sports-FHD" tvg-logo="https://i.postimg.cc/vZBdnTMh/SP-1080p.png",Sports 18-FHD
+http://xtv.ooo:8080/live/518340/238497/382205.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/Ss84KPqp/Sports.png",PTV-SD
+http://xtv.ooo:8080/live/518340/238497/217968.ts
+#EXTINF:-1 group-title="Sports-HD" tvg-logo="https://i.postimg.cc/Ss84KPqp/Sports.png",PTV-SD
+http://xtv.ooo:8080/live/518340/238497/220059.ts
+#EXTINF:-1 group-title="Sports-FHD" tvg-logo="https://i.postimg.cc/vZBdnTMh/SP-1080p.png",S-FHD
+
+#EXTINF:-1 group-title="Sports-FHD" tvg-logo="https://i.postimg.cc/vZBdnTMh/SP-1080p.png",S-FHD
+
+#EXTINF:-1 group-title="Sports-FHD" tvg-logo="https://i.postimg.cc/vZBdnTMh/SP-1080p.png",S-FHD
+
+#EXTINF:-1 group-title="Sports-FHD" tvg-logo="https://i.postimg.cc/vZBdnTMh/SP-1080p.png",S-FHD
+
+#EXTINF:-1 group-title="Sports-FHD" tvg-logo="https://i.postimg.cc/vZBdnTMh/SP-1080p.png",S-FHD
+
+#EXTINF:-1 group-title="Sports-FHD" tvg-logo="https://i.postimg.cc/vZBdnTMh/SP-1080p.png",S-FHD
+
+#EXTINF:-1 group-title="Sports-FHD" tvg-logo="https://i.postimg.cc/vZBdnTMh/SP-1080p.png",S-FHD
+
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/QCQjfynq/Series.png",Star J-SD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/L6S9JmnQ/SE-720p.png",Star J-HD
+http://starshare.live:8080/live/Paul1/Paul1/198.ts
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/L6S9JmnQ/SE-720p.png",Star J-HD
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=3788&deviceMac=00:1A:79:6D:8A:C6
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/Jz6MYJKS/SE-1080p.png",Star J-FHD
+http://xtv.ooo:8080/live/518340/238497/245898.ts
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/Jz6MYJKS/SE-1080p.png",Star J-FHD
+http://starshare.live:8080/live/Paul1/Paul1/98883.ts
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/QCQjfynq/Series.png",Zee B-TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/L6S9JmnQ/SE-720p.png",Zee B-HD
+http://217.20.112.199/zeebangla/index.m3u8
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/Jz6MYJKS/SE-1080p.png",Zee B-FHD
+http://starshare.live:8080/live/Paul1/Paul1/98881.ts
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/Jz6MYJKS/SE-1080p.png",Sony 
+
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/L6S9JmnQ/SE-720p.png",Colors-HD
+http://mega4k.one:8080/live/monu1234/monu4321/74781.ts
+#EXTINF:-1 group-title="Series-" tvg-logo="https://i.postimg.cc/Jz6MYJKS/SE-1080p.png",Colors B-FHD
+http://starshare.live:8080/live/Paul1/Paul1/98882.ts
+#EXTINF:-1 group-title="Music-" tvg-logo="https://i.postimg.cc/J43hxGfW/Music.png",B4u-SD
+http://mega4k.one:8080/live/monu1234/monu4321/62160.ts
+#EXTINF:-1 group-title="Music-" tvg-logo="https://i.postimg.cc/J43hxGfW/Music.png",9XM-SD
+http://mega4k.one:8080/live/monu1234/monu4321/97331.ts
+#EXTINF:-1 group-title="Music-" tvg-logo="https://i.postimg.cc/J43hxGfW/Music.png",Zing-SD
+http://mega4k.one:8080/live/monu1234/monu4321/62238.ts
+#EXTINF:-1 group-title="Music-" tvg-logo="https://i.postimg.cc/J43hxGfW/Music.png",8XM-SD
+http://mega4k.one:8080/live/monu1234/monu4321/119653.ts
+#EXTINF:-1 group-title="Music-" tvg-logo="https://i.postimg.cc/J43hxGfW/Music.png",8-HD
+
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-1
+http://starshare.live:8080/live/Paul1/Paul1/135457.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-2
+http://starshare.live:8080/live/Paul1/Paul1/135458.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-3
+http://starshare.live:8080/live/Paul1/Paul1/135461.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-4
+http://starshare.live:8080/live/Paul1/Paul1/135462.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-5
+http://starshare.live:8080/live/Paul1/Paul1/135463.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-6
+http://starshare.live:8080/live/Paul1/Paul1/135464.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-7
+http://starshare.live:8080/live/Paul1/Paul1/135465.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-8
+http://starshare.live:8080/live/Paul1/Paul1/135467.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-9
+http://starshare.live:8080/live/Paul1/Paul1/135468.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-10
+http://starshare.live:8080/live/Paul1/Paul1/135470.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-11
+http://starshare.live:8080/live/Paul1/Paul1/135471.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-12
+http://starshare.live:8080/live/Paul1/Paul1/135473.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-13
+http://starshare.live:8080/live/Paul1/Paul1/135477.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-14
+http://starshare.live:8080/live/Paul1/Paul1/135478.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-15
+http://starshare.live:8080/live/Paul1/Paul1/135479.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-16
+http://starshare.live:8080/live/Paul1/Paul1/135483.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-17
+http://starshare.live:8080/live/Paul1/Paul1/135486.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-18
+http://starshare.live:8080/live/Paul1/Paul1/135487.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-19
+http://starshare.live:8080/live/Paul1/Paul1/135488.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-20
+http://starshare.live:8080/live/Paul1/Paul1/135493.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-21
+http://starshare.live:8080/live/Paul1/Paul1/135494.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-22
+http://starshare.live:8080/live/Paul1/Paul1/135497.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-23
+http://starshare.live:8080/live/Paul1/Paul1/135498.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-24
+http://starshare.live:8080/live/Paul1/Paul1/135500.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-25
+http://starshare.live:8080/live/Paul1/Paul1/135504.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-26
+http://starshare.live:8080/live/Paul1/Paul1/135517.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-27
+http://starshare.live:8080/live/Paul1/Paul1/135520.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-28
+http://starshare.live:8080/live/Paul1/Paul1/135522.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-29
+http://starshare.live:8080/live/Paul1/Paul1/135523.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-30
+http://starshare.live:8080/live/Paul1/Paul1/135525.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-31
+http://starshare.live:8080/live/Paul1/Paul1/135526.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/L8RJFztX/Movies-480p.png",24/7-SD-32
+http://starshare.live:8080/live/Paul1/Paul1/135527.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-33
+http://starshare.live:8080/live/Paul1/Paul1/135465.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-34
+http://starshare.live:8080/live/Paul1/Paul1/135468.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-35
+http://starshare.live:8080/live/Paul1/Paul1/135471.ts
+
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-1
+https://starshare.live:8080/live/Paul1/Paul1/135474.tshttps://starshare.live:8080/live/Paul1/Paul1/135459.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-2
+https://starshare.live:8080/live/Paul1/Paul1/135460.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-3
+https://starshare.live:8080/live/Paul1/Paul1/135466.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-4
+https://starshare.live:8080/live/Paul1/Paul1/135469.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-5
+https://starshare.live:8080/live/Paul1/Paul1/135472.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-6
+https://starshare.live:8080/live/Paul1/Paul1/135475.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-7
+https://starshare.live:8080/live/Paul1/Paul1/135476.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-8
+https://starshare.live:8080/live/Paul1/Paul1/135480.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-9
+https://starshare.live:8080/live/Paul1/Paul1/135481.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-10
+https://starshare.live:8080/live/Paul1/Paul1/135482.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-11
+https://starshare.live:8080/live/Paul1/Paul1/135484.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-12
+https://starshare.live:8080/live/Paul1/Paul1/135489.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-13
+https://starshare.live:8080/live/Paul1/Paul1/135490.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-14
+https://starshare.live:8080/live/Paul1/Paul1/135492.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-15
+https://starshare.live:8080/live/Paul1/Paul1/135505.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-16
+https://starshare.live:8080/live/Paul1/Paul1/135507.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-17
+https://starshare.live:8080/live/Paul1/Paul1/135518.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-18
+https://starshare.live:8080/live/Paul1/Paul1/135524.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-19
+http://starshare.live:8080/live/Paul1/Paul1/135457.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-20
+http://starshare.live:8080/live/Paul1/Paul1/135458.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-21
+http://starshare.live:8080/live/Paul1/Paul1/135464.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-22
+http://starshare.live:8080/live/Paul1/Paul1/135466.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-23
+http://starshare.live:8080/live/Paul1/Paul1/135473.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-24
+http://starshare.live:8080/live/Paul1/Paul1/135475.ts
+#EXTINF:-1 group-title="HINDI-MOVIES-FHD" tvg-logo="https://i.postimg.cc/wMLjSv3L/Movies-1080p.png",24/7-FHD-25
+
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/KzXXC5Tp/Discovery.png",Discovery-BN
+http://xtv.ooo:8080/live/518340/238497/245966.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/KzXXC5Tp/Discovery.png",Multi-Discovery-BN
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/KzXXC5Tp/Discovery.png",Multi-Discovery-HIN
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/VvR3rQV2/Dis-1080p.png",FHD-Discovery
+http://starshare.live:8080/live/Paul1/Paul1/98872.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/KzXXC5Tp/Discovery.png",Multi-Animal-P
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/VvR3rQV2/Dis-1080p.png",FHD-Animal-P
+http://starshare.live:8080/live/Paul1/Paul1/98873.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/KzXXC5Tp/Discovery.png",SD-1
+http://starshare.live:8080/live/Paul1/Paul1/7342.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/KzXXC5Tp/Discovery.png",SD-2
+http://starshare.live:8080/live/Paul1/Paul1/7343.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/KzXXC5Tp/Discovery.png",SD-3
+http://starshare.live:8080/live/Paul1/Paul1/7344.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/nzv8xQYF/Dis-720p.png",HD-1
+http://starshare.live:8080/live/Paul1/Paul1/121317.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/nzv8xQYF/Dis-720p.png",HD-2
+http://starshare.live:8080/live/Paul1/Paul1/121317.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/nzv8xQYF/Dis-720p.png",HD-3
+http://starshare.live:8080/live/Paul1/Paul1/121328.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/nzv8xQYF/Dis-720p.png",HD-4
+http://starshare.live:8080/live/Paul1/Paul1/121338.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/VvR3rQV2/Dis-1080p.png",FHD-1
+http://starshare.live:8080/live/Paul1/Paul1/98874.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/VvR3rQV2/Dis-1080p.png",FHD-2
+http://starshare.live:8080/live/Paul1/Paul1/98875.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/VvR3rQV2/Dis-1080p.png",FHD-3
+http://starshare.live:8080/live/Paul1/Paul1/98877.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/VvR3rQV2/Dis-1080p.png",FHD-4
+http://starshare.live:8080/live/Paul1/Paul1/5252.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/VvR3rQV2/Dis-1080p.png",FHD-5
+http://starshare.live:8080/live/Paul1/Paul1/9394.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/VvR3rQV2/Dis-1080p.png",FHD-6
+http://starshare.live:8080/live/Paul1/Paul1/9395.ts
+#EXTINF:-1 group-title="Discovery-" tvg-logo="https://i.postimg.cc/VvR3rQV2/Dis-1080p.png",FHD-7
+http://starshare.live:8080/live/Paul1/Paul1/98876.ts
+
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png",ARG-VS-SAU-
+http://starshare.live:8080/movie/Paul1/Paul1/130062.mkv
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png",ARG-VS-Mex-
+http://starshare.live:8080/movie/Paul1/Paul1/130206.mkv
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png",ARG-VS-Pol
+http://starshare.live:8080/movie/Paul1/Paul1/130581.mkv
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png",ARG-VS-Cro
+http://starshare.live:8080/movie/Paul1/Paul1/132496.mkv
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png",ARG-VS-Net
+http://starshare.live:8080/movie/Paul1/Paul1/132498.mkv
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png",ARG-VS-Fra
+http://starshare.live:8080/movie/Paul1/Paul1/133707.mkv
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png",BRA-VS-Ser
+http://starshare.live:8080/movie/Paul1/Paul1/130098.mkv
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png",BRA-VS-Cam
+http://starshare.live:8080/movie/Paul1/Paul1/130627.mkv
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png",BRA-VS-Cro
+http://starshare.live:8080/movie/Paul1/Paul1/133706.mp4
+#EXTINF:-1 group-title="Sports-FIFA" tvg-logo="https://i.postimg.cc/QtP58wvf/FIFA.png", -VS-
