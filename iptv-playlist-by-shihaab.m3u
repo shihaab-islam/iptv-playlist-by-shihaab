@@ -146,7 +146,7 @@ https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 http://172.22.254.40:8088/302/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla FHD
-http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/537.m3u8
+https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (1)
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -369,6 +369,14 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJI29ozcZu1loagP0lJMa_fg3exl8cSbPqN7LNHeDy2gmy7s0MthjZLXx&s=10",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s",Tom & Jerry 24*7
+https://tiger-hub.vercel.app/24%C3%977_Tom&Jerry/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcROpReZSRVTEbQFxyGSKuYr5nFGJDZvB2VdVL5rnLUdBhZNnSSspRGILBam6bANAa2I&usqp=CAU",Doraemon 24*7
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://childrens-binary.files.bbci.co.uk/childrens-binarystore/cbeebies/ShaunTheSheep_TH_Logo.png",Shaun the Sheep 24*7
+https://tiger-hub.vercel.app/kids_Zone/Shaun-the-sheep/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -526,10 +534,21 @@ https://tvsen5.aynaott.com/PtvSports/index.m3u8
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1372.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/1747989339764572160/7nxm03-2_400x400.jpg",LaLiga TV UK
-https://bdixtv24.xyz/sports/m3u8.php/laligauk.m3u8
+https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG16b9ol6EwS9JRTZAsrXMBlaGS-RLTkhSqg&s",Sky Sports Premier League
 https://bdixtv24.xyz/sports/m3u8.php/skysprem.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704071741",TNT Sports 1
+https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230717230828",TNT Sports 2
+https://tiger-hub.vercel.app/TNT-Sports_2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836",TNT Sports 3
+https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704072048",TNT Sports 4
+https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 
 
