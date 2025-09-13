@@ -68,6 +68,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg",GTV HD
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/640px-Independent_Television_Logo.svg.png", Independent TV
 https://tvsen6.aynaott.com/independenttv/index.m3u8
 
@@ -143,7 +144,7 @@ http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/537.m3u8
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (2)
-http://peer19.roarzone.info:8080/roarzone/bk/34/index.fmp4.m3u8?token=75c3175145f49e9e81d70bb45b650be76c9efb5f-7b1eec287bb534d42ee1a7476ad828c8-1757751667-1757740867
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla SD
 http://app.hughag.store/api/154d534216/playlist.m3u8
