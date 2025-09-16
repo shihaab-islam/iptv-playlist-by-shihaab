@@ -271,13 +271,28 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png",Quran TV
+https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2
 
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png",Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaabNL4gYNejrseC89hVWZcHUv-VlniAlcO_BEnmzWU37FMHP2LnpNYHB-&s=10",Aur Life HD
 http://124.109.47.101/hls/stream1.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
 http://app.hughag.store/api/4518a8c92f/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png",ARY Digital
+http://175.107.244.52:4456/play/a051/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png",PTV Home
+http://175.107.244.52:4456/play/a03z/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png",GEO Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+
 
 
 
@@ -503,7 +518,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports HD
-https://xfireflix.fun/Ayna/match.php?id=a3d48c46-7902-45e2-abf9-0fab60c4d117&e=.m3u8
+http://175.107.244.52:4456/play/a04p/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
@@ -530,7 +545,7 @@ https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
-https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
+http://175.107.244.52:4456/play/a042/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1372.m3u8
