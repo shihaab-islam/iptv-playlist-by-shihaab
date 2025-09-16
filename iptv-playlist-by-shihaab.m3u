@@ -557,7 +557,6 @@ https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704072048",TNT Sports 4
 https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV [BD VS SL]
-https://livecfmt-mp.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f4cprod-PlaybackConfig/std_lrh-800300010.m3u8?hdnea=exp=1757788201~acl=/*~id=40743062252870263102219908139323~hmac=f1ad73cd9f0b76791ccdb691c3cf0bb1651c1a27838ab55704c32db7695d83aa
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118980/UCL_Athl1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758083900~acl=/*~id=43915231235301292833663957733662~hmac=3f0652f5376df7af8bac7ed418c3503c1c6bcc7973340097d4af8f60afc788be
 
