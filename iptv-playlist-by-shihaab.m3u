@@ -557,10 +557,10 @@ https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Bayern vs Chelsea
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0f4aprod-PlaybackConfig/2118976/UCL_Real1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758090596~acl=/*~id=87346065367844769664889536346316~hmac=b3139b4a1cdee241d575128a53f3982563dfc0b4ab80342a4f7e63bbb9340009
+https://dai.google.com/ssai/event/TKze0MRpTtao4BnnLtCNng/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Liverpool vs Atlético Madrid
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118978/UCL_Juve1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758090596~acl=/*~id=87346065367844769664889536346316~hmac=b3139b4a1cdee241d575128a53f3982563dfc0b4ab80342a4f7e63bbb9340009
+https://dai.google.com/ssai/event/TKze0MRpTtao4BnnLtCNng/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Ajax vs Inter
 https://dai.google.com/ssai/event/TKze0MRpTtao4BnnLtCNng/master.m3u8
