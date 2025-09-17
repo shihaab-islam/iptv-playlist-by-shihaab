@@ -327,8 +327,8 @@ https://live.dinesh29.com.np/stream/jiotv/9xm/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney India SD
 https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYAVyMp03jBfi6AdenM22M6VdK7eznqeK_Q&s",Disney India HD
-https://stream.himelop-pro.top/vm/disneyop.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney International HD
+https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Jr
 https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
