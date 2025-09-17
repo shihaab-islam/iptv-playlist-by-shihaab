@@ -156,7 +156,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
 http://172.22.254.40:8088/304/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+http://app.hughag.store/api/b6a720edea/playlist.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
@@ -207,13 +207,13 @@ http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1365.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png",Zee TV HD
-http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1364.m3u8
+http://app.hughag.store/api/526bde04a5/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+http://app.hughag.store/api/bff81131e7/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+http://app.hughag.store/api/67380c0ffa/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/colorshd.png",Colors HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
@@ -240,13 +240,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 http://app.hughag.store/api/63785f090e/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD (1)
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+http://app.hughag.store/api/9bcb965282/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD (2)
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1366.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjcltHO7rPxe4UJuyUv34ntowOGApKbaM4-9q1RW0ZSdvA3L4GBZvUSWC&s=10",Sony Max 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+http://app.hughag.store/api/a5d2c9a383/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
@@ -254,7 +254,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cinelex Bollywood
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png",&Pictures HD
+#EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png",& Pictures 
 http://app.hughag.store/api/e4b503da70/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A0Vd31lmefn_He1-PXLcN2OqNR_O-WjxGOoXpDLdrDykL4H-qYJz5Ysp&s=10",B4U Movies
@@ -367,7 +367,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/animax/master.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/Al23vKkkhMd04Y3R29Qsn9aOy14rxNPlNzXWDoZDtGvzEk1fwu7nAZmMqLmtx_Y5oXKSNrQr=s900-c-k-c0x00ffffff-no-rj",Sony YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+http://app.hughag.store/api/b45f637d05/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
@@ -410,7 +410,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Sony_Pix_logo.svg/1200px-Sony_Pix_logo.svg.png",Sony Pix HD
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+http://app.hughag.store/api/0d6787eb3a/playlist.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_list/1170x658withlogo325698699.png",Zee Cafe
 http://app.hughag.store/api/f914787389/playlist.m3u8
@@ -427,11 +427,10 @@ http://app.hughag.store/api/f914787389/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",BBC Earth
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+http://app.hughag.store/api/3e9d231a84/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png", National Geographic
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
-
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Bengali
 https://live.dinesh29.com.np/stream/jiotv/discoverybengali/master.m3u8
@@ -488,10 +487,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD (1)
-https://xfireflix.fun/Ayna/match.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD (2)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 http://203.18.159.115:8081/T_SPORTS/index.m3u
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/1200?cb=20231207072745",Toffee Asia Cup
@@ -515,20 +512,17 @@ https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports HD
 http://175.107.244.52:4456/play/a04p/index.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png",Ten Cricekt
+http://app.hughag.store/api/6b9c461155/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+http://app.hughag.store/api/762cf859a8/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-4-HD.jpg",Sony Sports 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-4-HD.jpg",Sony Sports 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+http://app.hughag.store/api/45dc1e0f41/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+http://app.hughag.store/api/d74ec2f219/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png",Willow HD 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
