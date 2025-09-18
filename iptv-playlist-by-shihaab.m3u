@@ -521,7 +521,7 @@ http://175.107.244.52:4456/play/a04p/index.m3u8
 http://app.hughag.store/api/6b9c461155/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
-https://unxone.vercel.app/live/sonyten1-138.m3u8
+https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
 https://unxone.vercel.app/live/sonyten2-090.m3u8
