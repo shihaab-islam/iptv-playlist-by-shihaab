@@ -150,7 +150,7 @@ https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla SD (2)
-https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+https://dish.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla FHD
 https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
@@ -213,10 +213,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 http://app.hughag.store/api/526bde04a5/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-http://app.hughag.store/api/bff81131e7/playlist.m3u8
+https://dish.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
-http://app.hughag.store/api/67380c0ffa/playlist.m3u8
+https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/colorshd.png",Colors HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
@@ -243,13 +243,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 https://tvsen6.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD (1)
-http://app.hughag.store/api/9bcb965282/playlist.m3u8
+https://dish.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD (2)
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1366.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjcltHO7rPxe4UJuyUv34ntowOGApKbaM4-9q1RW0ZSdvA3L4GBZvUSWC&s=10",Sony Max 2
-http://app.hughag.store/api/a5d2c9a383/playlist.m3u8
+https://dish.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
@@ -370,7 +370,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/animax/master.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/Al23vKkkhMd04Y3R29Qsn9aOy14rxNPlNzXWDoZDtGvzEk1fwu7nAZmMqLmtx_Y5oXKSNrQr=s900-c-k-c0x00ffffff-no-rj",Sony YAY
-http://app.hughag.store/api/b45f637d05/playlist.m3u8
+https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Pogo
 http://app.hughag.store/api/d2586d604e/playlist.m3u8
@@ -413,7 +413,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Sony_Pix_logo.svg/1200px-Sony_Pix_logo.svg.png",Sony Pix HD
-http://app.hughag.store/api/0d6787eb3a/playlist.m3u8
+https://dish.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_list/1170x658withlogo325698699.png",Zee Cafe
 http://app.hughag.store/api/f914787389/playlist.m3u8
@@ -429,8 +429,8 @@ http://app.hughag.store/api/f914787389/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",BBC Earth
-http://app.hughag.store/api/3e9d231a84/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",Sony BBC Earth
+https://dish.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png", National Geographic
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
@@ -564,14 +564,14 @@ https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704072048",TNT Sports 4
 https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Bayern vs Chelsea
-https://zubayerop.short.gy/BAY-V-CHE.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Barcelona vs Newcastle
+https://zubayerop.short.gy/BAR-V-NEW.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Liverpool vs Atlético Madrid
-https://zubayerop.short.gy/LIV-V-ATM.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Manchester City vs Napoli
+https://zubayerop.short.gy/MCI-V-NAP.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Ajax vs Inter
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL 
 https://dai.google.com/ssai/event/TKze0MRpTtao4BnnLtCNng/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL PSG vs Atalanta
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL 
 https://zubayerop.short.gy/PSG-V-ATA.m3u8
