@@ -519,17 +519,20 @@ https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports HD
 http://175.107.244.52:4456/play/a04p/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png",Ten Cricket
-http://app.hughag.store/api/6b9c461155/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
-https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
+https://dish.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-https://unxone.vercel.app/live/sonyten2-090.m3u8
+https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-4-HD.jpg",Sony Sports 3 HD
+https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-4-HD.jpg",Sony Sports 4 HD
+https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-https://unxone.vercel.app/live/sonyten5-653.m3u8
+https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png",Willow HD 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
