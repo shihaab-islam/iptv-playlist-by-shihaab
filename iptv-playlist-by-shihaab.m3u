@@ -150,7 +150,7 @@ https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla SD (2)
-https://dish.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla FHD
 https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
@@ -159,7 +159,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath
-http://app.hughag.store/api/b6a720edea/playlist.m3u8
+https://dish.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
