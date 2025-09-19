@@ -1,0 +1,1021 @@
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz", url-tvg="https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz" catchup-days="7"
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" tvg-id="Ae.br" ,A&E FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/32
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" tvg-id="Ae.br" ,A&E FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234861
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" tvg-id="Ae.br" ,A&E FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234862
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" tvg-id="Ae.br" ,A&E HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/332
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" tvg-id="Ae.br" ,A&E HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234863
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" tvg-id="Ae.br" ,A&E SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/210
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" tvg-id="Ae.br" ,A&E SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234864
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" tvg-id="Amc.br" ,AMC FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/175
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" tvg-id="Amc.br" ,AMC HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/330
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" tvg-id="Amc.br" ,AMC SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/367
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" tvg-id="Amc.br" ,AMC SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234868
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" tvg-id="Axn.br" ,AXN FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/34
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" tvg-id="Axn.br" ,AXN FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234877
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" tvg-id="Axn.br" ,AXN FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234878
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" tvg-id="Axn.br" ,AXN HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/329
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" tvg-id="Axn.br" ,AXN HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234879
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" tvg-id="Axn.br" ,AXN SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/211
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" tvg-id="Axn.br" ,AXN SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234880
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" tvg-id="Sony.br" ,CANAL SONY FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234914
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" tvg-id="Sony.br" ,CANAL SONY FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234915
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" tvg-id="Sony.br" ,CANAL SONY HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234916
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" tvg-id="Sony.br" ,CANAL SONY SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234917
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/cinesucesso250.png" tvg-id="Foxlife.br" ,CINE SUCESSOS
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/166180
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" tvg-id="Cinemax.br" ,CINEMAX FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/81
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" tvg-id="Cinemax.br" ,CINEMAX FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234928
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" tvg-id="Cinemax.br" ,CINEMAX FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234929
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" tvg-id="Cinemax.br" ,CINEMAX HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/339
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" tvg-id="Cinemax.br" ,CINEMAX HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234930
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" tvg-id="Cinemax.br" ,CINEMAX SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/217
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" tvg-id="Comedycentral.br" ,COMEDY CENTRAL FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/40
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" tvg-id="Comedycentral.br" ,COMEDY CENTRAL FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234939
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" tvg-id="Comedycentral.br" ,COMEDY CENTRAL FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234940
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" tvg-id="Comedycentral.br" ,COMEDY CENTRAL HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/341
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" tvg-id="Comedycentral.br" ,COMEDY CENTRAL HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234941
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" tvg-id="Comedycentral.br" ,COMEDY CENTRAL SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/198
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" tvg-id="Comedycentral.br" ,COMEDY CENTRAL SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234942
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" tvg-id="FilmArts.br" ,FILM&ARTS FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234984
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" tvg-id="FilmArts.br" ,FILM&ARTS FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234985
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" tvg-id="FilmArts.br" ,FILM&ARTS HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234986
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" tvg-id="FilmArts.br" ,FILM&ARTS SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2055
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" tvg-id="FilmArts.br" ,FILM&ARTS SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/242
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" tvg-id="FilmArts.br" ,FILM&ARTS SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234987
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" tvg-id="Fx.br" ,FX FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/90
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" tvg-id="Fx.br" ,FX FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235000
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" tvg-id="Fx.br" ,FX FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235001
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" tvg-id="Fx.br" ,FX HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2208
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" tvg-id="Fx.br" ,FX HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235002
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" tvg-id="Fx.br" ,FX SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/206
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" tvg-id="Fx.br" ,FX SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235003
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/ISAT250.png" tvg-id="iSat.br" ,I-SAT SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235011
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/LIKE.png" tvg-id="Like.br" ,LIKE FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/128
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canalloading250.png" ,LOADING FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235022
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canalloading250.png" ,LOADING FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235023
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canalloading250.png" ,LOADING HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235024
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canalloading250.png" ,LOADING SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235025
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" ,MAIS NA TELA FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235026
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" ,MAIS NA TELA FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235027
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" ,MAIS NA TELA HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235028
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" ,MAIS NA TELA SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235029
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" tvg-id="Megapix.br" ,MEGAPIX FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/145
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" tvg-id="Megapix.br" ,MEGAPIX FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235030
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" tvg-id="Megapix.br" ,MEGAPIX FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235031
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" tvg-id="Megapix.br" ,MEGAPIX HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/356
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" tvg-id="Megapix.br" ,MEGAPIX HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235032
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" tvg-id="Megapix.br" ,MEGAPIX SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/219
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" tvg-id="Megapix.br" ,MEGAPIX SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235033
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" tvg-id="Paramounthd.br" ,PARAMOUNT FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/100
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" tvg-id="Paramounthd.br" ,PARAMOUNT FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235076
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" tvg-id="Paramounthd.br" ,PARAMOUNT FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235077
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" tvg-id="Paramounthd.br" ,PARAMOUNT HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2215
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" tvg-id="Paramounthd.br" ,PARAMOUNT HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235078
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" tvg-id="Paramounthd.br" ,PARAMOUNT SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/228
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" tvg-id="Paramounthd.br" ,PARAMOUNT SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235079
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png" tvg-id="Primeboxbrazil.br" ,PRIME BOX BRAZIL FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235080
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png" tvg-id="Primeboxbrazil.br" ,PRIME BOX BRAZIL HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235081
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png" tvg-id="Primeboxbrazil.br" ,PRIME BOX BRAZIL SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235082
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png" tvg-id="Primeboxbrazil.br" ,PRIMEBOX BRASIL SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/218
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SONY.png" tvg-id="Sony.br" ,SONY FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/106
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SONY.png" tvg-id="Sony.br" ,SONY HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/337
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SONY.png" tvg-id="Sony.br" ,SONY SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2043
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" tvg-id="Space.br" ,SPACE FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/67
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" tvg-id="Space.br" ,SPACE FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235103
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" tvg-id="Space.br" ,SPACE FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235104
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" tvg-id="Space.br" ,SPACE HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2219
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" tvg-id="Space.br" ,SPACE HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235105
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" tvg-id="Space.br" ,SPACE SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2128
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" tvg-id="Space.br" ,SPACE SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235106
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" tvg-id="Fox.br" ,STAR CHANNEL FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/44
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" tvg-id="Fox.br" ,STAR CHANNEL FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235107
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" tvg-id="Fox.br" ,STAR CHANNEL FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235108
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" tvg-id="Fox.br" ,STAR CHANNEL HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2207
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" tvg-id="Fox.br" ,STAR CHANNEL HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235109
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" tvg-id="Fox.br" ,STAR CHANNEL SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/244
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" tvg-id="Fox.br" ,STAR CHANNEL SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235110
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" tvg-id="Studiouniversal.br" ,STUDIO UNIVERSAL FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/15251
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" tvg-id="Studiouniversal.br" ,STUDIO UNIVERSAL FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235111
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" tvg-id="Studiouniversal.br" ,STUDIO UNIVERSAL FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235112
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" tvg-id="Studiouniversal.br" ,STUDIO UNIVERSAL HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/15250
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" tvg-id="Studiouniversal.br" ,STUDIO UNIVERSAL HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235113
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" tvg-id="Studiouniversal.br" ,STUDIO UNIVERSAL SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/15249
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" tvg-id="Studiouniversal.br" ,STUDIO UNIVERSAL SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235114
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" tvg-id="Syfy.br" ,SYFY FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/107
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" tvg-id="Syfy.br" ,SYFY FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235115
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" tvg-id="Syfy.br" ,SYFY FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235116
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" tvg-id="Syfy.br" ,SYFY HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/361
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" tvg-id="Syfy.br" ,SYFY HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235117
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" tvg-id="Syfy.br" ,SYFY SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/256
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" tvg-id="Syfy.br" ,SYFY SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235118
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" tvg-id="Tnt.br" ,TNT Novelas FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/108
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" ,TNT Novelas FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235119
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" ,TNT Novelas FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235120
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" ,TNT Novelas HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/304
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" ,TNT Novelas HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235121
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" ,TNT Novelas SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/257
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" ,TNT Novelas SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235122
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TCM.png" tvg-id="Tcm.br" ,TCM HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2221
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TCM.png" tvg-id="Tcm.br" ,TCM HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235123
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TCM.png" tvg-id="Tcm.br" ,TCM SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/213
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TCM.png" tvg-id="Tcm.br" ,TCM SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235124
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tlc250.png" tvg-id="Tlc.br" ,TLC FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235126
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tlc250.png" tvg-id="Tlc.br" ,TLC FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235127
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tlc250.png" tvg-id="Tlc.br" ,TLC HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235128
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/tlc250.png" tvg-id="Tlc.br" ,TLC SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235129
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" tvg-id="Tnt.br" ,TNT FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/123
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" tvg-id="Tnt.br" ,TNT FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235130
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" tvg-id="Tnt.br" ,TNT FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235131
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" tvg-id="Tnt.br" ,TNT HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/350
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" tvg-id="Tnt.br" ,TNT HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235132
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" tvg-id="Tnt.br" ,TNT SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2136
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" tvg-id="Tnt.br" ,TNT SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235133
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" tvg-id="TNTSerie.br" ,TNT SERIES FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/60
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" tvg-id="TNTSerie.br" ,TNT SERIES FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235134
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" tvg-id="TNTSerie.br" ,TNT SERIES HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/311
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" tvg-id="TNTSerie.br" ,TNT SÉRIES FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235135
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" tvg-id="TNTSerie.br" ,TNT SÉRIES HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235136
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" tvg-id="TNTSerie.br" ,TNT SÉRIES SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2137
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" tvg-id="TNTSerie.br" ,TNT SÉRIES SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235137
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/travelboxbrasil.png" tvg-id="Travelboxbrazil.br" ,TRAVELBOX BRASIL FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/132
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" ,ADULT SWIN
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2138
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" tvg-id="Universalchannel.br" ,UNIVERSAL CHANNEL FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/59
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" tvg-id="Universalchannel.br" ,UNIVERSAL CHANNEL FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235170
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" tvg-id="Universalchannel.br" ,UNIVERSAL CHANNEL FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235171
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" tvg-id="Universalchannel.br" ,UNIVERSAL CHANNEL HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/182588
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" tvg-id="Universalchannel.br" ,UNIVERSAL CHANNEL HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235172
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" tvg-id="Universalchannel.br" ,UNIVERSAL CHANNEL SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/182589
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" tvg-id="Universalchannel.br" ,UNIVERSAL CHANNEL SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235173
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" tvg-id="Warnerchannel.br" ,WARNER CHANNEL FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/58
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" tvg-id="Warnerchannel.br" ,WARNER CHANNEL FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235178
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" tvg-id="Warnerchannel.br" ,WARNER CHANNEL FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235179
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" tvg-id="Warnerchannel.br" ,WARNER CHANNEL HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2220
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" tvg-id="Warnerchannel.br" ,WARNER CHANNEL HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235180
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" tvg-id="Warnerchannel.br" ,WARNER CHANNEL SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2224
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" tvg-id="Sony.br" ,CANAL SONY SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/286152
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" tvg-id="Sony.br" ,CANAL SONY HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/286151
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" tvg-id="Espnbrasil.br" ,ESPN SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/1014
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" tvg-id="Espnbrasil.br" ,ESPN SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/313128
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" tvg-id="Boxkids.br" ,ESPN HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2053
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" tvg-id="Espnbrasil.br" ,ESPN HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234843
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" tvg-id="Espnbrasil.br" ,ESPN FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/313126
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" tvg-id="Espnbrasil.br" ,ESPN FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/1013
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" tvg-id="Espnbrasil.br" ,ESPN FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/313125
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" tvg-id="ESPNInternational.br" ,ESPN 2 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2051
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" tvg-id="ESPNInternational.br" ,ESPN 2 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234852
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" tvg-id="ESPNInternational.br" ,ESPN 2 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/348
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" tvg-id="ESPNInternational.br" ,ESPN 2 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234851
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" tvg-id="ESPNInternational.br" ,ESPN 2 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234850
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" tvg-id="ESPNInternational.br" ,ESPN 2 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/144
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" tvg-id="ESPNInternational.br" ,ESPN 2 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234849
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" tvg-id="ESPN+.br" ,ESPN 3 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2052
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" tvg-id="ESPN+.br" ,ESPN 3 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234856
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" tvg-id="ESPN+.br" ,ESPN 3 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/273
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" tvg-id="ESPN+.br" ,ESPN 3 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234855
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" tvg-id="ESPN+.br" ,ESPN 3 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234854
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" tvg-id="ESPN+.br" ,ESPN 3 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/42
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" tvg-id="ESPN+.br" ,ESPN 3 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234853
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" tvg-id="Foxsports.br" ,ESPN 4 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/194
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" tvg-id="Foxsports.br" ,ESPN 4 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234860
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" tvg-id="Boxkids.br" ,ESPN 4 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/319
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" tvg-id="Foxsports.br" ,ESPN 4 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234859
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" tvg-id="Foxsports.br" ,ESPN 4 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234858
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" tvg-id="Foxsports.br" ,ESPN 4 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/48
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" tvg-id="Foxsports.br" ,ESPN 4 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234857
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" tvg-id="Espnextra.br" ,ESPN EXTRA SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2054
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" tvg-id="Espnextra.br" ,ESPN EXTRA SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234848
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" tvg-id="Espnextra.br" ,ESPN EXTRA HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/274
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" tvg-id="Espnextra.br" ,ESPN EXTRA HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234847
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" tvg-id="Espnextra.br" ,ESPN EXTRA FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234846
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" tvg-id="Espnextra.br" ,ESPN EXTRA FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/88
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" tvg-id="Espnextra.br" ,ESPN EXTRA FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234845
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn-5250.png" ,ESPN 5 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/373468
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn-5250.png" ,ESPN 5 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/373469
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn-5250.png" ,ESPN 5 FHD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/373470
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://www.rochagalaxia.live/logos/espn-5250.png" ,ESPN 5 FHD 265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/373471
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-6250.png" ,ESPN 6 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/373472
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-6250.png" ,ESPN 6 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/373473
+#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://www.rochagalaxia.live/logos/espn-6250.png" ,ESPN 6 FHD 265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/373474
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" tvg-id="Sportv.br" ,SPORTV SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2129
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" tvg-id="Sportv.br" ,SPORTV SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234840
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" tvg-id="Sportv.br" ,SPORTV HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/301
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" tvg-id="Sportv.br" ,SPORTV HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234839
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" tvg-id="Sportv.br" ,SPORTV FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234838
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" tvg-id="Sportv.br" ,SPORTV FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/66
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" tvg-id="Sportv.br" ,SPORTV FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234837
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" tvg-id="Sportv2.br" ,SPORTV 2 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/68
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" tvg-id="Sportv2.br" ,SPORTV 2 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234829
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" tvg-id="Sportv2.br" ,SPORTV 2 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234830
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" tvg-id="Sportv2.br" ,SPORTV 2 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/302
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" tvg-id="Sportv2.br" ,SPORTV 2 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234831
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" tvg-id="Sportv2.br" ,SPORTV 2 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2130
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" tvg-id="Sportv2.br" ,SPORTV 2 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234832
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" tvg-id="Sportv3.br" ,SPORTV 3 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/69
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" tvg-id="Sportv3.br" ,SPORTV 3 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234833
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" tvg-id="Sportv3.br" ,SPORTV 3 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234834
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" tvg-id="Sportv3.br" ,SPORTV 3 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/303
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" tvg-id="Sportv3.br" ,SPORTV 3 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234835
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" tvg-id="Sportv3.br" ,SPORTV 3 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/229
+#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" tvg-id="Sportv3.br" ,SPORTV 3 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234836
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere2.br" ,PREMIERE 2 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/71
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere2.br" ,PREMIERE 2 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234440
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere2.br" ,PREMIERE 2 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234441
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere2.br" ,PREMIERE 2 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/291
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere2.br" ,PREMIERE 2 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234442
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere2.br" ,PREMIERE 2 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2097
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere2.br" ,PREMIERE 2 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234443
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere3.br" ,PREMIERE 3 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/72
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere3.br" ,PREMIERE 3 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234444
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere3.br" ,PREMIERE 3 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234445
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere3.br" ,PREMIERE 3 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/292
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere3.br" ,PREMIERE 3 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2098
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere3.br" ,PREMIERE 3 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234446
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere4.br" ,PREMIERE 4 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/73
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere4.br" ,PREMIERE 4 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234447
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere4.br" ,PREMIERE 4 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234448
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere4.br" ,PREMIERE 4 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/290
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere4.br" ,PREMIERE 4 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234449
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere4.br" ,PREMIERE 4 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/251
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere4.br" ,PREMIERE 4 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234450
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere5.br" ,PREMIERE 5 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/101
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere5.br" ,PREMIERE 5 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234451
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere5.br" ,PREMIERE 5 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234452
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere5.br" ,PREMIERE 5 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/293
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere5.br" ,PREMIERE 5 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234453
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere5.br" ,PREMIERE 5 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2099
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere5.br" ,PREMIERE 5 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234454
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere6.br" ,PREMIERE 6 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/102
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere6.br" ,PREMIERE 6 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234455
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere6.br" ,PREMIERE 6 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234456
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere6.br" ,PREMIERE 6 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/294
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere6.br" ,PREMIERE 6 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234457
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere6.br" ,PREMIERE 6 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2100
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere6.br" ,PREMIERE 6 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234458
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere7.br" ,PREMIERE 7 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/115
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere7.br" ,PREMIERE 7 FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234459
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere7.br" ,PREMIERE 7 FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234460
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere7.br" ,PREMIERE 7 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2101
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere7.br" ,PREMIERE 7 HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234461
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere7.br" ,PREMIERE 7 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/252
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere7.br" ,PREMIERE 7 SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234462
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premierefchd.br" ,PREMIERE CLUBES FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/70
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premierefchd.br" ,PREMIERE CLUBES FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234463
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premierefchd.br" ,PREMIERE CLUBES FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234464
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Boxkids.br" ,PREMIERE CLUBES HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/289
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premierefchd.br" ,PREMIERE CLUBES HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234466
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premierefchd.br" ,PREMIERE CLUBES SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/259
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premierefchd.br" ,PREMIERE CLUBES SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234465
+#EXTINF:-1 group-title="CANAIS | REDE PREMIERE" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" tvg-id="Premiere8.br" ,PREMIERE 8 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/286192
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 1
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369468
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 01²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369469
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 01³
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369470
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 2
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369471
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 02²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369472
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 02³
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369473
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 3
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369474
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 03²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369475
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 03³
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369476
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 03 ALTER
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369477
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 4
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369478
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 04²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369479
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 04³
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369480
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 5
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369481
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 05²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369482
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" ,HBO MAX 6
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369483
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" ,PARAMOUNT 02
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/30173
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" tvg-id="Boxkids.br" ,PARAMOUNT 01
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/30177
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNTPLUS01
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369066
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 01 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369067
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 01 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369068
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,CONMEBOL PARAMOUNT+ 1 HD [P]
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369069
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 01 FHD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369070
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 02 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369071
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 02 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369072
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNTPLUS02
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369073
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,CONMEBOL PARAMOUNT+ 2 HD [P]
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369074
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 02 FHD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369075
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 03 FHD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369076
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 03 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369077
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,CONMEBOL PARAMOUNT+ 3 HD [P]
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369078
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNTPLUS03
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369079
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 03 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369080
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 04 FHD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369081
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 04 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369082
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNTPLUS04
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369083
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,CONMEBOL PARAMOUNT+ 4 HD [P]
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369084
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://rochagalaxia.live/logos/PARAMOUNT250x250.png" ,PARAMOUNT+ 05 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369085
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" ,paramount 03
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/403120
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" ,Paramount 04
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/403121
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" ,Paramount 5
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/403122
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT PLUS" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" ,Paramount 6
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/403123
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" tvg-id="Discovery.br" ,DISCOVERY CHANNEL FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/114
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" tvg-id="Discovery.br" ,DISCOVERY CHANNEL FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234801
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" tvg-id="Discovery.br" ,DISCOVERY CHANNEL FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234802
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" tvg-id="Discovery.br" ,DISCOVERY CHANNEL HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/342
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" tvg-id="Discovery.br" ,DISCOVERY CHANNEL HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234803
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" tvg-id="Discovery.br" ,DISCOVERY CHANNEL SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/222
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" tvg-id="Discovery.br" ,DISCOVERY CHANNEL SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234804
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" tvg-id="Homehealth.br" ,DISCOVERY H&H FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/135
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" tvg-id="Homehealth.br" ,DISCOVERY H&H FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234805
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" tvg-id="Homehealth.br" ,DISCOVERY H&H FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234806
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" tvg-id="Homehealth.br" ,DISCOVERY H&H HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/343
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" tvg-id="Homehealth.br" ,DISCOVERY H&H HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234807
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" tvg-id="Homehealth.br" ,DISCOVERY H&H SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/223
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" tvg-id="Homehealth.br" ,DISCOVERY H&H SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234808
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" tvg-id="DiscoveryScience.br" ,DISCOVERY SCIENCE FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/121
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" tvg-id="DiscoveryScience.br" ,DISCOVERY SCIENCE FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234813
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" tvg-id="DiscoveryScience.br" ,DISCOVERY SCIENCE FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234814
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" tvg-id="DiscoveryScience.br" ,DISCOVERY SCIENCE HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/344
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" tvg-id="DiscoveryScience.br" ,DISCOVERY SCIENCE HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234815
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" tvg-id="DiscoveryScience.br" ,DISCOVERY SCIENCE SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234816
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" tvg-id="Hdtheater.br" ,DISCOVERY THEATER FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/82
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" tvg-id="Hdtheater.br" ,DISCOVERY THEATER FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234817
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" tvg-id="Hdtheater.br" ,DISCOVERY THEATER FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234818
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" tvg-id="Hdtheater.br" ,DISCOVERY THEATER HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/345
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" tvg-id="Hdtheater.br" ,DISCOVERY THEATER HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234819
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" tvg-id="Hdtheater.br" ,DISCOVERY THEATER SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234820
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" tvg-id="Discturbohd.br" ,DISCOVERY TURBO FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/41
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" tvg-id="Discturbohd.br" ,DISCOVERY TURBO FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234821
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" tvg-id="Discturbohd.br" ,DISCOVERY TURBO FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234822
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" tvg-id="Discturbohd.br" ,DISCOVERY TURBO HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/268
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" tvg-id="Discturbohd.br" ,DISCOVERY TURBO HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234823
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" tvg-id="Discturbohd.br" ,DISCOVERY TURBO SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2047
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" tvg-id="Discturbohd.br" ,DISCOVERY TURBO SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234824
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" tvg-id="Discoveryworldhd.br" ,DISCOVERY WORLD FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/84
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" tvg-id="Discoveryworldhd.br" ,DISCOVERY WORLD FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234825
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" tvg-id="Discoveryworldhd.br" ,DISCOVERY WORLD FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234826
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" tvg-id="Discoveryworldhd.br" ,DISCOVERY WORLD HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/346
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" tvg-id="Discoveryworldhd.br" ,DISCOVERY WORLD HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234827
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" tvg-id="Discoveryworldhd.br" ,DISCOVERY WORLD SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234828
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-id="Investigacaodiscoveryid.br" ,ID FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/282
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-id="Investigacaodiscoveryid.br" ,ID FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235012
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-id="Investigacaodiscoveryid.br" ,ID FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235013
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-id="Investigacaodiscoveryid.br" ,ID HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/369
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-id="Investigacaodiscoveryid.br" ,ID HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235014
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-id="Investigacaodiscoveryid.br" ,ID SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2088
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-id="Investigacaodiscoveryid.br" ,ID SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235015
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" tvg-id="Animalplanet.br" ,ANIMAL PLANET FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/33
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" tvg-id="Animalplanet.br" ,ANIMAL PLANET FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234869
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" tvg-id="Animalplanet.br" ,ANIMAL PLANET FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234870
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" tvg-id="Animalplanet.br" ,ANIMAL PLANET HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/349
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" tvg-id="Animalplanet.br" ,ANIMAL PLANET HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234871
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" tvg-id="Animalplanet.br" ,ANIMAL PLANET SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/195
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" tvg-id="Animalplanet.br" ,ANIMAL PLANET SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/234872
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" tvg-id="DiscoveryCivilization.br" ,HGTV FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/120
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" tvg-id="DiscoveryCivilization.br" ,HGTV FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235004
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" tvg-id="DiscoveryCivilization.br" ,HGTV FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235005
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" tvg-id="DiscoveryCivilization.br" ,HGTV HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/352
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" tvg-id="DiscoveryCivilization.br" ,HGTV HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235006
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" tvg-id="DiscoveryCivilization.br" ,HGTV SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/201
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORY.png" ,HISTORY 2 FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/50
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORY.png" tvg-id="H2.br" ,HISTORY 2 SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2086
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" tvg-id="Historychannel.br" ,HISTORY CHANNEL FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235007
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" tvg-id="Historychannel.br" ,HISTORY CHANNEL FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235008
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" tvg-id="Historychannel.br" ,HISTORY CHANNEL HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235009
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" tvg-id="Historychannel.br" ,HISTORY CHANNEL SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235010
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" tvg-id="Historychannel.br" ,HISTORY FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/93
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" tvg-id="Historychannel.br" ,HISTORY HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/281
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" tvg-id="Historychannel.br" ,HISTORY SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/196
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/mais%20globosat.png" ,MAIS GLOBOSAT FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/129
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/mais%20globosat.png" ,MAIS GLOBOSAT HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2090
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/mais%20globosat.png" ,MAIS GLOBOSAT SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/237
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" tvg-id="Nationalgeographic.br" ,NATGEO FHD H265²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235053
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" tvg-id="Nationalgeographic.br" ,NATGEO FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235054
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" tvg-id="Nationalgeographic.br" ,NATGEO HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235055
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" tvg-id="Nationalgeographic.br" ,NATGEO SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235060
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" tvg-id="Nationalgeographic.br" ,NATIONAL GEOGRAPHIC FHD H265
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/56
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" tvg-id="Nationalgeographic.br" ,NATIONAL GEOGRAPHIC HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2212
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" tvg-id="Nationalgeographic.br" ,NATIONAL GEOGRAPHIC SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2093
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="https://www.rochagalaxia.live/logos/travelboxbrasil.png" tvg-id="Travelboxbrazil.br" ,TRAVEL BOX BRAZIL FHD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235140
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="https://www.rochagalaxia.live/logos/travelboxbrasil.png" tvg-id="Travelboxbrazil.br" ,TRAVEL BOX BRAZIL HD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235141
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="https://www.rochagalaxia.live/logos/travelboxbrasil.png" tvg-id="Travelboxbrazil.br" ,TRAVEL BOX BRAZIL SD²
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/235142
+#EXTINF:-1 group-title="CANAIS | DOCUMENTARIOS" tvg-logo="http://www.rochagalaxia.live/logos/HISTORY.png" tvg-id="H2.br" ,History 2 HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/286149
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/conteudoadulto250.png" ,24H Amador Gay
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/162829
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/conteudoadulto250.png" ,24H Cine Adulto
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/162826
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/conteudoadulto250.png" ,24H INTER RACIAL
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/162824
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 01
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232484
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 02
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232485
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 03
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232486
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 04
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232487
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 05
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232488
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 06
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232489
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 07
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232490
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 08
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232491
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 09
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232492
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 10
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232493
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 11
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232494
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 12
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232495
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 13
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232496
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 14
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232497
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 15
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232498
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 16
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232499
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 17
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232500
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 18
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232501
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 19
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232502
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 20
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232503
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 21
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232504
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 22
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232505
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 23
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232506
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 24
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232507
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 25
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232508
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 26
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232509
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 27
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232510
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 28
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232511
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 29
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232512
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 30
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232513
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 31
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232514
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 32
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232515
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 33
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232516
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 34
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232517
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 35
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232518
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 36
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232519
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 37
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232520
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 38
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232521
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 39
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232522
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO 40
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232523
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 01
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232524
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 02
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232525
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 03
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232526
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 04
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232527
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 05
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232528
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 06
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232529
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 07
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232530
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 08
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232531
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 09
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232532
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 10
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232533
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 11
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232534
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 12
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232535
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 13
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232536
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 14
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232537
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 15
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232538
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 16
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232539
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 17
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232540
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 18
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232541
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 19
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232542
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO GAY 20
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232543
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 01
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232544
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 02
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232545
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 03
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232546
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 04
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232547
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 05
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232548
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 06
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232549
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 07
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232550
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 08
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232551
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 09
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232552
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 10
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232553
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 11
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232554
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 12
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232555
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 13
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232556
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 14
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232557
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 15
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232558
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 16
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232559
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 17
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232560
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 18
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232561
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 19
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232562
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,24H-XXX ADULTO TRANS 20
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232563
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/Logotipo_da_Playboy_TV.png" ,PlayBoy FHD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/74
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/Logotipo_da_Playboy_TV.png" ,PlayBoy HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/295
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/Logotipo_da_Playboy_TV.png" ,Playboy SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2152
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/SEXPRIVE.jpg" ,Sex Prive
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2153
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/SEXPRIVE.jpg" ,Sex Prive HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2155
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/Sextreme.png" ,Sextreme HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/364
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/Sextreme.png" ,Sextreme SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/221
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/Sexy_Hot_logo.png" ,Sexy Hot  HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/300
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/Sexy_Hot_logo.png" ,Sexy Hot FHD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/105
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/Sexy_Hot_logo.png" ,Sexy Hot SD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/2154
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/VENUS.png" ,Venus FHD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/110
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="https://www.rochagalaxia.live/logos/VENUS.png" ,Venus HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/316
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Anal
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232581
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Asian
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232585
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Big Ass
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232570
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Big Dick
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232566
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Big Tits
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232567
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Blonde
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232584
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Blowjob
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232573
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Brunette
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232583
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Compilation
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232582
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Cuckold
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232576
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Fetish
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232568
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Gangbang
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232580
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Hardcore
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232575
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Latina
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232571
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Lesbian
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232578
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Live Cams
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232564
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: MILF
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232565
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Pornstar
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232569
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: POV
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232572
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Rough
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232579
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Russian
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232577
+#EXTINF:-1 group-title="CANAIS | XXX ADULTOS" tvg-logo="http://www.rochagalaxia.live/logos/adultos.png" ,XX: Teen
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/232574
+#EXTINF:-1 group-title="CANAIS | Disney +" ,DISNEY + HD
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/420789
+#EXTINF:-1 group-title="CANAIS | Disney +" ,DISNEY + HD 2
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/420790
+#EXTINF:-1 group-title="CANAIS | Disney +" ,DISNEY + HD 3
+http://uniflow.top/Tourobox1-LtICZQTfDK/vq8wyxpffM/420791

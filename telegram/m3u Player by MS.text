@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live TV Player</title>
+    <script src="https://promoviex.vercel.app/playlist/playjs/playerjs.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
+        body { background: #181818; color: #fff; text-align: center; }
+        h1 { margin: 20px 0; font-size: 26px; font-weight: bold; text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6); }
+
+        /* Player Styles */
+        .player-container {
+            background: black;
+            width: 100%;
+            position: relative;
+            flex-shrink: 0;
+        }
+
+        .video-container {
+            width: 100%;
+            aspect-ratio: 16/9;
+            position: relative;
+            background: #000;
+            overflow: hidden;
+        }
+
+        #videoPlayer {
+            width: 100%;
+            height: 100%;
+        }
+
+        h2 { margin: 30px 0; font-size: 24px; font-weight: bold; text-transform: uppercase; }
+
+        #channelList {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background: #333;
+            border-radius: 15px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.7);
+            overflow-y: auto;
+            max-height: 500px;
+            margin-tp: 30px
+        }
+
+        #channelList li {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            cursor: pointer;
+            border-radius: 12px;
+            transition: 0.3s;
+            background: #444;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+            position: relative;
+        }
+
+        #channelList img {
+            width: 70px;
+            height: 70px;
+            margin-right: 15px;
+            border-radius: 8px;
+        }
+
+        #channelList li:hover {
+            background: #555;
+            transform: scale(1.05);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.5);
+        }
+
+        #channelList li:before {
+            content: '';
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 10px;
+            height: 10px;
+            background: #e74c3c; /* Default red */
+            border-radius: 50%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        }
+
+        #channelList li.online:before {
+            background: #39b54a; /* Green for online */
+        }
+
+        #progressContainer {
+            width: 100%;
+            max-width: 500px;
+            margin: 20px auto;
+        }
+
+        #progressBar {
+            width: 100%;
+            height: 10px; /* Height reduced */
+            border-radius: 15px;
+            background: #444;
+            border: 1px solid #333;
+            overflow: hidden;
+            position: relative;
+        }
+
+        #progressBar div {
+            height: 100%;
+            background: linear-gradient(90deg, #39b54a, #ffbc00);
+            position: absolute;
+            top: 0;
+            left: 0;
+            text-align: center;
+            color: #fff;
+            line-height: 20px; /* Adjusted to match new height */
+            font-weight: bold;
+            font-size: 14px;
+            width: 0;
+            border-radius: 15px;
+        }
+
+        #progressText {
+            margin-top: 10px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #39b54a;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 24px; }
+            .video-container { aspect-ratio: 16/9; height: auto; }
+            h2 { font-size: 20px; }
+            #channelList li { padding: 15px; }
+            #channelList img { width: 60px; height: 60px; }
+        }
+
+        @media (max-width: 480px) {
+            h1 { font-size: 20px; }
+            .video-container { aspect-ratio: 16/9; height: auto; }
+            h2 { font-size: 18px; }
+            #channelList li { padding: 12px; }
+            #channelList img { width: 50px; height: 50px; }
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="player-container">
+        <div class="video-container">
+            <div id="videoPlayer"></div>
+        </div>
+    </div>
+
+    <!-- Progress Bar -->
+    <div id="progressContainer" style="display: none;">
+        <div id="progressBar">
+            <div id="progressFill"></div>
+        </div>
+        <div id="progressText"></div>
+    </div>
+
+    <ul id="channelList"></ul>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const m3uUrl = urlParams.get('link');
+
+        async function fetchM3U(url) {
+            try {
+                const response = await fetch(url);
+                const data = await response.text();
+                parseM3U(data);
+            } catch (error) {
+                alert('⚠️ Error loading M3U file!');
+            }
+        }
+
+        function parseM3U(data) {
+            const lines = data.split("\n");
+            const channels = [];
+            let channel = {};
+
+            lines.forEach(line => {
+                line = line.trim();
+                if (line.startsWith("#EXTINF")) {
+                    const nameMatch = line.match(/,(.+)/);
+                    const logoMatch = line.match(/tvg-logo="(.*?)"/);
+                    channel = { 
+                        name: nameMatch ? nameMatch[1] : "Unknown Channel", 
+                        logo: logoMatch ? logoMatch[1] : "https://via.placeholder.com/70"
+                    };
+                } else if (line && !line.startsWith("#")) {
+                    channel.url = line;
+                    channels.push(channel);
+                }
+            });
+
+            displayChannels(channels);
+        }
+
+        async function checkChannelStatus(url) {
+            try {
+                const timeout = new Promise((_, reject) => setTimeout(() => reject('timeout'), 30000)); // 30 seconds timeout
+                const fetchPromise = fetch(url, { method: 'HEAD' });
+                const response = await Promise.race([fetchPromise, timeout]);
+
+                return response && response.ok;
+            } catch (error) {
+                return false; // URL is invalid or request timed out
+            }
+        }
+
+        async function displayChannels(channels) {
+            const list = document.getElementById("channelList");
+            const progressBar = document.getElementById("progressBar");
+            const progressFill = document.getElementById("progressFill");
+            const progressText = document.getElementById("progressText");
+            const progressContainer = document.getElementById("progressContainer");
+            list.innerHTML = "";
+            progressContainer.style.display = "block"; // Show progress bar
+
+            const totalChannels = channels.length;
+            let loadedChannels = 0;
+
+            for (const channel of channels) {
+                const li = document.createElement("li");
+
+                // Check if the channel URL is valid and update the dot accordingly
+                const status = await checkChannelStatus(channel.url);
+                if (status) {
+                    li.classList.add("online"); // Green dot if online
+                } else {
+                    li.classList.remove("online"); // Red dot if offline
+                }
+
+                li.innerHTML = `<img src="${channel.logo}" alt="Logo"><span>${channel.name}</span>`;
+                li.onclick = () => playChannel(channel.url);
+                list.appendChild(li);
+
+                // Update progress bar and text
+                loadedChannels++;
+                const progress = Math.round((loadedChannels / totalChannels) * 100);
+                progressFill.style.width = progress + "%";
+                progressText.innerText = `Loading Channel ${loadedChannels} of ${totalChannels} (${progress}%)`;
+
+                // If all channels are loaded, hide progress bar
+                if (loadedChannels === totalChannels) {
+                    progressContainer.style.display = "none";
+                }
+            }
+        }
+
+        function playChannel(url) {
+            new Playerjs({id:"videoPlayer", file: url});
+        }
+
+        if (m3uUrl) {
+            fetchM3U(m3uUrl);
+        } else {
+            alert("⚠️ No live TV link found!");
+        }
+    </script>
+
+</body>
+</html>
