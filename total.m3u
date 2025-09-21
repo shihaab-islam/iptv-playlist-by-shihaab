@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="Sony" tvg-logo="https://i.imgur.com/your-placeholder-image-for-sony-sports.png",Sony Sports 1
+https://dtvxtream.com/sonyliv2/300256.m3u8
+#EXTINF:-1 group-title="Sony" tvg-logo="https://i.imgur.com/your-placeholder-image-for-sony-sports.png",Sony Sports 2
+https://dtvxtream.com/sonyliv2/300273.m3u8
+#EXTINF:-1 group-title="Sony" tvg-logo="https://i.imgur.com/your-placeholder-image-for-sony-sports.png",Sony Sports 3
+https://dtvxtream.com/sonyliv2/300255.m3u8
+#EXTINF:-1 group-title="Sony" tvg-logo="https://i.imgur.com/your-placeholder-image-for-sony-sports.png",Sony Sports 4
+https://dtvxtream.com/sonyliv2/301738.m3u8
+#EXTINF:-1 group-title="Sony" tvg-logo="https://i.imgur.com/your-placeholder-image-for-sony-sports.png",Sony Sports 5
+https://dtvxtream.com/sonyliv2/300258.m3u8
+#EXTINF:-1 group-title="Sony" tvg-logo="https://i.imgur.com/your-placeholder-image-for-sony-max.png",Sony MAX
+https://dtvxtream.com/sonyliv2/300266.m3u8
+#EXTINF:-1 group-title="Sony" tvg-logo="https://i.imgur.com/your-placeholder-image-for-sony-pal.png",Sony PAL
+https://dtvxtream.com/sonyliv2/300268.m3u8
+#EXTINF:-1 group-title="Sony" tvg-logo="https://i.imgur.com/your-placeholder-image-for-sony-sab.png",Sony SAB
+https://dtvxtream.com/sonyliv2/300267.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/zhpfnXry/Ananda-TV.jpg",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
