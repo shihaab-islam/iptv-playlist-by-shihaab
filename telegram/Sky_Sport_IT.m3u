@@ -1,0 +1,59 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:27 group-title="DVB" tvg-id="dvb_rsila1" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] RSI LA 1
+http://77.247.109.143:1500/stream/dvb/rsila1/master.m3u8
+
+#EXTINF:28 group-title="DVB" tvg-id="dvb_rsila2" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] RSI LA 2
+http://77.247.109.143:1500/stream/dvb/rsila2/master.m3u8
+
+#EXTINF:37 group-title="DVB" tvg-id="dvb_sevillafctves" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] Sevilla FC TV ES
+http://77.247.109.143:1500/stream/dvb/sevillafctves/master.m3u8
+
+#EXTINF:38 group-title="DVB" tvg-id="dvb_skysport24it" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky sport 24 IT
+http://77.247.109.143:1500/stream/dvb/skysport24it/master.m3u8
+
+#EXTINF:39 group-title="DVB" tvg-id="dvb_skysportarenait" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky sport arena IT
+http://77.247.109.143:1500/stream/dvb/skysportarenait/master.m3u8
+
+#EXTINF:40 group-title="DVB" tvg-id="dvb_skysportcalcioit" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky sport calcio IT
+http://77.247.109.143:1500/stream/dvb/skysportcalcioit/master.m3u8
+
+#EXTINF:42 group-title="DVB" tvg-id="dvb_skysportf1it" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky sport f1 IT
+http://77.247.109.143:1500/stream/dvb/skysportf1it/master.m3u8
+
+#EXTINF:43 group-title="DVB" tvg-id="dvb_skysportgolfit" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky sport golf IT
+http://77.247.109.143:1500/stream/dvb/skysportgolfit/master.m3u8
+
+#EXTINF:44 group-title="DVB" tvg-id="dvb_skysportmaxit" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky sport max IT
+http://77.247.109.143:1500/stream/dvb/skysportmaxit/master.m3u8
+
+#EXTINF:45 group-title="DVB" tvg-id="dvb_skysportmotogpit" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky sport moto gp IT
+http://77.247.109.143:1500/stream/dvb/skysportmotogpit/master.m3u8
+
+#EXTINF:46 group-title="DVB" tvg-id="dvb_skysportnbait" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky sport nba IT
+http://77.247.109.143:1500/stream/dvb/skysportnbait/master.m3u8
+
+#EXTINF:47 group-title="DVB" tvg-id="dvb_skysportunoit" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky sport uno IT
+http://77.247.109.143:1500/stream/dvb/skysportunoit/master.m3u8
+
+#EXTINF:48 group-title="DVB" tvg-id="dvb_skyunoit" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] sky uno IT
+http://77.247.109.143:1500/stream/dvb/skyunoit/master.m3u8
+
+#EXTINF:49 group-title="DVB" tvg-id="dvb_skysporttennisit" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] skysport tennis IT
+http://77.247.109.143:1500/stream/dvb/skysporttennisit/master.m3u8
+
+#EXTINF:50 group-title="DVB" tvg-id="dvb_ssc1" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] SSC 1
+http://77.247.109.143:1500/stream/dvb/ssc1/master.m3u8
+
+#EXTINF:51 group-title="DVB" tvg-id="dvb_ssc2" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] SSC 2
+http://77.247.109.143:1500/stream/dvb/ssc2/master.m3u8
+
+#EXTINF:52 group-title="DVB" tvg-id="dvb_ssc3" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] SSC 3
+http://77.247.109.143:1500/stream/dvb/ssc3/master.m3u8
+
+#EXTINF:53 group-title="DVB" tvg-id="dvb_ssc5" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] SSC 5
+http://77.247.109.143:1500/stream/dvb/ssc5/master.m3u8
+
+#EXTINF:54 group-title="DVB" tvg-id="dvb_test" tvg-logo="" provider="DVB" provider-logo="" provider-type="iptv",[DVB] test
+http://77.247.109.143:1500/stream/dvb/test/master.m3u8
+

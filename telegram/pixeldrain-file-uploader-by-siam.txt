@@ -1,0 +1,59 @@
+#!/usr/bin/env python3
+import subprocess
+import sys
+
+# Auto install libs if missing
+subprocess.check_call([sys.executable, "-m", "pip", "install", "requests", "tqdm", "pixeldrain-reloaded"])
+
+import requests
+from tqdm import tqdm
+import pixeldrain_reloaded as pixeldrain
+import os
+
+DOWNLOAD_URL = "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_30MB.mp4"
+PIXELDRAIN_API_KEY = "c4533b30-b77b-4263-8a8a-6666a7fb5841"
+
+def download_with_progress(url, output_path):
+    resp = requests.get(url, stream=True)
+    resp.raise_for_status()
+    total = int(resp.headers.get("content-length", 0))
+    with open(output_path, "wb") as f, tqdm(
+        total=total, unit="B", unit_scale=True,
+        desc=f"⬇️ Downloading {os.path.basename(output_path)}"
+    ) as pbar:
+        for chunk in resp.iter_content(8192):
+            if chunk:
+                f.write(chunk)
+                pbar.update(len(chunk))
+
+def upload_file(filepath, api_key):
+    print(f"⬆️ Uploading {os.path.basename(filepath)} to Pixeldrain...")
+    result = pixeldrain.Sync.upload_file(
+        path=filepath,
+        returns="verbose_dict",
+        filename=os.path.basename(filepath),
+        api_key=api_key
+    )
+    return result
+
+def main():
+    local_file = DOWNLOAD_URL.split("/")[-1] or "tempfile"
+
+    download_with_progress(DOWNLOAD_URL, local_file)
+    print("✅ Download complete!")
+
+    result = upload_file(local_file, PIXELDRAIN_API_KEY)
+    print("✅ Upload complete!")
+
+    file_id = result.get("id")
+    if file_id:
+        url = f"https://pixeldrain.com/u/{file_id}"
+    else:
+        url = "❌ ID not found in response"
+
+    print(f"🔗 File URL: {url}")
+
+    os.remove(local_file)
+
+if __name__ == "__main__":
+    main()
