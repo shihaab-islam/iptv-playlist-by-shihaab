@@ -161,6 +161,12 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD 
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sun_Bangla_Mone_Prane_Bangali.jpg",Sun Bangla (1)
+http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sun_Bangla_Mone_Prane_Bangali.jpg",Sun Bangla (2)
+https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/master.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath
 https://dish.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
@@ -175,9 +181,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
 https://live.dinesh29.com.np/stream/jiotv/sangeetbangla/master.m3u8
-
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sun_Bangla_Mone_Prane_Bangali.jpg",Sun Bangla
-http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
