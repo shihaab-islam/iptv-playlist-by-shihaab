@@ -93,6 +93,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png",My TV
 https://mytvbangla.com/0.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/1078px-Logo_of_Nagorik_TV.svg.png",Nagorik TV
+http://103.175.242.10:8080/nagorik/index.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/DPwhP7VP/NRB.jpg",NRB TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8
 
@@ -150,7 +153,7 @@ https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla SD (2)
-https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+http://103.175.242.10:8080/zeebangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla FHD
 https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
@@ -529,7 +532,7 @@ https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+http://103.175.242.10:8080/sonyten5/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png",Willow HD 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
