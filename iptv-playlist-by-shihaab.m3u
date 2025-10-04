@@ -561,8 +561,23 @@ https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704072048",TNT Sports 4
 https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL 
-https://zubayerop.short.gy/BAR-V-PSG-ENG.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png",beIN SPORTS HD 1
+http://176.119.29.7:80/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/f/6/6594.1491352241.png",beIN SPORTS HD 2
+http://het104a.4rouwanda-shop.store/live/69854211/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/6/6592.1491350506.png",beIN SPORTS HD 3 
+http://het104a.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfXrcxoWmT5dbMHZ5Mz7v0v1jZQzlFNxpjog5XYRUBw&s=10",beIN SPORTS HD 4
+http://het104a.4rouwanda-shop.store/live/9787488847/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10",beIN SPORTS HD 5
+http://het104a.4rouwanda-shop.store/live/610303030/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfWBwhIKggf1fbhj0CjYyoQSgeWTWlEze8ZXhdFSH-A&s=10",beIN SPORTS HD 6
+http://het104a.4rouwanda-shop.store/live/1515000000/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL 
 https://zubayerop.short.gy/MON-V-MCI.m3u8
