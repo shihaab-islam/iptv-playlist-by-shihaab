@@ -263,6 +263,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbnwYYHbFpyMaljNg7bBg8xX7V2HSyzpwOw8T2mdOMMZyWntyXt2eIEw&s=10",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg", Goldmines
+https://tvsen6.aynaott.com/Goldmines/index.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo=":https://i.playboard.app/p/BMAiZnOGPMbMXWFW-lYwgp1-qJD6iPbBtB6YS3Kyr9lPM1jlegCl83vHjyasFEjPJrBYAsaeLQ/default.jpg", Goldmines Bollywood
+https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
+
+
+
+
+
 
 
 
