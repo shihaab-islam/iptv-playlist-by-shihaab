@@ -137,14 +137,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha SD
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (1)
-http://172.22.254.40:8088/301/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla FHD
+http://103.179.25.147:8181/zeeBangla/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (2)
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (1)
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (3)
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (2)
 http://103.175.242.10:8080/zeebangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla SD
@@ -208,13 +207,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png",Zee TV HD
-http://app.hughag.store/api/526bde04a5/playlist.m3u8
+http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-https://dish.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+http://103.179.25.147:8181/sony_set/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
-https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+http://103.179.25.147:8181/Sony_sab_hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/colorshd.png",Colors HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
@@ -244,7 +243,7 @@ http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 http://103.179.25.147:8181/Sony_max_hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjcltHO7rPxe4UJuyUv34ntowOGApKbaM4-9q1RW0ZSdvA3L4GBZvUSWC&s=10",Sony Max 2
-https://dish.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+http://103.179.25.147:8181/sony_max2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
@@ -253,7 +252,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png",& Pictures 
-http://app.hughag.store/api/e4b503da70/playlist.m3u8
+http://103.179.25.147:8181/anandatv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A0Vd31lmefn_He1-PXLcN2OqNR_O-WjxGOoXpDLdrDykL4H-qYJz5Ysp&s=10",B4U Movies
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
@@ -517,16 +516,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
 http://175.107.244.52:4456/play/a04p/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
-https://dish.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+http://103.179.25.147:8181/sony1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-https://ottbanglacdn.konikah799.workers.dev/api/45dc1e0f41/chunks/76ae489e05c8e55e2537cd47c1da47f7aa93fc78e0ece8aaf19148e83f79619e74f2aaba60f0120f4dc6c40816f71df17a8bb0356b0cec88bda8fc1e5167b4953c6470e951b172b931b3635a555ce36e0b8b6fac74d6073a1ea7eac63cd7f62bcfed388527f5ad2a4fc824a46a074130.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-4-HD.jpg",Sony Sports 3 HD
-https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-4-HD.jpg",Sony Sports 4 HD
-https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+http://103.179.25.147:8181/sony2/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
 http://103.175.242.10:8080/sonyten5/index.m3u8
@@ -575,6 +568,12 @@ http://het104a.4rouwanda-shop.store/live/9787488847/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10",beIN SPORTS 5
 http://het104a.4rouwanda-shop.store/live/610303030/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfWBwhIKggf1fbhj0CjYyoQSgeWTWlEze8ZXhdFSH-A&s=10",beIN SPORTS 6
+https://sg-ch.networkerror404.top/b6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7ZU1tY3ou8GotDUjbVh1S9TevX8zcc9DXPsPmXapQA&s=10",beIN SPORTS 9
+https://sg-ch.networkerror404.top/b9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",beIN SPORTS XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
