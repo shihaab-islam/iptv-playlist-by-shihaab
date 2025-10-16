@@ -131,11 +131,18 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha FHD
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha FHD 
 https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD (1)
+https://xfireflix.fun/file/opplex/stream.m3u8?id=245898&e=.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD (2)
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla FHD
+https://xfireflix.fun/file/opplex/stream.m3u8?id=245893&e=.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD
 http://172.22.254.40:8088/301/tracks-v1a1/mono.m3u8
@@ -153,25 +160,25 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250",Sun Bangla HD
-https://tiger-hub.vercel.app/Sun-bangla/tracks-v1a1/mono.ts.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=245906&e=.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250",Sun Bangla SD
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath
-https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=245989&e=.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
-https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=245900&e=.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=245897&e=.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/06/Colors_Bangla_Cinema_logo_%282023-2024%29.png/revision/latest?cb=20230731045433",Colors Bangla Cinema
 https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
-https://live.dinesh29.com.np/stream/jiotv/sangeetbangla/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=245933&e=.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
@@ -198,16 +205,16 @@ https://live.dinesh29.com.np/stream/jiotvplus/taratv/master.m3u8
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus HD
-https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=66208&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus SD
-http://51.15.7.9:3141/starplus/index.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=221252&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png",Zee TV HD
-http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
+https://xfireflix.fun/file/opplex/stream.m3u8?id=66163&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=66164&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
 https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
