@@ -217,46 +217,46 @@ https://xfireflix.fun/file/opplex/stream.m3u8?id=66163&e=.m3u8
 https://xfireflix.fun/file/opplex/stream.m3u8?id=66164&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
-https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=66174&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/colorshd.png",Colors HD
-https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=109947&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/%26TV_HD_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250608085702",& TV HD
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/rishtey.png",Rishtey
-https://live.dinesh29.com.np/stream/jiotvplus/Rishtey/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=66188&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=109959&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest/scale-to-width-down/200?cb=20211216004428",Star Gold Thrills
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=221258&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
-https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=109951&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",Star Gold Select HD
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=109960&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_list/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png",Zee Cinema HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD
-http://103.179.25.147:8181/Sony_max_hd/tracks-v1a1/mono.ts.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=109957&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjcltHO7rPxe4UJuyUv34ntowOGApKbaM4-9q1RW0ZSdvA3L4GBZvUSWC&s=10",Sony Max 2
-http://103.179.25.147:8181/sony_max2/tracks-v1a1/mono.ts.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=66189&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
-https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=206315&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cinelex Bollywood
-https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=112983&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png",& Pictures 
-http://195.181.169.162/AND_PICTURES_HD/index.m3u8?token=test
+https://xfireflix.fun/file/opplex/stream.m3u8?id=66183&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A0Vd31lmefn_He1-PXLcN2OqNR_O-WjxGOoXpDLdrDykL4H-qYJz5Ysp&s=10",B4U Movies
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
@@ -268,10 +268,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg", Goldmines
-https://tvsen6.aynaott.com/Goldmines/index.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=112972&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo=":https://i.playboard.app/p/BMAiZnOGPMbMXWFW-lYwgp1-qJD6iPbBtB6YS3Kyr9lPM1jlegCl83vHjyasFEjPJrBYAsaeLQ/default.jpg", Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=112973&e=.m3u8
 
 
 
@@ -291,10 +291,13 @@ https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaabNL4gYNejrseC89hVWZcHUv-VlniAlcO_BEnmzWU37FMHP2LnpNYHB-&s=10",Aur Life HD
-http://124.109.47.101/hls/stream1.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=167885&e=.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
-https://ottbanglacdn.konikah799.workers.dev/api/4518a8c92f/chunks/f552304ddfeb1579c69bc1c7783a10c1f4e1227392180847eeeb0d8f0d0e07a4f129b74dbc978fd0ccd05361af011a9ffd68a76f8fa7ef899847a20893f6ba9d456f61475a8215aa61632ac9780420dc.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=25981&e=.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://e7.pngegg.com/pngimages/517/623/png-clipart-pakistan-hum-tv-hum-sitaray-television-channel-others-purple-television.png",HUM Sitaray
+https://xfireflix.fun/file/opplex/stream.m3u8?id=25983&e=.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png",ARY Digital
 http://175.107.244.52:4456/play/a051/index.m3u8
