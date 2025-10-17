@@ -341,7 +341,7 @@ https://live.dinesh29.com.np/stream/jiotv/9xm/master.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney India SD
-https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=167551&e=.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney International HD
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
@@ -417,19 +417,20 @@ https://tiger-hub.vercel.app/kids_Zone/Shaun-the-sheep/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=109970&e=.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=66315&e=.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
-https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=355571&e=.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Sony_Pix_logo.svg/1200px-Sony_Pix_logo.svg.png",Sony Pix HD
-https://dish.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=109966&e=.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_list/1170x658withlogo325698699.png",Zee Cafe
-http://app.hughag.store/api/f914787389/playlist.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=66287&e=.m3u8
+
 
 
 
@@ -515,13 +516,13 @@ http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 http://103.175.242.10:8080/starsports1/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png",Star Sports 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=167576&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=109993&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=109994&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png",Euro Sports HD
 https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
