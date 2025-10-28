@@ -133,7 +133,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha FHD 
-https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
+https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1761667345&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=d9bd9464a94cc40f81af97cde76f0ac7
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha HD (1)
 http://172.22.254.40:8088/302/tracks-v1a1/mono.m3u8
