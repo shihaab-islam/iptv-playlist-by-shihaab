@@ -133,7 +133,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha FHD 
-https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1761667345&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=d9bd9464a94cc40f81af97cde76f0ac7
+http://stvlive.net:8080/starjalsha/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha HD (1)
 http://172.22.254.40:8088/302/tracks-v1a1/mono.m3u8
@@ -142,7 +142,7 @@ http://172.22.254.40:8088/302/tracks-v1a1/mono.m3u8
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (1)
-https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1761411161&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=946e9196d88457766608f4657b66695f
+http://103.175.242.10:8080/zeebangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (2)
 http://172.22.254.40:8088/301/tracks-v1a1/mono.m3u8
@@ -169,7 +169,7 @@ http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 http://172.22.254.40:8088/306/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
-http://172.22.254.40:8088/303/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/jalshamovies/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 http://172.22.254.40:8088/305/tracks-v1a1/mono.m3u8
@@ -211,10 +211,10 @@ https://xfireflix.fun/file/opplex/stream.m3u8?id=66208&e=.m3u8
 https://xfireflix.fun/file/opplex/stream.m3u8?id=221252&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png",Zee TV HD
-https://xfireflix.fun/file/opplex/stream.m3u8?id=66163&e=.m3u8
+http://103.175.242.10:8080/zeetv/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1761411702&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=9a829c78ca09a56e8e0a11981bb9c180
+http://stvlive.net:8080/sonyentten/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
 https://xfireflix.fun/file/opplex/stream.m3u8?id=66174&e=.m3u8
@@ -417,7 +417,7 @@ https://tiger-hub.vercel.app/kids_Zone/Shaun-the-sheep/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
-https://xfireflix.fun/file/opplex/stream.m3u8?id=109970&e=.m3u8
+http://stvlive.net:8080/starmovies/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
 https://xfireflix.fun/file/opplex/stream.m3u8?id=66315&e=.m3u8
@@ -513,7 +513,7 @@ http://116.204.149.16/t_sports/index.m3u8
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD (3)
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1761668627&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e82b8471b1d66b87654f2b9dd37ad2b4
+http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports 1 HD 
 http://103.175.242.10:8080/starsports1/index.m3u8
