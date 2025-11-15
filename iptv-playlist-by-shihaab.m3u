@@ -594,25 +594,25 @@ https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 http://176.119.29.7:80/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_2_Australia.png",beIN SPORTS 2
-https://xfireflix.fun/file/opplex/stream.m3u8?id=381331&e=.m3u8
+http://kstv.us:8080/live/carloskiu/4461542986/12553.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/6/6592.1491350506.png",beIN SPORTS 3 
-http://het104a.4rouwanda-shop.store/live/645587700/index.m3u8
+http://kstv.us:8080/live/carloskiu/4461542986/12552.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfXrcxoWmT5dbMHZ5Mz7v0v1jZQzlFNxpjog5XYRUBw&s=10",beIN SPORTS 4
-http://het104a.4rouwanda-shop.store/live/9787488847/index.m3u8
+http://kstv.us:8080/live/carloskiu/4461542986/12551.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10",beIN SPORTS 5
-http://het104a.4rouwanda-shop.store/live/610303030/index.m3u8
+http://kstv.us:8080/live/carloskiu/4461542986/12550.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfWBwhIKggf1fbhj0CjYyoQSgeWTWlEze8ZXhdFSH-A&s=10",beIN SPORTS 6
-https://sg-ch.networkerror404.top/b6/tracks-v1a1/mono.m3u8
+http://kstv.us:8080/live/carloskiu/4461542986/12549.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7ZU1tY3ou8GotDUjbVh1S9TevX8zcc9DXPsPmXapQA&s=10",beIN SPORTS 9
-https://sg-ch.networkerror404.top/b9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7ZU1tY3ou8GotDUjbVh1S9TevX8zcc9DXPsPmXapQA&s=10",beIN SPORTS 7
+http://kstv.us:8080/live/carloskiu/4461542986/12548.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",beIN SPORTS XTRA
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+http://kstv.us:8080/live/carloskiu/4461542986/12546.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://data2.nssmag.com/images/galleries/29117/elclasico-logo-laliga-2021-ft.png",el clásico
 https://bd-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8
