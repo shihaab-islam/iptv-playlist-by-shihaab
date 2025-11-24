@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,ARY-Digital
+http://14.4.4.42:8080/1710/index.m3u8
+#EXTINF:-1 tvg-name="[SP] LIVE SPORTS" tvg-id="101",[SP] LIVE SPORTS
+http://103.151.60.174:5230
+#EXTINF:-1 tvg-name="[SP] T-SPORTS" tvg-id="102",[SP] T-SPORTS
+http://103.151.60.174:5231
+#EXTINF:-1 tvg-name="[SP] T-SPORTS-A" tvg-id="103",[SP] T-SPORTS-A
+http://103.151.60.174:5232
+#EXTINF:-1 tvg-name="[SP] T-SPORTS-B" tvg-id="104",[SP] T-SPORTS-B
+http://103.151.60.174:5221
+#EXTINF:-1 tvg-name="[SP] T-SPORTS-C" tvg-id="105",[SP] T-SPORTS-C
+http://103.151.60.174:5222
+#EXTINF:-1 tvg-name="[SP] GTV" tvg-id="106",[SP] GTV
+http://103.151.60.174:5223
+#EXTINF:-1 tvg-name="[SP] GTV-A" tvg-id="107",[SP] GTV-A
+http://103.151.60.174:5224
+#EXTINF:-1 tvg-name="[SP] GTV-B" tvg-id="108",[SP] GTV-B
+http://103.151.60.174:5225
+#EXTINF:-1 tvg-name="[SP] GTV-C" tvg-id="109",[SP] GTV-C
+http://103.151.60.174:5226
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-1" tvg-id="110", [SP] STAR-SPORTS-1
+http://103.151.60.174:5227
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-1-A" tvg-id="111", [SP] STAR-SPORTS-1-A
+http://103.151.60.174:5228
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-1-B" tvg-id="112", [SP] STAR-SPORTS-1-B
+http://103.151.60.174:5229
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-1-C" tvg-id="113", [SP] STAR-SPORTS-1-C
+http://103.151.60.174:552
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-2" tvg-id="115", [SP] STAR-SPORTS-2
+http://103.151.60.174:553
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-2-A" tvg-id="116", [SP] STAR-SPORTS-2-A
+http://103.151.60.174:554
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-2-B" tvg-id="117", [SP] STAR-SPORTS-2-B
+http://103.151.60.174:555
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-2-C" tvg-id="118", [SP] STAR-SPORTS-2-C
+http://103.151.60.174:556

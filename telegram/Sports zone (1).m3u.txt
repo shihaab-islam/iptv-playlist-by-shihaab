@@ -1,0 +1,78 @@
+Pakistan VS Australia Odi
+https://cdn-bd.televisionbd.com/Fox-sports-501/index.fmp4.m3u8
+Star-Sports-1-HD Pakistan VS Australia Odi
+https://cdn-bd.televisionbd.com/Star-Sports-1-HD/index.fmp4.m3u8
+SKY SPORTS
+http://gcp-dash.ngslbs.com/TVD024/index.mpd
+SKY SPORTS Cricket
+https://fr.globalplay.live/Sports-1/tracks-v1/index.fmp4.m3u8
+Sports 18-HD
+https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
+TnT Sports 2 🇧🇩
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
+T Sports 🇧🇩 HD 1
+https://cdn-bd.televisionbd.com/Tsports-Bd/index.fmp4.m3u8
+T-Sports HD 4
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
+Sports Live 🇧🇩
+https://cdn-bd.televisionbd.com/Willow-HD/index.fmp4.m3u8
+Wild Nature
+https://wildearth-plex.amagi.tv/master.m3u8
+Astro Cricket HD
+https://criccoder.pages.dev/astro.m3u8
+A Sports HD
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+GXR WORLD 🇮🇳
+https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
+Sony Liv Champions League 1
+https://dai.google.com/linear/hls/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
+Sony Liv Champions League 2
+https://dai.google.com/linear/hls/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+RTA Sports HD 🔗🏏
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+PTV Sports 🏏
+http://125.209.88.166:45793/BRN/PTVSports.stream/chunklist_w220167345.m3u8
+PTV Sports HD
+https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
+Astro Cricket HD
+https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
+Ten Sports HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+MATCHPRFN
+https://m2tsxp2xerl.a.trbcdn.net/MATCHPRFN/index.m3u8
+Sky-Sports-Football
+https://cdn-bd.televisionbd.com/Sky-Sports-Football/index.fmp4.m3u8
+Setanta 1_La_Liga
+https://rzkgtzlsvbb.a.trbcdn.net/Setanta1_La_Liga/index.m3u8
+SETANTA SPORT B
+https://rzkgtzlsvbb.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
+Live Sports Football Laliga
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
+BeiN Sports 1
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+BeIN Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+Live Sports Football
+https://hw1.jemtv.com/app/tv85/chunks.m3u8
+TYC Sports Play
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+Sport italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+Sport Italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+VTC 1 HD 🏆
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+ESPN 1
+https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
+ESPN 2
+https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
+ESPN 3
+https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
+ESPN 4
+https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
+ESPN 5
+https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
+ESPN 6
+https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
