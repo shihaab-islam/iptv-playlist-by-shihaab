@@ -351,7 +351,7 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 http://66.102.120.18:8000/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",Hungama
-https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
+http://bazario.space/token/stream.php?id=150480&token=SLkMxoB9LbFTyLUEOaX7GrUilH5rcTwL
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png",Super Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
