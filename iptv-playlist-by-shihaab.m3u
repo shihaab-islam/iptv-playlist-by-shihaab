@@ -152,7 +152,7 @@ http://172.22.254.40:8088/301/tracks-v1a1/mono.m3u8
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla SD
-https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
+http://103.179.25.147:8181/zeeBangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla FHD
 http://172.22.254.40:8088/304/tracks-v1a1/mono.m3u8
@@ -523,10 +523,10 @@ http://66.102.120.18:8000/play/a009/index.m3u8
 https://xfireflx.fun/file/opplex/stream.m3u8?id=167576&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1 HD
-http://116.90.120.149:8000/play/a0cl/index.m3u8
+http://103.179.25.147:8181/Starspselect/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select 2 HD
-https://xfireflx.fun/file/opplex/stream.m3u8?id=109994&e=.m3u8
+https://xfieflx.fun/file/opplex/stream.m3u8?id=109994&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png",Euro Sports HD
 https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
@@ -535,13 +535,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
 http://175.107.244.52:4456/play/a04p/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
-http://103.175.242.10:8080/sonyten1/index.m3u8
+http://103.179.25.147:8181/sony1/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-http://103.175.242.10:8080/sonyten2/index.m3u8
+http://103.179.25.147:8181/sony_2/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-http://66.102.120.18:8000/play/a010/index.m3u8
+http://103.179.25.147:8181/sony5/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png",Willow HD 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
@@ -580,7 +580,7 @@ https://world-proxifier.xyz/daddylive_go/p/AA7CSZIBGQ5CEMJBNMBWQELHPAKBUGQQAZRQ/
 https://world-proxifier.xyz/daddylive_go/p/AA7CSZIBGQ5CEMJBNMBTMXSGKFKVYXAQMUMHK6TPOJ3WA/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/tnt-sports-1-uk.png",TNT Sports 1 
-https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
+http://103.179.25.147:8181/tnt1/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/tnt-sports-2-uk.png",TNT Sports 2 
 https://tiger-hub.vercel.app/TNT-Sports_2/tracks-v1a1/mono.m3u8
@@ -618,11 +618,5 @@ http://kstv.us:8080/live/carloskiu/4461542986/12546.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://data2.nssmag.com/images/galleries/29117/elclasico-logo-laliga-2021-ft.png",el clásico
 https://bd-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Club Brugge VS Barcelona 
-https://zubayerop.short.gy/BRU-V-BAR.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Manchester City VS Dortmund 
-https://zubayerop.short.gy/MCI-V-DOR.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Bangladesh VS India
-https://zubayerop.short.gy/BAN-V-IND.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Barcelona VS Chelsea 
+https://zubayerop.short.gy/BAR-V-CHE.m3u8
