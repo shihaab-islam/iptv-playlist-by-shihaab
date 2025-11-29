@@ -620,3 +620,6 @@ https://bd-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfree
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Barcelona VS Chelsea 
 https://zubayerop.short.gy/BAR-V-CHE-ENG.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.aptoide.com/imgs/1/6/0/1600fc18ab2b5109bfe2cb72fb7af2f5_fgraphic.png",Tapmad BD VS IRE
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad25879-ENC-300/master.m3u8
