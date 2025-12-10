@@ -618,8 +618,8 @@ http://kstv.us:8080/live/carloskiu/4461542986/12546.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://data2.nssmag.com/images/galleries/29117/elclasico-logo-laliga-2021-ft.png",el clásico
 https://bd-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL Barcelona VS Chelsea 
-https://zubayerop.short.gy/BAR-V-CHE-ENG.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL RMA VS MCI
+https://game24x.short.gy/hex-index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.aptoide.com/imgs/1/6/0/1600fc18ab2b5109bfe2cb72fb7af2f5_fgraphic.png",Tapmad BD VS IRE
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad25879-ENC-300/master.m3u8
