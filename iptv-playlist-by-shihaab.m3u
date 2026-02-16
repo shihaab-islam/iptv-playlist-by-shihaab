@@ -351,7 +351,7 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 http://66.102.120.18:8000/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",Hungama
-http://bazario.space/token/stream.php?id=150480&token=SLkMxoB9LbFTyLUEOaX7GrUilH5rcTwL
+http://103.144.89.251:8082/HUNGAMA/index.m3u8?token=0d338c917763ee039b71128ac8d8e5697db91159-c0d48539a210ccb7bc22877f10734b49-1771265760-1771254960&remote=no_check_ip
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png",Super Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
@@ -360,16 +360,16 @@ https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
-http://66.102.120.18:8000/play/a017/index.m3u8
+http://103.144.89.251:8082/CARTON.NETWORK.HD/index.m3u8?token=827724aa09fb584c7c61e1f24714a1816b1ee623-788a449e293b1a430b70c78b85cb4d60-1771266017-1771255217&remote=no_check_ip
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png",Sonic
 https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick
-https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
+http://103.144.89.251:8082/NICK/index.m3u8?token=4eb7fc882ef366f6f49ca99ca23f02016a8fb011-9065541682129c8311eef3c64dc433fa-1771265907-1771255107&remote=no_check_ip
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
-https://live.dinesh29.com.np/stream/jiotvplus/nickhd+/master.m3u8
+http://103.144.89.251:8082/NICK.JR/index.m3u8?token=14a2f3a2718ecfea0cf5d9445fa34e25261a613e-fa657e79c630d7293ee714e01f32dcd2-1771265936-1771255136&remote=no_check_ip
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/discoverykids2.png",Discovery Kids Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/discoverykids2/master.m3u8
@@ -387,7 +387,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Pogo
-http://app.hughag.store/api/d2586d604e/playlist.m3u8
+http://103.144.89.251:8082/POGO/index.m3u8?token=ae5c61af08d6d8266e8b6c1a4f8ec0dc49fab1c2-ae35419deb79d38e0c63cc15db824aac-1771265971-1771255171&remote=no_check_ip
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfMvfyMumyUY2_D5Hw4GUUL4Vaax_3F65G_2SMtyj8tfnhiFBwmLBW7-p&s=10",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
