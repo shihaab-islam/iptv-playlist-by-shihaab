@@ -508,7 +508,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD (1)
-http://51.83.129.17/tsports/index.m3u8
+http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=236db503c92d07109269920fcc5fb510c7694f30-333a282e8ea29c4e8167b7e53d1870e1-1771262294-1771251494&remote=no_check_ip
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD (2)
 http://172.22.254.40:8088/102/index.m3u8
@@ -517,31 +517,31 @@ http://172.22.254.40:8088/102/index.m3u8
 https://padmaonline.duckdns.org:8088/T-Sport/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports 1 HD 
-http://66.102.120.18:8000/play/a009/index.m3u8
+http://103.144.89.251:8082/STAR.SPORTS1.HD/index.m3u8?token=1dd82c59dc9093950fe18064a4edae5ca07dac70-07db7d6bc7ae58c0876a3ece530d84ca-1771262565-1771251765&remote=no_check_ip
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png",Star Sports 2 HD
-https://xfireflx.fun/file/opplex/stream.m3u8?id=167576&e=.m3u8
+http://172.22.254.40:8088/115/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1 HD
-http://103.179.25.147:8181/Starspselect/index.m3u8
+http://103.144.89.251:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=1733e8448a19853ac4e4794d1084757cd085e9b6-6a57e3dbabfbf5a463bf020f7b69a7cb-1771262714-1771251914&remote=no_check_ip
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select 2 HD
-https://xfieflx.fun/file/opplex/stream.m3u8?id=109994&e=.m3u8
+http://172.22.254.40:8088/124/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png",Euro Sports HD
-https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
+http://103.144.89.251:8082/EUROSPORTS.HD/index.m3u8?token=c3f948bc46111f13befb7e4493210e341354dd70-4309fbe47c8c5442632ed5ee464b6683-1771263202-1771252402&remote=no_check_ip
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports HD
-http://175.107.244.52:4456/play/a04p/index.m3u8
+http://172.22.254.40:8088/128/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
-http://103.179.25.147:8181/sony1/index.m3u8
+http://103.144.89.251:8082/SONY.SPORTS.1HD/index.m3u8?token=3e3715fcfca9e8338d3d026ffa3971f36b16e74d-7b235d73f28811f1507ac849b3aa2ce1-1771262980-1771252180&remote=no_check_ip
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-http://103.179.25.147:8181/sony_2/index.m3u8
+http://103.144.89.251:8082/SONY.SPORTS2.HD/index.m3u8?token=c26e6766c5148196355c27d079d9970c04a77723-76a377377dbb144432638b4c17526cd8-1771263052-1771252252&remote=no_check_ip
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-http://103.179.25.147:8181/sony5/index.m3u8
+http://103.144.89.251:8082/SONY-SPORTS.5HD/index.m3u8?token=bcccb3bc6722aab7d36d6a14725e5d20817d0514-78ce85da0e1b9b04ee7c43f828b92722-1771263076-1771252276&remote=no_check_ip
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png",Willow HD 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
@@ -550,7 +550,7 @@ https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
-https://padmaonline.duckdns.org:8088/P-TV-Sports/tracks-v1a1/mono.m3u8
+http://103.144.89.251:8082/PTV-SPORTS-HD/index.m3u8?token=b220f60e23221e78aa208ca082de8e83264af4a4-c3bcd3bb81ec937a84329060f6dea430-1771263167-1771252367&remote=no_check_ip
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1372.m3u8
