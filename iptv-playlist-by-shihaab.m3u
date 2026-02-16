@@ -143,7 +143,7 @@ http://172.22.254.40:8088/302/tracks-v1a1/mono.m3u8
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (1)
-http://103.175.242.10:8080/zeebangla/index.m3u8
+http://103.144.89.251:8082/ZEE.BANGLA.HD/index.m3u8?token=19229335b9f832d9cae0c79a4a2196aad7abdc91-482da4f0849c9f7bed9d932e245bcc4a-1771262100-1771251300&remote=no_check_ip
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (2)
 http://172.22.254.40:8088/301/tracks-v1a1/mono.m3u8
@@ -164,7 +164,7 @@ https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 http://bazario.space/token/stream.php?id=245906&token=SLkMxoB9LbFTyLUEOaX7GrUilH5rcTwL
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250",Sun Bangla SD
-http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+http://103.144.89.251:8082/SUN.BANGLA.HD/index.m3u8?token=71135692d38e8bbd86137350d99fd4ec15703334-c06335192e278e1560e8f6dd261b9aa3-1771262208-1771251408&remote=no_check_ip
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath
 http://172.22.254.40:8088/306/tracks-v1a1/mono.m3u8
