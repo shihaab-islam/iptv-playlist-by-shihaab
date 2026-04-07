@@ -612,6 +612,5 @@ http://kstv.us:8080/live/carloskiu/4461542986/12546.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://data2.nssmag.com/images/galleries/29117/elclasico-logo-laliga-2021-ft.png",el clásico
 https://bd-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL BAR VS NEW
-https://zubayerop.short.gy/BAR-V-NEW.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL RMA VS BAY
+https://hex4y.short.gy/UCL1.m3u8
