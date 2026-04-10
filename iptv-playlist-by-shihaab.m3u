@@ -134,7 +134,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha FHD 
-http://203.18.159.115/STARJALSJAHD/index.m3u8
+http://180.94.28.28:8097/STAR-JALSHA/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha HD (1)
 http://172.22.254.40:8088/302/index.m3u8
@@ -143,7 +143,7 @@ http://172.22.254.40:8088/302/index.m3u8
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (1)
-http://203.18.159.115/ZEEBANGLAHD/index.m3u8
+http://180.94.28.28:8097/ZEE-BANGLA/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (2)
 http://172.22.254.40:8088/301/index.m3u8
@@ -158,7 +158,7 @@ http://172.22.254.40:8088/304/tracks-v1a1/mono.m3u8
 http://203.18.159.115/COLORSBANGLAHD/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250",Sun Bangla HD
-http://203.18.159.115/SUNBANGLAHD/index.m3u8
+http://180.94.28.28:8097/SUN-BANGLA/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250",Sun Bangla SD
 http://103.144.89.251:8082/SUN.BANGLA.HD/index.m3u8?token=71135692d38e8bbd86137350d99fd4ec15703334-c06335192e278e1560e8f6dd261b9aa3-1771262208-1771251408&remote=no_check_ip
@@ -586,13 +586,13 @@ https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/a51gd21603537641.png",beIN SPORTS 1
-http://176.119.29.7:80/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
+http://180.94.28.28:8097/BEIN-SPORTS-1/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_2_Australia.png",beIN SPORTS 2
-http://kstv.us:8080/live/carloskiu/4461542986/12553.m3u8
+http://180.94.28.28:8097/BEIN-SPORTS-2/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/6/6592.1491350506.png",beIN SPORTS 3 
-http://kstv.us:8080/live/carloskiu/4461542986/12552.m3u8
+http://180.94.28.28:8097/BEIN-SPORTS-3/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfXrcxoWmT5dbMHZ5Mz7v0v1jZQzlFNxpjog5XYRUBw&s=10",beIN SPORTS 4
 http://kstv.us:8080/live/carloskiu/4461542986/12551.m3u8
