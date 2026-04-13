@@ -143,13 +143,13 @@ http://172.22.254.40:8088/302/index.m3u8
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (1)
-http://180.94.28.28:8097/ZEE-BANGLA/index.m3u8
+http://103.179.25.147:8181/zeeBangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (2)
 http://172.22.254.40:8088/301/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla SD
-http://103.179.25.147:8181/zeeBangla/index.m3u8
+http://180.94.28.28:8097/ZEE-BANGLA/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla FHD
 http://172.22.254.40:8088/304/tracks-v1a1/mono.m3u8
