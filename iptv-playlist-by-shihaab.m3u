@@ -134,7 +134,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha FHD 
-http://180.94.28.28:8097/STAR-JALSHA/index.m3u8
+http://103.59.176.72:8083/live2/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha HD (1)
 http://172.22.254.40:8088/302/index.m3u8
@@ -158,7 +158,7 @@ http://172.22.254.40:8088/304/tracks-v1a1/mono.m3u8
 http://203.18.159.115/COLORSBANGLAHD/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250",Sun Bangla HD
-http://180.94.28.28:8097/SUN-BANGLA/index.m3u8
+http://103.59.176.72:8083/sun_bangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250",Sun Bangla SD
 http://103.144.89.251:8082/SUN.BANGLA.HD/index.m3u8?token=71135692d38e8bbd86137350d99fd4ec15703334-c06335192e278e1560e8f6dd261b9aa3-1771262208-1771251408&remote=no_check_ip
@@ -167,7 +167,7 @@ http://103.144.89.251:8082/SUN.BANGLA.HD/index.m3u8?token=71135692d38e8bbd861373
 http://172.22.254.40:8088/306/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
-http://203.18.159.115/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
+http://103.59.176.72:8083/live4/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
