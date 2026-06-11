@@ -633,7 +633,10 @@ http://172.22.254.40:8088/101/index.m3u8
 https://himelhimuishere.pages.dev/fwc26.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 TSN
-https://601.thelistener.pk/tsn.m3u8
+https://601.formaturamaxi.com.br/tsn.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 Spanish 
 https://daffodil.formaturamaxi.com.br/tele.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 T Sports 
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8
