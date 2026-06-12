@@ -516,7 +516,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD (1)
-http://198.195.239.50:8095/Tsports/index.m3u8
+http://198.195.239.50:8095/T-spo_rts-hoichoi24/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD (2)
 http://172.22.254.40:8088/102/index.m3u8
@@ -640,3 +640,6 @@ https://daffodil.formaturamaxi.com.br/tele.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 T Sports 
 http://103.151.61.12/T-Sports.kutta/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",T Sports(2) FIFA WC 2026 
+http://198.195.239.50:8095/T-spo_rts-hoichoi24/index.m3u8
