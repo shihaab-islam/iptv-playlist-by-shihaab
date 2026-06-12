@@ -632,14 +632,14 @@ http://172.22.254.40:8088/101/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 Arabic
 https://himelhimuishere.pages.dev/fwc26.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 TSN
-https://601.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 CAZE TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 Spanish 
-https://daffodil.formaturamaxi.com.br/tele.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 PTV
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",FIFA WC 2026 T Sports 
-http://103.151.61.12/T-Sports.kutta/index.m3u8
+http://103.59.176.72:8083/live1/index.m3u8?token=123
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",T Sports(2) FIFA WC 2026 
 http://198.195.239.50:8095/T-spo_rts-hoichoi24/index.m3u8
