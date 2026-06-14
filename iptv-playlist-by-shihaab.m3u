@@ -350,8 +350,8 @@ https://live.dinesh29.com.np/stream/jiotv/9xm/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney India HD
-https://sonamul3535.vercel.app/Disney.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney India SD
+http://ziboplayapp5000.tvhunter.top/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156000&extension=m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney International HD
 http://66.102.120.18:8000/play/a078/index.m3u8
@@ -360,7 +360,7 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 http://66.102.120.18:8000/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",Hungama
-http://103.144.89.251:8082/HUNGAMA/index.m3u8?token=0d338c917763ee039b71128ac8d8e5697db91159-c0d48539a210ccb7bc22877f10734b49-1771265760-1771254960&remote=no_check_ip
+http://ziboplayapp5000.tvhunter.top/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1097664&extension=m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png",Super Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
@@ -375,7 +375,7 @@ http://103.144.89.251:8082/CARTON.NETWORK.HD/index.m3u8?token=827724aa09fb584c7c
 https://sonamul3535.vercel.app/Sonic-Hindi.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick
-https://sonamul3535.vercel.app/Nick-Hindi.m3u8
+http://ziboplayapp5000.tvhunter.top/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1540023&extension=m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
 https://sonamul3535.vercel.app/NickJR.m3u8
@@ -627,8 +627,11 @@ https://bd-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfree
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL
 https://zubayerop.short.gy/PSG-V-ARS-ENG.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png", United8 FIFA WC 2026 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Unite8 FIFA WC 2026 
 http://172.22.254.40:8088/101/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Unite8 Sports FIFA WC 2026 
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Fox FIFA WC 2026 
 https://himelhimuishere.pages.dev/fwc2k26.m3u8
@@ -642,8 +645,17 @@ http://198.195.239.50:8095/ptv/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",T Sports FIFA WC 2026 
 http://198.195.239.50:8095/tsports/index.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",T Sports (2) FIFA WC 2026 
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Somoy TV FIFA WC 2026 
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17812655681020x576.jpg",BD vs AUS TAPMAD
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Bein Max 1 FIFA WC 2026 
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Go Live FIFA WC 2026 
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Tapmad FIFA WC 2026 
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
