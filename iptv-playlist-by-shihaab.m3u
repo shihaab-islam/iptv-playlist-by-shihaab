@@ -627,6 +627,21 @@ https://bd-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfree
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL
 https://zubayerop.short.gy/PSG-V-ARS-ENG.m3u8
 
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/1JT0qJjw/1677040358634-BTVogo.png",BTV FIFA WC 2026
+http://114.130.57.224:8080/Fifa-1/index.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/1JT0qJjw/1677040358634-BTVogo.png",BTV (2) FIFA WC 2026
+http://114.130.57.224:8080/Gazi-TV/index.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/QjfG3sX3/image.png",Somoy TV FIFA WC 2026
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/4gNhVRFm/image.png",T Sports FIFA WC 2026
+http://198.195.239.50:8095/tsports/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/4gNhVRFm/image.png",T Sports (2) FIFA WC 2026
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
+
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/v4S14x8q/image.png",Unite8 Sports FIFA WC 2026
 http://172.22.254.40:8088/101/index.m3u8
 
@@ -635,18 +650,6 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/RkyFR4N5/image.png",Fox FIFA WC 2026
 https://himelhimuishere.pages.dev/fwc2k26.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/PsHLX462/image.png",CAZE TV FIFA WC 2026
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/4gNhVRFm/image.png",T Sports FIFA WC 2026
-http://198.195.239.50:8095/tsports/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/4gNhVRFm/image.png",T Sports (2) FIFA WC 2026
-http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/QjfG3sX3/image.png",Somoy TV FIFA WC 2026
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein Max 1 FIFA WC 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
