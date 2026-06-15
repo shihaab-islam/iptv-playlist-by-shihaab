@@ -657,6 +657,9 @@ http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/WNpWV5B4/image.png",Go Live FIFA WC 2026
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/q3Nsvg1Y/image.png",RTB Go FIFA WC 2026
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/RkyFR4N5/image.png",Fox 4k FIFA WC 2026
 https://nl-081-v1.vivocdn.xyz/1781469796/5a6e835a6d99454ebe2952dd42ce3c4d/1cc3U89F5nDUM_kBLLI1Wp5PZiObO4RCoIf6eYhtvc0/fox4k-usa.m3u8
 
