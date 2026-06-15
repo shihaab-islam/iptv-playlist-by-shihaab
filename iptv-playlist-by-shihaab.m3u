@@ -660,5 +660,17 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Fox 4k FIFA WC 2026 
 https://nl-081-v1.vivocdn.xyz/1781469796/5a6e835a6d99454ebe2952dd42ce3c4d/1cc3U89F5nDUM_kBLLI1Wp5PZiObO4RCoIf6eYhtvc0/fox4k-usa.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png", Fussball FHD FIFA WC 2026 
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/TD6fkDPj/1000284537.png", Fussball FHD (2) FIFA WC 2026 
+http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png", Fussball 4K FIFA WC 2026 
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/C32Rhtff/1000284518.png", Now 4K FIFA WC 2026 
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Tapmad FIFA WC 2026 
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
