@@ -661,7 +661,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/RkyFR4N5/image.png",Fox 4k FIFA WC 2026
-https://nl-081-v1.vivocdn.xyz/1781469796/5a6e835a6d99454ebe2952dd42ce3c4d/1cc3U89F5nDUM_kBLLI1Wp5PZiObO4RCoIf6eYhtvc0/fox4k-usa.m3u8
+https://vixxox.cdx-08191.space/1781647499/1246c4f9576142cea3d8d545df05084f/8FtBtckdOFMoG_5At4lGui2mOneWbzrhrcILkbdChkU/fox4k-usa.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png",Fussball FHD FIFA WC 2026
 http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
@@ -677,3 +677,9 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/9HJwgG3C/image.png",Tapmad FIFA WC 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein 4k FIFA WC 2026
+https://vixxox.cdx-08191.space/1781647547/4c6cbb66680440df834a9e4d247563d2/gaBkqa5ZCn_Ob04pfjzp6kn_eUcU12NajchJj-7zwR8/beinsportsuhd-sa.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein Max 1 FHD FIFA WC 2026
+https://vixxox.cdx-08191.space/1781647648/4edafa71f70c469fae9f079c144b2c3d/POWbS2wvDiBLyJi4bLT6mzQvaWm1yue4-qxSQ6FP8mg/beinsportsmax-sa.m3u8
