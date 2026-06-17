@@ -637,7 +637,7 @@ http://114.130.57.224:8080/Gazi-TV/index.m3u8?token=SkQuhAXZxgBan1
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/4gNhVRFm/image.png",T Sports FIFA WC 2026
-http://198.195.239.50:8095/tsports/index.m3u8
+http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/4gNhVRFm/image.png",T Sports (2) FIFA WC 2026
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
@@ -646,7 +646,11 @@ http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 http://172.22.254.40:8088/101/index.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/v4S14x8q/image.png",Unite8 Sports (2) FIFA WC 2026
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
+https://aponn.vercel.app/us2.m3u8
+#http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
+https://pico.kheladekho.xyz/hls/bdix4/index.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein Max 1 FIFA WC 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
@@ -700,7 +704,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/RkyFR4N5/image.png",Fox 4k FIFA WC 2026
-https://vixxox.cdx-08191.space/1781647499/1246c4f9576142cea3d8d545df05084f/8FtBtckdOFMoG_5At4lGui2mOneWbzrhrcILkbdChkU/fox4k-usa.m3u8
+https://vixvind.cdx-08191.space/1781721511/6c3ae98bf56c485596d7eb149bbca6cd/-ZhULOoUdb7ZbjHXqYKL0ufQEMxaVbahdZreHy7ou5A/fox4k-usa.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein 4k FIFA WC 2026
 https://vixxox.cdx-08191.space/1781647547/4c6cbb66680440df834a9e4d247563d2/gaBkqa5ZCn_Ob04pfjzp6kn_eUcU12NajchJj-7zwR8/beinsportsuhd-sa.m3u8
