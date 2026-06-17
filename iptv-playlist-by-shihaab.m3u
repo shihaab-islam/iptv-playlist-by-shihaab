@@ -648,11 +648,38 @@ http://172.22.254.40:8088/101/index.m3u8
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/v4S14x8q/image.png",Unite8 Sports (2) FIFA WC 2026
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/RkyFR4N5/image.png",Fox FIFA WC 2026
-https://himelhimuishere.pages.dev/fwc2k26.m3u8
-
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein Max 1 FIFA WC 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/39wrNqbf/image.png",ITV FIFA WC 2026
+https://streamxyz.shop/ITV/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/DfzTqm05/image.png",TSN 1 FIFA WC 2026
+https://streamxyz.shop/tsn1/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/QFzfzrg6/image.png",beIN Sports FIFA WC 2026
+https://streamxyz.shop/bein/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/TBRmKsxp/image.png",RTÉ FIFA WC 2026
+https://streamxyz.shop/rte/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/mrJhY6pr/image.png",SBS FIFA WC 2026
+https://streamxyz.shop/sbs/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/VYn0nVSN/image.png",FOX FIFA WC 2026
+https://streamxyz.shop/FOX/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/xSzj4V7z/image.png",FS1 FIFA WC 2026
+https://streamxyz.shop/FS1/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/YmmMRXq/image.png",BBC FIFA WC 2026
+https://streamxyz.shop/BBC/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/SX1NCCdn/image.png",Telemundo FIFA WC 2026
+https://streamxyz.shop/Telemundo/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/d4XfFQCk/image.png",DSports FIFA WC 2026
+https://streamxyz.shop/dsports1arg/index.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/WNpWV5B4/image.png",Go Live FIFA WC 2026
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
@@ -660,13 +687,10 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/q3Nsvg1Y/image.png",RTB Go FIFA WC 2026
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/RkyFR4N5/image.png",Fox 4k FIFA WC 2026
-https://vixxox.cdx-08191.space/1781647499/1246c4f9576142cea3d8d545df05084f/8FtBtckdOFMoG_5At4lGui2mOneWbzrhrcILkbdChkU/fox4k-usa.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png",Fussball FHD FIFA WC 2026
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png",Fussball 1 FHD FIFA WC 2026
 http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/TD6fkDPj/1000284537.png",Fussball FHD (2) FIFA WC 2026
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/TD6fkDPj/1000284537.png",Fussball 2 FHD FIFA WC 2026
 http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png",Fussball 4K FIFA WC 2026
@@ -675,8 +699,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/C32Rhtff/1000284518.png",Now 4K FIFA WC 2026
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/9HJwgG3C/image.png",Tapmad FIFA WC 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/RkyFR4N5/image.png",Fox 4k FIFA WC 2026
+https://vixxox.cdx-08191.space/1781647499/1246c4f9576142cea3d8d545df05084f/8FtBtckdOFMoG_5At4lGui2mOneWbzrhrcILkbdChkU/fox4k-usa.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein 4k FIFA WC 2026
 https://vixxox.cdx-08191.space/1781647547/4c6cbb66680440df834a9e4d247563d2/gaBkqa5ZCn_Ob04pfjzp6kn_eUcU12NajchJj-7zwR8/beinsportsuhd-sa.m3u8
