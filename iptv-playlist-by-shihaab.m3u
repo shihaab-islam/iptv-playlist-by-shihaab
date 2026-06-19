@@ -726,3 +726,9 @@ https://cdn-tt.pages.dev/ch4.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/Jj1NcVvd/image.png",Toffee 5 FIFA WC 2026
 https://cdn-tt.pages.dev/ch5.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
+https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://www.cricuspl.com/wp-content/uploads/2024/11/FanCode-Logo-2022_FanCode-OrangeOnTransarent.png",Fancode
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australia_vs_bangladesh_142969_english.m3u8
