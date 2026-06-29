@@ -630,7 +630,7 @@ https://zubayerop.short.gy/PSG-V-ARS-ENG.m3u8
 http://198.195.239.50:8095/btv/index.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/1JT0qJjw/1677040358634-BTVogo.png",BTV (2) FIFA WC 2026
-http://198.195.239.50:8095/Fifa-1/index.m3u8
+http://114.130.57.233:8080/BTV/index.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/QjfG3sX3/image.png",Somoy TV FIFA WC 2026
 http://198.195.239.50:8095/somoyTv/index.m3u8
