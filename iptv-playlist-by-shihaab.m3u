@@ -644,20 +644,23 @@ http://172.22.254.40:8088/101/index.m3u8
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/v4S14x8q/image.png",Unite8 (2) Sports FIFA WC 2026
 http://198.195.239.50:8095/unt-s/index.m3u8
 
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/v4S14x8q/image.png",Unite8 (3) Sports FIFA WC 2026
+http://114.130.57.233:8080/unitedsports-bdixbd.net/index.m3u8?token=SkQuhAXZxgBan1
+
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
 http://198.195.239.50:8095/ptv/index.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/DfzTqm05/image.png",TSN 1 FIFA WC 2026
-https://nhjjhhjhjjhfjj.pages.dev/1782612460/be15719f4f264d398401c4678d7423b8/GGFMgH0ujDUJVzQGC7xuUOVH6K-SNwSFIWMxIxrTzJ0/tsn1-ca.m3u8
+https://cdn011.viaplus.site/tsn1-xyz.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/VYn0nVSN/image.png",FOX FIFA WC 2026
-https://nhjjhhjhjjhfjj.pages.dev/1782612315/5177520eadd74a43ac207e63e3defe8a/x2z33KQVd6OfCBTSpdEKT9E8L7XzWyoVubxjvolun7o/fox-usa.m3u8
+https://cdn011.viaplus.site/fox-xyz.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/xSzj4V7z/image.png",FS1 FIFA WC 2026
-https://streamxyz.shop/FS1/index.m3u8
+https://cdn011.viaplus.site/itv-xyz.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein Max FHD FIFA WC 2026
-https://nhjjhhjhjjhfjj.pages.dev/1782612411/f77ddc6aeeef471a921a4e40b5cbe3fe/iswe5v7dmaq9n0Cn4oovj1HMPhRCXkoG-x6EZdphT4E/beinsportsmax3-sa.m3u8
+https://cdn011.viaplus.site/beinsportsmax-sa.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/C32Rhtff/1000284518.png",Now 4K FIFA WC 2026
 https://vildid.hundredmilesperhour.uk/1782418393/5eaa4e85aebe489cb644f338ebba107a/cyojPc3sDZrJUiO32bp2IAHWbUYj4wKbBfxein7ZaCs/fox4k-usa.m3u8
@@ -666,7 +669,7 @@ https://vildid.hundredmilesperhour.uk/1782418393/5eaa4e85aebe489cb644f338ebba107
 https://nhjjhhjhjjhfjj.pages.dev/1782612432/b79f0d3ac794443886e1798632f752ce/xta9twd7KOexoKxk1uwZ7j5EETFDEv-6QCT7HrmCpmY/fusballtv1uhd-de.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/RkyFR4N5/image.png",Fox 4k FIFA WC 2026
-https://nhjjhhjhjjhfjj.pages.dev/1782612365/cf174a6ea0e6475f8748359397042929/55CinUns-qd2tyHLq3cg6GV8aWcI_iQpo1LSXZk4CJg/fox4k-usa.m3u8
+https://cdn011.viaplus.site/fox4k-xyz.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein 4k FIFA WC 2026
 x.m3u8
