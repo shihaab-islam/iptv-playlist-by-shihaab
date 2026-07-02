@@ -688,3 +688,6 @@ https://cdn-tt.pages.dev/ch4.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/Jj1NcVvd/image.png",Toffee 5 FIFA WC 2026
 https://cdn-tt.pages.dev/ch5.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/b5MPR28w/channels4-profile.jpg",Iscreen FIFA WC 2026
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/
