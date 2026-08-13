@@ -146,10 +146,10 @@ https://tyr.zibobdixserver.top/hls/StarJalshaHD.m3u8
 http://172.22.254.40:8088/302/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha HD (2)
-https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
+http://103.165.93.31:8095/starJalsha/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (1)
-http://103.179.25.147:8181/zeeBangla/index.m3u8
+http://103.165.93.31:8095/zeeBangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (2)
 http://172.22.254.40:8088/301/index.m3u8
@@ -165,7 +165,7 @@ https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
 http://172.22.254.40:8088/304/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD 
-https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
+http://103.165.93.31:8095/colorsBangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250",Sun Bangla HD
 http://27.124.71.27/Sun_Bangla/index.m3u8
@@ -177,31 +177,25 @@ http://103.144.89.251:8082/SUN.BANGLA.HD/index.m3u8?token=71135692d38e8bbd861373
 http://172.22.254.40:8088/306/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
-http://103.59.176.72:8083/live4/index.m3u8
+http://103.165.93.31:8095/jalshaMovies/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/06/Colors_Bangla_Cinema_logo_%282023-2024%29.png/revision/latest?cb=20230731045433",Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8
+http://103.165.93.31:8095/colorsBanglaChinema/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
-https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+http://103.165.93.31:8095/sangeetBangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/abpananda.png",ABP Ananda
-https://live.dinesh29.com.np/stream/jiotv/abpananda/master.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhXal2hIMCw5WoB09VV4pobahnbUVBoblj6DEiRaA75rwhcKaRAq8HVIk&s=10",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7d/Tara_TV_logo_%282013%29.png/revision/latest?cb=20210426094603",Tara TV
-https://live.dinesh29.com.np/stream/jiotvplus/taratv/master.m3u8
 
 
 
