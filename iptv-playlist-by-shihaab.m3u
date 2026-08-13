@@ -180,7 +180,7 @@ http://172.22.254.40:8088/306/index.m3u8
 http://103.165.93.31:8095/jalshaMovies/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/06/Colors_Bangla_Cinema_logo_%282023-2024%29.png/revision/latest?cb=20230731045433",Colors Bangla Cinema
 http://103.165.93.31:8095/colorsBanglaChinema/index.m3u8
@@ -609,7 +609,7 @@ http://kstv.us:8080/live/carloskiu/4461542986/12548.m3u8
 http://kstv.us:8080/live/carloskiu/4461542986/12546.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
-https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://www.cricuspl.com/wp-content/uploads/2024/11/FanCode-Logo-2022_FanCode-OrangeOnTransarent.png",Fancode
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australia_vs_bangladesh_142969_english.m3u8
@@ -619,76 +619,3 @@ https://bd-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfree
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL
 https://zubayerop.short.gy/PSG-V-ARS-ENG.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/1JT0qJjw/1677040358634-BTVogo.png",BTV FIFA WC 2026
-http://198.195.239.50:8095/btv/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/1JT0qJjw/1677040358634-BTVogo.png",BTV (2) FIFA WC 2026
-http://114.130.57.233:8080/BTV/index.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/QjfG3sX3/image.png",Somoy TV FIFA WC 2026
-http://198.195.239.50:8095/somoyTv/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/4gNhVRFm/image.png",T Sports FIFA WC 2026
-http://172.22.254.40:8088/102/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/v4S14x8q/image.png",Unite8 (1) Sports FIFA WC 2026
-http://172.22.254.40:8088/101/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/v4S14x8q/image.png",Unite8 (2) Sports FIFA WC 2026
-http://198.195.239.50:8095/unt-s/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/v4S14x8q/image.png",Unite8 (3) Sports FIFA WC 2026
-http://114.130.57.233:8080/unitedsports-bdixbd.net/index.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
-http://198.195.239.50:8095/ptv/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/DfzTqm05/image.png",TSN 1 FIFA WC 2026
-https://inproviszon.st/fox-usa.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/VYn0nVSN/image.png",FOX FIFA WC 2026
-https://cdn011.viaplus.site/fox-xyz.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/xSzj4V7z/image.png",FS1 FIFA WC 2026
-https://cdn011.viaplus.site/itv-xyz.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein Max FHD FIFA WC 2026
-https://cdn011.viaplus.site/beinsportsmax-sa.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/C32Rhtff/1000284518.png",Now 4K FIFA WC 2026
-https://inproviszon.st/fox4k-usa.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co/TD6fkDPj/1000284537.png",Fussball FIFA WC 2026
-https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/RkyFR4N5/image.png",Fox 4k FIFA WC 2026
-https://cdn011.viaplus.site/fox4k-xyz.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/zW4b0hVw/image.png",Bein 4k FIFA WC 2026
-x.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/Jj1NcVvd/image.png",Toffee 1 FIFA WC 2026
-https://cdn-tt.pages.dev/ch1.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/Jj1NcVvd/image.png",Toffee 2 FIFA WC 2026
-https://cdn-tt.pages.dev/ch2.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/Jj1NcVvd/image.png",Toffee 3 FIFA WC 2026
-https://cdn-tt.pages.dev/ch3.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/Jj1NcVvd/image.png",Toffee 4 FIFA WC 2026
-https://cdn-tt.pages.dev/ch4.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/Jj1NcVvd/image.png",Toffee 5 FIFA WC 2026
-https://cdn-tt.pages.dev/ch5.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.ibb.co.com/b5MPR28w/channels4-profile.jpg",Iscreen FIFA WC 2026
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/
-
-#EXTINF:-1 tvg-logo="" group-title="Football",France vs Morocco
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd
