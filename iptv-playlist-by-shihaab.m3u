@@ -609,7 +609,7 @@ http://kstv.us:8080/live/carloskiu/4461542986/12548.m3u8
 http://kstv.us:8080/live/carloskiu/4461542986/12546.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://www.cricuspl.com/wp-content/uploads/2024/11/FanCode-Logo-2022_FanCode-OrangeOnTransarent.png",Fancode
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australia_vs_bangladesh_142969_english.m3u8
