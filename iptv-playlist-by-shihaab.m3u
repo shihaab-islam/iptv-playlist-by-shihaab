@@ -608,14 +608,14 @@ http://kstv.us:8080/live/carloskiu/4461542986/12548.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",beIN SPORTS XTRA
 http://kstv.us:8080/live/carloskiu/4461542986/12546.m3u8
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://www.cricuspl.com/wp-content/uploads/2024/11/FanCode-Logo-2022_FanCode-OrangeOnTransarent.png",Fancode
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australia_vs_bangladesh_142969_english.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://data2.nssmag.com/images/galleries/29117/elclasico-logo-laliga-2021-ft.png",el clásico
 https://bd-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV UCL
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://www.cricuspl.com/wp-content/uploads/2024/11/FanCode-Logo-2022_FanCode-OrangeOnTransarent.png",Fancode
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony LIV
 https://zubayerop.short.gy/BAR-V-FEY.m3u8
