@@ -152,11 +152,11 @@ http://103.165.93.31:8095/starJalsha/index.m3u8
 http://103.165.93.31:8095/zeeBangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (2)
-http://172.22.254.40:8088/301/index.m3u8
+https://tv4.udiqipuw544.workers.dev/cdn/live/zee_bangla/playlist.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla HD (3)
-http://198.195.239.50:8095/zeeBangla/index.m3u8
-#https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+#http://198.195.239.50:8095/zeeBangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125",Zee Bangla SD
 https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
